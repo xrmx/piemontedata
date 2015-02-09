@@ -1,0 +1,773 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-02-09T11:46:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/563313694",
+      "properties": {
+        "@id": "node/563313694",
+        "amenity": "theatre",
+        "@timestamp": "2009-11-13T23:03:26Z",
+        "@version": "1",
+        "@changeset": "3109370",
+        "@user": "luca lanteri",
+        "@uid": "196796"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7797938,
+          44.9692709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/596529626",
+      "properties": {
+        "@id": "node/596529626",
+        "amenity": "theatre",
+        "name": "Teatro Colosseo",
+        "wikipedia": "it:Teatro Colosseo",
+        "@timestamp": "2014-02-27T11:49:25Z",
+        "@version": "3",
+        "@changeset": "20807373",
+        "@user": "Simone Saviolo",
+        "@uid": "169211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6793195,
+          45.0523335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/617636768",
+      "properties": {
+        "@id": "node/617636768",
+        "amenity": "theatre",
+        "@timestamp": "2010-01-21T13:37:29Z",
+        "@version": "1",
+        "@changeset": "3674611",
+        "@user": "mchinosi",
+        "@uid": "222398"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.634257,
+          45.5976268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/617849850",
+      "properties": {
+        "@id": "node/617849850",
+        "amenity": "theatre",
+        "historic": "yes",
+        "name": "Teatro Carignano",
+        "wheelchair": "yes",
+        "wikipedia": "it:Teatro Carignano",
+        "@timestamp": "2014-12-03T22:47:38Z",
+        "@version": "5",
+        "@changeset": "27211112",
+        "@user": "Marco_T",
+        "@uid": "1227619"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6846704,
+          45.0693023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/920720793",
+      "properties": {
+        "@id": "node/920720793",
+        "amenity": "theatre",
+        "name": "Teatro Sandro Pertini",
+        "@timestamp": "2010-09-21T20:52:16Z",
+        "@version": "1",
+        "@changeset": "5840821",
+        "@user": "Ken Hayabusa",
+        "@uid": "153293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5375058,
+          45.0081428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1145909839",
+      "properties": {
+        "@id": "node/1145909839",
+        "amenity": "theatre",
+        "name": "Tensostruttura Beato Giovanni Paolo II",
+        "@timestamp": "2014-07-16T18:47:04Z",
+        "@version": "3",
+        "@changeset": "24187419",
+        "@user": "ercolinux",
+        "@uid": "55941"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7014818,
+          45.1486688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1181457290",
+      "properties": {
+        "@id": "node/1181457290",
+        "amenity": "theatre",
+        "name": "Alfa Teatro",
+        "@timestamp": "2011-03-01T22:01:36Z",
+        "@version": "1",
+        "@changeset": "7433634",
+        "@user": "mauro_t",
+        "@uid": "790"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7137464,
+          45.0668625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1277563108",
+      "properties": {
+        "@id": "node/1277563108",
+        "amenity": "theatre",
+        "name": "Auditorium Giovan Battista Viotti",
+        "@timestamp": "2013-09-16T11:26:11Z",
+        "@version": "2",
+        "@changeset": "17866099",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1923092,
+          45.1942357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1333685550",
+      "properties": {
+        "@id": "node/1333685550",
+        "amenity": "theatre",
+        "name": "teatro comunale",
+        "@timestamp": "2011-06-21T15:01:39Z",
+        "@version": "1",
+        "@changeset": "8505208",
+        "@user": "zioluc",
+        "@uid": "350096"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6110927,
+          44.908084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1414937199",
+      "properties": {
+        "@id": "node/1414937199",
+        "amenity": "theatre",
+        "@timestamp": "2011-08-27T16:11:36Z",
+        "@version": "1",
+        "@changeset": "9139049",
+        "@user": "matteomangiagalli",
+        "@uid": "512936"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6979685,
+          46.0617759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1482170191",
+      "properties": {
+        "@id": "node/1482170191",
+        "amenity": "theatre",
+        "@timestamp": "2011-10-27T10:00:56Z",
+        "@version": "2",
+        "@changeset": "9666474",
+        "@user": "Gianpiero Oliva",
+        "@uid": "535765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5565477,
+          44.6242124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1516384862",
+      "properties": {
+        "@id": "node/1516384862",
+        "amenity": "theatre",
+        "name": "Teatro F. Garelli",
+        "@timestamp": "2011-11-25T12:50:24Z",
+        "@version": "1",
+        "@changeset": "9943912",
+        "@user": "cervuz88",
+        "@uid": "559430"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7622627,
+          44.3447054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1639017566",
+      "properties": {
+        "@id": "node/1639017566",
+        "amenity": "theatre",
+        "name": "Cineteatro Sociale",
+        "@timestamp": "2012-02-19T12:56:37Z",
+        "@version": "1",
+        "@changeset": "10729653",
+        "@user": "sbrublu",
+        "@uid": "586732"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6444927,
+          45.013223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1680908886",
+      "properties": {
+        "@id": "node/1680908886",
+        "amenity": "theatre",
+        "name": "Teatro Comunale SOMS",
+        "@timestamp": "2012-03-18T23:28:53Z",
+        "@version": "1",
+        "@changeset": "11025269",
+        "@user": "maner",
+        "@uid": "6083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6713021,
+          44.6831014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1760846493",
+      "properties": {
+        "@id": "node/1760846493",
+        "amenity": "theatre",
+        "name": "Gruppo Musicale",
+        "@timestamp": "2012-05-21T12:42:14Z",
+        "@version": "1",
+        "@changeset": "11660893",
+        "@user": "PGG",
+        "@uid": "683889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3900311,
+          45.3163728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1988783773",
+      "properties": {
+        "@id": "node/1988783773",
+        "amenity": "theatre",
+        "name": "Teatro Civico",
+        "@timestamp": "2012-10-29T20:38:20Z",
+        "@version": "1",
+        "@changeset": "13678387",
+        "@user": "marco2265",
+        "@uid": "1009064"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2972353,
+          45.1941482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2010241222",
+      "properties": {
+        "@id": "node/2010241222",
+        "amenity": "theatre",
+        "name": "Sala Lux",
+        "@timestamp": "2012-11-12T08:33:59Z",
+        "@version": "1",
+        "@changeset": "13843848",
+        "@user": "fcfc",
+        "@uid": "968639"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7238975,
+          45.3341177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2018087953",
+      "properties": {
+        "@id": "node/2018087953",
+        "addr:housenumber": "8",
+        "addr:street": "Via Giacomo Rossini",
+        "amenity": "theatre",
+        "name": "Teatro Gobetti",
+        "@timestamp": "2013-10-21T14:50:35Z",
+        "@version": "3",
+        "@changeset": "18470253",
+        "@user": "Parerga",
+        "@uid": "59457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6912127,
+          45.0692728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2134876866",
+      "properties": {
+        "@id": "node/2134876866",
+        "amenity": "theatre",
+        "name": "Società di Mutuo Soccorso e Beneficenza",
+        "source": "survey",
+        "@timestamp": "2013-01-30T13:30:37Z",
+        "@version": "1",
+        "@changeset": "14847405",
+        "@user": "Pro Loco Riva Valdobbia",
+        "@uid": "1214070"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9528725,
+          45.8320758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2189533333",
+      "properties": {
+        "@id": "node/2189533333",
+        "amenity": "theatre",
+        "name": "Teatro Bertagnoglio",
+        "@timestamp": "2013-03-07T10:58:06Z",
+        "@version": "1",
+        "@changeset": "15280667",
+        "@user": "michelangelo1947",
+        "@uid": "1123216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9032144,
+          45.4958173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2361612714",
+      "properties": {
+        "@id": "node/2361612714",
+        "amenity": "theatre",
+        "@timestamp": "2013-06-26T13:05:27Z",
+        "@version": "1",
+        "@changeset": "16712880",
+        "@user": "mamma",
+        "@uid": "1581807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8530326,
+          44.940938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2422522789",
+      "properties": {
+        "@id": "node/2422522789",
+        "amenity": "theatre",
+        "name": "Amphiteatro",
+        "@timestamp": "2013-08-18T08:24:15Z",
+        "@version": "1",
+        "@changeset": "17392529",
+        "@user": "nebbiolo",
+        "@uid": "1052386"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1865691,
+          44.5492314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2433637048",
+      "properties": {
+        "@id": "node/2433637048",
+        "amenity": "theatre",
+        "name": "Centro culturale San Giuseppe",
+        "@timestamp": "2013-09-01T16:21:39Z",
+        "@version": "2",
+        "@changeset": "17621473",
+        "@user": "diego92",
+        "@uid": "1726290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4226968,
+          44.7531614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2455133839",
+      "properties": {
+        "@id": "node/2455133839",
+        "addr:city": "Torino",
+        "addr:housenumber": "4",
+        "addr:postcode": "10125",
+        "addr:street": "Via Giuseppe Baretti",
+        "amenity": "theatre",
+        "amenity_1": "cinema",
+        "name": "Cine Teatro Baretti",
+        "phone": "+39 011 655187",
+        "website": "http://www.cineteatrobaretti.it/",
+        "wheelchair": "yes",
+        "@timestamp": "2015-01-18T17:11:59Z",
+        "@version": "3",
+        "@changeset": "28235448",
+        "@user": "rm_",
+        "@uid": "398010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6791228,
+          45.0581559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2570239953",
+      "properties": {
+        "@id": "node/2570239953",
+        "amenity": "theatre",
+        "name": "S.O.A.M.S.",
+        "@timestamp": "2013-12-07T19:08:46Z",
+        "@version": "1",
+        "@changeset": "19327936",
+        "@user": "hikerit",
+        "@uid": "834334"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9310606,
+          44.9612444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2590338876",
+      "properties": {
+        "@id": "node/2590338876",
+        "addr:housenumber": "4",
+        "addr:street": "Piazza Solferino",
+        "amenity": "theatre",
+        "amenity_1": "cinema",
+        "name": "Alfieri",
+        "@timestamp": "2015-01-18T17:03:41Z",
+        "@version": "2",
+        "@changeset": "28235279",
+        "@user": "rm_",
+        "@uid": "398010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6773969,
+          45.069967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2627228403",
+      "properties": {
+        "@id": "node/2627228403",
+        "amenity": "theatre",
+        "name": "Teatro Civico",
+        "@timestamp": "2014-01-18T16:13:00Z",
+        "@version": "1",
+        "@changeset": "20068633",
+        "@user": "andrea torri",
+        "@uid": "1891654"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2537474,
+          45.8143536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2906057737",
+      "properties": {
+        "@id": "node/2906057737",
+        "addr:city": "Valmacca",
+        "addr:postcode": "15040",
+        "addr:street": "Piazza Marchesa Tarsilla di Bisio",
+        "amenity": "theatre",
+        "name": "Teatro",
+        "@timestamp": "2014-06-08T17:11:41Z",
+        "@version": "1",
+        "@changeset": "22813887",
+        "@user": "Uccio56",
+        "@uid": "2112253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.582705,
+          45.1002801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2930838804",
+      "properties": {
+        "@id": "node/2930838804",
+        "amenity": "theatre",
+        "name": "Teatro Sociale",
+        "@timestamp": "2014-06-24T11:14:30Z",
+        "@version": "1",
+        "@changeset": "23119703",
+        "@user": "johnnyfer88",
+        "@uid": "2134391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3322488,
+          44.8865559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2942678068",
+      "properties": {
+        "@id": "node/2942678068",
+        "amenity": "theatre",
+        "name": "Sala Teatro Don Dante Ruffa",
+        "@timestamp": "2014-07-01T21:54:55Z",
+        "@version": "1",
+        "@changeset": "23424775",
+        "@user": "Dufour85",
+        "@uid": "822180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.795946,
+          45.3350826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2975558832",
+      "properties": {
+        "@id": "node/2975558832",
+        "amenity": "theatre",
+        "name": "Teatro Silvio Pellico",
+        "@timestamp": "2014-07-23T21:03:40Z",
+        "@version": "2",
+        "@changeset": "24320099",
+        "@user": "eddy79",
+        "@uid": "2201141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7399861,
+          45.4303533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3079692473",
+      "properties": {
+        "@id": "node/3079692473",
+        "addr:city": "Torino",
+        "addr:housenumber": "241",
+        "addr:postcode": "10133",
+        "addr:street": "Corso Moncalieri",
+        "amenity": "theatre",
+        "name": "Teatro Erba",
+        "phone": "+39 011 6618404",
+        "website": "http://www.torinospettacoli.com/wordpress/?page_id=690",
+        "@timestamp": "2014-09-16T07:55:21Z",
+        "@version": "2",
+        "@changeset": "25473537",
+        "@user": "Valerio_Bozzolan",
+        "@uid": "1875845"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6819579,
+          45.0382969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3111329739",
+      "properties": {
+        "@id": "node/3111329739",
+        "addr:city": "Vercelli",
+        "addr:housenumber": "3A-3B",
+        "addr:postcode": "13100",
+        "addr:street": "Via Vittorio Alfieri",
+        "amenity": "theatre",
+        "denomination": "catholic",
+        "name": "Teatro Barbieri",
+        "@timestamp": "2014-11-15T17:46:39Z",
+        "@version": "3",
+        "@changeset": "26804023",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4110841,
+          45.3216332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3198400474",
+      "properties": {
+        "@id": "node/3198400474",
+        "amenity": "theatre",
+        "name": "Teatro",
+        "@timestamp": "2014-11-21T11:15:34Z",
+        "@version": "1",
+        "@changeset": "26926309",
+        "@user": "map_arrow",
+        "@uid": "2404691"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8700212,
+          44.59359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3292691662",
+      "properties": {
+        "@id": "node/3292691662",
+        "addr:city": "Moncalvo",
+        "addr:housenumber": "28",
+        "addr:street": "Piazza Garibaldi",
+        "amenity": "theatre",
+        "name": "Teatro Civico",
+        "@timestamp": "2015-01-16T16:26:06Z",
+        "@version": "1",
+        "@changeset": "28191317",
+        "@user": "roby2107",
+        "@uid": "1808258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2650426,
+          45.0512091
+        ]
+      }
+    }
+  ]
+}
