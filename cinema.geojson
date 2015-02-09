@@ -1,0 +1,964 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-02-09T11:46:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/248787330",
+      "properties": {
+        "@id": "node/248787330",
+        "amenity": "cinema",
+        "created_by": "Potlatch 0.7b",
+        "name": "Greenwich Village",
+        "wheelchair": "yes",
+        "@timestamp": "2011-10-07T07:13:04Z",
+        "@version": "2",
+        "@changeset": "9490517",
+        "@user": "wheelmap_visitor",
+        "@uid": "290680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6917134,
+          45.0669867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/262100274",
+      "properties": {
+        "@id": "node/262100274",
+        "amenity": "cinema",
+        "name": "UCG Cinema",
+        "@timestamp": "2012-10-16T19:54:15Z",
+        "@version": "3",
+        "@changeset": "13523759",
+        "@user": "Ken Hayabusa",
+        "@uid": "153293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.708174,
+          44.9762261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/448941947",
+      "properties": {
+        "@id": "node/448941947",
+        "addr:city": "Domodossola",
+        "addr:housenumber": "50",
+        "addr:postcode": "28845",
+        "addr:street": "Corso Paolo Ferraris",
+        "amenity": "cinema",
+        "name": "Cinema Corso",
+        "phone": "+39 0324 240853",
+        "@timestamp": "2014-04-30T18:07:01Z",
+        "@version": "3",
+        "@changeset": "22048681",
+        "@user": "carlobenini",
+        "@uid": "151809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2952817,
+          46.1154014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/465188385",
+      "properties": {
+        "@id": "node/465188385",
+        "amenity": "cinema",
+        "@timestamp": "2009-08-14T06:03:25Z",
+        "@version": "1",
+        "@changeset": "2138510",
+        "@user": "fahrradfahrer",
+        "@uid": "71312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4096638,
+          45.878167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/471945783",
+      "properties": {
+        "@id": "node/471945783",
+        "amenity": "cinema",
+        "name": "Cinema Verdi",
+        "@timestamp": "2014-10-23T15:22:26Z",
+        "@version": "5",
+        "@changeset": "26280458",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1124928,
+          45.5472639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/499620955",
+      "properties": {
+        "@id": "node/499620955",
+        "amenity": "cinema",
+        "name": "Cinema Italia",
+        "@timestamp": "2010-12-17T15:23:27Z",
+        "@version": "2",
+        "@changeset": "6687672",
+        "@user": "Simone Saviolo",
+        "@uid": "169211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4166692,
+          45.3236406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/679199834",
+      "properties": {
+        "@id": "node/679199834",
+        "amenity": "cinema",
+        "name": "Cine Excelsior",
+        "@timestamp": "2010-05-06T00:15:28Z",
+        "@version": "2",
+        "@changeset": "4618115",
+        "@user": "Silviopen",
+        "@uid": "211665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2125692,
+          45.6760795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/735032355",
+      "properties": {
+        "@id": "node/735032355",
+        "addr:city": "Torino",
+        "addr:country": "IT",
+        "addr:housenumber": "62",
+        "addr:postcode": "10100",
+        "addr:street": "Via Monfalcone",
+        "amenity": "cinema",
+        "name": "Due Giardini",
+        "phone": "+39 011 3272214",
+        "website": "http://www.2giardini.it",
+        "wheelchair": "yes",
+        "@timestamp": "2011-11-02T13:23:50Z",
+        "@version": "4",
+        "@changeset": "9721967",
+        "@user": "glaucos",
+        "@uid": "113023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6420215,
+          45.0503897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/773637449",
+      "properties": {
+        "@id": "node/773637449",
+        "amenity": "cinema",
+        "name": "ABCinema d'Essai",
+        "@timestamp": "2010-06-16T13:20:19Z",
+        "@version": "1",
+        "@changeset": "5000560",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8797919,
+          45.4664013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/966247815",
+      "properties": {
+        "@id": "node/966247815",
+        "amenity": "cinema",
+        "@timestamp": "2010-10-26T20:56:03Z",
+        "@version": "1",
+        "@changeset": "6186665",
+        "@user": "Marco Boscarato",
+        "@uid": "363316"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8842796,
+          45.1896862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/966248025",
+      "properties": {
+        "@id": "node/966248025",
+        "amenity": "cinema",
+        "@timestamp": "2010-10-26T20:56:18Z",
+        "@version": "1",
+        "@changeset": "6186665",
+        "@user": "Marco Boscarato",
+        "@uid": "363316"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.891146,
+          45.1908053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1172116311",
+      "properties": {
+        "@id": "node/1172116311",
+        "addr:housenumber": "230",
+        "addr:postcode": "10126",
+        "addr:street": "Via Nizza",
+        "amenity": "cinema",
+        "name": "UCI Cinemas Lingotto",
+        "website": "http://www.ucicinemas.it",
+        "wheelchair": "yes",
+        "@timestamp": "2015-02-02T18:08:44Z",
+        "@version": "3",
+        "@changeset": "28572665",
+        "@user": "Valerio_Bozzolan",
+        "@uid": "1875845"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6664412,
+          45.033877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1350142517",
+      "properties": {
+        "@id": "node/1350142517",
+        "amenity": "cinema",
+        "name": "Cinema Lux",
+        "wheelchair": "yes",
+        "@timestamp": "2011-10-06T19:07:14Z",
+        "@version": "2",
+        "@changeset": "9482892",
+        "@user": "wheelmap_visitor",
+        "@uid": "290680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6826574,
+          45.0690362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1370040605",
+      "properties": {
+        "@id": "node/1370040605",
+        "amenity": "cinema",
+        "name": "Cinema Romano",
+        "wheelchair": "yes",
+        "@timestamp": "2011-10-07T07:13:06Z",
+        "@version": "2",
+        "@changeset": "9490517",
+        "@user": "wheelmap_visitor",
+        "@uid": "290680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6867032,
+          45.0696186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1404446874",
+      "properties": {
+        "@id": "node/1404446874",
+        "amenity": "cinema",
+        "name": "Cinelandia",
+        "@timestamp": "2011-09-06T20:38:27Z",
+        "@version": "2",
+        "@changeset": "9231431",
+        "@user": "lukasbrunner",
+        "@uid": "348712"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2268043,
+          44.9066271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1414937182",
+      "properties": {
+        "@id": "node/1414937182",
+        "amenity": "cinema",
+        "@timestamp": "2011-08-27T16:11:35Z",
+        "@version": "1",
+        "@changeset": "9139049",
+        "@user": "matteomangiagalli",
+        "@uid": "512936"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.69785,
+          46.0617986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1467593787",
+      "properties": {
+        "@id": "node/1467593787",
+        "amenity": "cinema",
+        "cinema:porno": "yes",
+        "name": "Maffei",
+        "@timestamp": "2012-11-13T13:27:26Z",
+        "@version": "2",
+        "@changeset": "13859415",
+        "@user": "Ken Hayabusa",
+        "@uid": "153293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.683076,
+          45.0597276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1467593792",
+      "properties": {
+        "@id": "node/1467593792",
+        "amenity": "cinema",
+        "cinema:porno": "yes",
+        "name": "Metropol",
+        "@timestamp": "2012-11-13T13:27:26Z",
+        "@version": "2",
+        "@changeset": "13859415",
+        "@user": "Ken Hayabusa",
+        "@uid": "153293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6828771,
+          45.0597982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1470052046",
+      "properties": {
+        "@id": "node/1470052046",
+        "amenity": "cinema",
+        "name": "Nuovo Splendor",
+        "@timestamp": "2011-10-16T22:22:10Z",
+        "@version": "1",
+        "@changeset": "9577436",
+        "@user": "lucadelu",
+        "@uid": "13591"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1968967,
+          44.8984444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1631132523",
+      "properties": {
+        "@id": "node/1631132523",
+        "amenity": "cinema",
+        "name": "Cinema Teatro Comunale",
+        "@timestamp": "2012-02-13T10:44:36Z",
+        "@version": "1",
+        "@changeset": "10671863",
+        "@user": "maner",
+        "@uid": "6083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6434241,
+          44.636715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1639017564",
+      "properties": {
+        "@id": "node/1639017564",
+        "amenity": "cinema",
+        "name": "Cineteatro Sociale",
+        "@timestamp": "2012-02-19T12:56:36Z",
+        "@version": "1",
+        "@changeset": "10729653",
+        "@user": "sbrublu",
+        "@uid": "586732"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6443211,
+          45.0132685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1730573268",
+      "properties": {
+        "@id": "node/1730573268",
+        "amenity": "cinema",
+        "name": "Lux",
+        "@timestamp": "2012-04-25T13:59:06Z",
+        "@version": "1",
+        "@changeset": "11415159",
+        "@user": "Botaler",
+        "@uid": "492756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5852058,
+          44.4985083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1739777081",
+      "properties": {
+        "@id": "node/1739777081",
+        "amenity": "cinema",
+        "@timestamp": "2012-05-03T21:39:08Z",
+        "@version": "1",
+        "@changeset": "11492880",
+        "@user": "Tatola_Aly92",
+        "@uid": "673366"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8243336,
+          45.0117969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1749595238",
+      "properties": {
+        "@id": "node/1749595238",
+        "amenity": "cinema",
+        "name": "Megaplex Stardust",
+        "@timestamp": "2012-05-12T12:28:23Z",
+        "@version": "2",
+        "@changeset": "11576040",
+        "@user": "Creando",
+        "@uid": "132740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8809522,
+          44.9065129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1749822805",
+      "properties": {
+        "@id": "node/1749822805",
+        "amenity": "cinema",
+        "name": "Cine4",
+        "@timestamp": "2012-05-12T20:36:48Z",
+        "@version": "2",
+        "@changeset": "11580519",
+        "@user": "Creando",
+        "@uid": "132740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0351209,
+          44.6981646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1855973149",
+      "properties": {
+        "@id": "node/1855973149",
+        "amenity": "cinema",
+        "name": "Cinema Teatro Borgonuovo",
+        "@timestamp": "2013-09-03T14:06:08Z",
+        "@version": "3",
+        "@changeset": "17654670",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.505139,
+          45.0702847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1858739408",
+      "properties": {
+        "@id": "node/1858739408",
+        "amenity": "cinema",
+        "name": "Ambra",
+        "@timestamp": "2012-08-09T13:14:32Z",
+        "@version": "1",
+        "@changeset": "12668425",
+        "@user": "emmanuelecois",
+        "@uid": "574286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6109774,
+          44.9054143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1876474160",
+      "properties": {
+        "@id": "node/1876474160",
+        "amenity": "cinema",
+        "name": "Cinema Boaro",
+        "@timestamp": "2012-08-21T17:58:55Z",
+        "@version": "1",
+        "@changeset": "12811116",
+        "@user": "Dufour85",
+        "@uid": "822180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8792445,
+          45.4671796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1891230225",
+      "properties": {
+        "@id": "node/1891230225",
+        "amenity": "cinema",
+        "name": "Cinema Alessandrino",
+        "@timestamp": "2012-08-31T15:19:42Z",
+        "@version": "2",
+        "@changeset": "12932263",
+        "@user": "emmanuelecois",
+        "@uid": "574286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.615575,
+          44.9122828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1967623229",
+      "properties": {
+        "@id": "node/1967623229",
+        "amenity": "cinema",
+        "name": "Cinelandia",
+        "@timestamp": "2012-10-15T22:51:48Z",
+        "@version": "1",
+        "@changeset": "13512664",
+        "@user": "Botaler",
+        "@uid": "492756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5063594,
+          44.3471725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1970779012",
+      "properties": {
+        "@id": "node/1970779012",
+        "amenity": "cinema",
+        "name": "Lanteri",
+        "@timestamp": "2012-10-17T21:52:49Z",
+        "@version": "1",
+        "@changeset": "13537900",
+        "@user": "Botaler",
+        "@uid": "492756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5468279,
+          44.3877477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2036115172",
+      "properties": {
+        "@id": "node/2036115172",
+        "addr:city": "Novara",
+        "addr:housenumber": "3/C",
+        "addr:postcode": "28100",
+        "addr:street": "Via Costantino Perazzi",
+        "amenity": "cinema",
+        "contact:facebook": "https://www.facebook.com/cinemavip.novara",
+        "contact:phone": "+39 0321 625688",
+        "name": "VIP",
+        "opening_hours": "Mo-Sa: 20:00-22:30;Su 15:00-22.30",
+        "@timestamp": "2015-01-20T10:55:47Z",
+        "@version": "2",
+        "@changeset": "28273173",
+        "@user": "Airon90",
+        "@uid": "89897"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6105423,
+          45.4447723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2049845183",
+      "properties": {
+        "@id": "node/2049845183",
+        "amenity": "cinema",
+        "name": "Cineplex Massaua",
+        "@timestamp": "2012-12-04T15:38:26Z",
+        "@version": "1",
+        "@changeset": "14153114",
+        "@user": "maxgazze",
+        "@uid": "1076098"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6201045,
+          45.0739415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2131182338",
+      "properties": {
+        "@id": "node/2131182338",
+        "amenity": "cinema",
+        "name": "Cinema Teatro Comunale",
+        "@timestamp": "2013-01-27T18:25:56Z",
+        "@version": "1",
+        "@changeset": "14811821",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1798822,
+          45.5696271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2145291059",
+      "properties": {
+        "@id": "node/2145291059",
+        "amenity": "cinema",
+        "name": "Movie Planet",
+        "@timestamp": "2013-02-07T12:50:02Z",
+        "@version": "1",
+        "@changeset": "14944522",
+        "@user": "gianluigi cella",
+        "@uid": "794379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6409651,
+          45.5539426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2246723263",
+      "properties": {
+        "@id": "node/2246723263",
+        "amenity": "cinema",
+        "name": "Cinema Mazzini",
+        "wheelchair": "limited",
+        "@timestamp": "2013-12-04T19:08:55Z",
+        "@version": "2",
+        "@changeset": "19274274",
+        "@user": "wheelmap_android",
+        "@uid": "524500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.05442,
+          45.5634851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2246723266",
+      "properties": {
+        "@id": "node/2246723266",
+        "amenity": "cinema",
+        "name": "Cinema Teatro Odeon",
+        "@timestamp": "2013-04-03T15:20:55Z",
+        "@version": "1",
+        "@changeset": "15596049",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0621716,
+          45.5569185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2420559039",
+      "properties": {
+        "@id": "node/2420559039",
+        "amenity": "cinema",
+        "name": "Cineteatro Erios",
+        "@timestamp": "2013-08-16T08:55:49Z",
+        "@version": "1",
+        "@changeset": "17368669",
+        "@user": "Gianni Bragante",
+        "@uid": "1396397"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.092553,
+          45.5594726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2425831724",
+      "properties": {
+        "@id": "node/2425831724",
+        "amenity": "cinema",
+        "name": "Cinema Italia",
+        "@timestamp": "2013-08-20T18:35:02Z",
+        "@version": "1",
+        "@changeset": "17430220",
+        "@user": "MattVnz",
+        "@uid": "1719806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.330467,
+          44.8831789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2548323748",
+      "properties": {
+        "@id": "node/2548323748",
+        "amenity": "cinema",
+        "@timestamp": "2013-11-24T09:58:32Z",
+        "@version": "1",
+        "@changeset": "19087712",
+        "@user": "openpablo3",
+        "@uid": "708145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5025145,
+          46.126341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2627228401",
+      "properties": {
+        "@id": "node/2627228401",
+        "amenity": "cinema",
+        "name": "Cinema Oratorio Sottoriva",
+        "@timestamp": "2014-01-18T16:13:00Z",
+        "@version": "1",
+        "@changeset": "20068633",
+        "@user": "andrea torri",
+        "@uid": "1891654"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2527384,
+          45.814272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2688303785",
+      "properties": {
+        "@id": "node/2688303785",
+        "amenity": "cinema",
+        "layer": "2",
+        "name": "The Space Cinema",
+        "@timestamp": "2014-02-24T12:07:23Z",
+        "@version": "1",
+        "@changeset": "20749456",
+        "@user": "gspinoza",
+        "@uid": "562239"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6683386,
+          45.0878071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2791170550",
+      "properties": {
+        "@id": "node/2791170550",
+        "addr:housenumber": "7",
+        "addr:street": "Via Giuseppe Pomba",
+        "amenity": "cinema",
+        "name": "Nazionale",
+        "@timestamp": "2014-04-14T19:01:35Z",
+        "@version": "1",
+        "@changeset": "21692894",
+        "@user": "Parerga",
+        "@uid": "59457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6834351,
+          45.0626637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3274388861",
+      "properties": {
+        "@id": "node/3274388861",
+        "addr:city": "Torino",
+        "addr:housenumber": "52",
+        "addr:street": "Corso Vittorio Emanuele II",
+        "amenity": "cinema",
+        "name": "Cinecafé Ambrosio",
+        "@timestamp": "2015-01-07T12:33:31Z",
+        "@version": "1",
+        "@changeset": "27975629",
+        "@user": "Griphon",
+        "@uid": "461682"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6812669,
+          45.0621409
+        ]
+      }
+    }
+  ]
+}
