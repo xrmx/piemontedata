@@ -1,0 +1,1800 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-02-09T21:36:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/461107566",
+      "properties": {
+        "@id": "node/461107566",
+        "amenity": "library",
+        "name": "Biblioteca Comunale",
+        "@timestamp": "2010-09-21T20:52:24Z",
+        "@version": "2",
+        "@changeset": "5840821",
+        "@user": "Ken Hayabusa",
+        "@uid": "153293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5376378,
+          45.0080738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/471945784",
+      "properties": {
+        "@id": "node/471945784",
+        "amenity": "library",
+        "name": "Bibblioteca \"Livio Pozzo\"",
+        "@timestamp": "2013-10-17T11:01:01Z",
+        "@version": "2",
+        "@changeset": "18401203",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1109025,
+          45.5455934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/937171170",
+      "properties": {
+        "@id": "node/937171170",
+        "amenity": "library",
+        "name": "Luigi Bongianino",
+        "@timestamp": "2011-05-22T12:39:01Z",
+        "@version": "2",
+        "@changeset": "8215725",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0538083,
+          45.3496443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/945101757",
+      "properties": {
+        "@id": "node/945101757",
+        "amenity": "library",
+        "name": "Biblioteca Comunale",
+        "@timestamp": "2010-10-14T13:12:12Z",
+        "@version": "2",
+        "@changeset": "6039294",
+        "@user": "sbiribizio",
+        "@uid": "354284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4516043,
+          45.1342742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/990937841",
+      "properties": {
+        "@id": "node/990937841",
+        "amenity": "library",
+        "name": "Biblioteca per Ragazzi \"Emanuele Luzzati\"",
+        "@timestamp": "2010-11-16T09:32:14Z",
+        "@version": "1",
+        "@changeset": "6383582",
+        "@user": "sbiribizio",
+        "@uid": "354284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.446242,
+          45.1375365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1425529810",
+      "properties": {
+        "@id": "node/1425529810",
+        "amenity": "library",
+        "name": "Biblioteca Consorziale Astense",
+        "@timestamp": "2011-09-06T20:38:23Z",
+        "@version": "1",
+        "@changeset": "9231431",
+        "@user": "lukasbrunner",
+        "@uid": "348712"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1987614,
+          44.8991909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1437759871",
+      "properties": {
+        "@id": "node/1437759871",
+        "addr:housenumber": "16",
+        "amenity": "library",
+        "name": "Biblioteca Comunale",
+        "official_name": "Biblioteca Comunale \"Matteo Silvestro\"",
+        "@timestamp": "2012-04-10T21:09:50Z",
+        "@version": "3",
+        "@changeset": "11258416",
+        "@user": "Botaler",
+        "@uid": "492756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5113875,
+          44.2939767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1447898950",
+      "properties": {
+        "@id": "node/1447898950",
+        "amenity": "library",
+        "name": "Biblioteca Comunale",
+        "@timestamp": "2011-09-28T09:50:29Z",
+        "@version": "1",
+        "@changeset": "9417631",
+        "@user": "Enrico Ponassi",
+        "@uid": "286756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6464596,
+          44.3628397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1456762929",
+      "properties": {
+        "@id": "node/1456762929",
+        "amenity": "library",
+        "@timestamp": "2011-10-06T13:19:31Z",
+        "@version": "1",
+        "@changeset": "9485492",
+        "@user": "mchinosi",
+        "@uid": "222398"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6387308,
+          45.5960543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1470025939",
+      "properties": {
+        "@id": "node/1470025939",
+        "amenity": "library",
+        "name": "Centro Culturale San Secondo",
+        "wheelchair": "yes",
+        "@timestamp": "2013-05-07T15:29:36Z",
+        "@version": "3",
+        "@changeset": "16012969",
+        "@user": "shevek_o",
+        "@uid": "1424689"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2031314,
+          44.90047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1470664166",
+      "properties": {
+        "@id": "node/1470664166",
+        "amenity": "library",
+        "name": "Biblioteca del Seminario",
+        "@timestamp": "2013-06-04T20:18:51Z",
+        "@version": "3",
+        "@changeset": "16424593",
+        "@user": "shevek_o",
+        "@uid": "1424689"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2013019,
+          44.9004695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1470753358",
+      "properties": {
+        "@id": "node/1470753358",
+        "addr:city": "Cossato",
+        "addr:housenumber": "24",
+        "addr:postcode": "13836",
+        "addr:street": "Via Ranzoni",
+        "amenity": "library",
+        "name": "Biblioteca Comunale",
+        "wheelchair": "unknown",
+        "@timestamp": "2014-11-15T17:38:23Z",
+        "@version": "5",
+        "@changeset": "26803836",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1823533,
+          45.5704216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1500783361",
+      "properties": {
+        "@id": "node/1500783361",
+        "amenity": "library",
+        "opening_hours": "Mo 15:00-19:00; Tu 10:00-12:15,15:00-18:15;We 10:00-12:15;Th-Fr 10:00-12:15,15:00-18:15; Sa 10:00-12:15",
+        "@timestamp": "2011-11-12T23:26:18Z",
+        "@version": "1",
+        "@changeset": "9809751",
+        "@user": "Botaler",
+        "@uid": "492756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5504655,
+          44.3293632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1504569370",
+      "properties": {
+        "@id": "node/1504569370",
+        "amenity": "library",
+        "name": "Biblioteca civica musicale Andrea Della Corte",
+        "opening_hours": "Mo-Fr 09:15-17:00",
+        "@timestamp": "2011-11-15T23:48:23Z",
+        "@version": "1",
+        "@changeset": "9840276",
+        "@user": "s19n",
+        "@uid": "513389"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6857419,
+          45.084653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1513561229",
+      "properties": {
+        "@id": "node/1513561229",
+        "addr:city": "Torino",
+        "addr:housenumber": "490",
+        "addr:postcode": "10135",
+        "addr:street": "Corso Unione Sovietica",
+        "amenity": "library",
+        "name": "Biblioteca civica Mirafiori",
+        "opening_hours": "Tu-We 09:00-13:00; Th-Fr 15:00-19:00; Sa 14:00-18:00",
+        "website": "http://www.comune.torino.it/cultura/biblioteche/sedi_orari/mirafiori.shtml",
+        "@timestamp": "2011-11-23T00:46:16Z",
+        "@version": "1",
+        "@changeset": "9915615",
+        "@user": "s19n",
+        "@uid": "513389"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6290134,
+          45.0192716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1514848350",
+      "properties": {
+        "@id": "node/1514848350",
+        "addr:city": "Torino",
+        "addr:housenumber": "79",
+        "addr:postcode": "10127",
+        "addr:street": "Via Candiolo",
+        "amenity": "library",
+        "name": "Biblioteca civica Cesare Pavese",
+        "opening_hours": "Mo 15:00-19:45; Tu-We 14:15-19:45; Th-Sa 08:30-14:00",
+        "website": "http://www.comune.torino.it/cultura/biblioteche/sedi_orari/pavese.shtml",
+        "@timestamp": "2011-12-13T13:32:49Z",
+        "@version": "2",
+        "@changeset": "10107632",
+        "@user": "Bengatzer",
+        "@uid": "89943"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6492104,
+          45.0155623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1516384896",
+      "properties": {
+        "@id": "node/1516384896",
+        "amenity": "library",
+        "name": "Biblioteca Gustavo Gallo-Rossi",
+        "@timestamp": "2011-11-25T12:50:25Z",
+        "@version": "1",
+        "@changeset": "9943912",
+        "@user": "cervuz88",
+        "@uid": "559430"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7647518,
+          44.3436619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1571476057",
+      "properties": {
+        "@id": "node/1571476057",
+        "amenity": "library",
+        "name": "Biblioteca",
+        "@timestamp": "2012-12-17T23:25:40Z",
+        "@version": "2",
+        "@changeset": "14313198",
+        "@user": "dforsi",
+        "@uid": "24126"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5763909,
+          45.132978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1617806606",
+      "properties": {
+        "@id": "node/1617806606",
+        "amenity": "library",
+        "name": "Biblioteca di Vigliano Biellese",
+        "@timestamp": "2013-04-28T14:18:10Z",
+        "@version": "2",
+        "@changeset": "15896306",
+        "@user": "Gianni Bragante",
+        "@uid": "1396397"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1074252,
+          45.5640223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1673397887",
+      "properties": {
+        "@id": "node/1673397887",
+        "amenity": "library",
+        "name": "Biblioteca Comunale di Pisano",
+        "@timestamp": "2013-09-03T14:06:06Z",
+        "@version": "2",
+        "@changeset": "17654670",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5113797,
+          45.7933443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1703462131",
+      "properties": {
+        "@id": "node/1703462131",
+        "amenity": "library",
+        "@timestamp": "2012-04-05T22:12:55Z",
+        "@version": "1",
+        "@changeset": "11195205",
+        "@user": "camlt63",
+        "@uid": "645590"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.649502,
+          45.3910041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1705891034",
+      "properties": {
+        "@id": "node/1705891034",
+        "amenity": "library",
+        "name": "Labirinto",
+        "@timestamp": "2014-10-14T06:41:56Z",
+        "@version": "2",
+        "@changeset": "26065196",
+        "@user": "sbiribizio",
+        "@uid": "354284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4540456,
+          45.1368148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1730573261",
+      "properties": {
+        "@id": "node/1730573261",
+        "amenity": "library",
+        "name": "Faustino Dalmazzo",
+        "@timestamp": "2012-04-25T13:59:06Z",
+        "@version": "1",
+        "@changeset": "11415159",
+        "@user": "Botaler",
+        "@uid": "492756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5847353,
+          44.4991653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1734457361",
+      "properties": {
+        "@id": "node/1734457361",
+        "amenity": "library",
+        "name": "Biblioteca civica",
+        "@timestamp": "2012-04-28T20:11:47Z",
+        "@version": "1",
+        "@changeset": "11444251",
+        "@user": "C8R",
+        "@uid": "670063"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7827272,
+          44.7612668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1735524551",
+      "properties": {
+        "@id": "node/1735524551",
+        "amenity": "library",
+        "@timestamp": "2012-04-29T18:23:30Z",
+        "@version": "1",
+        "@changeset": "11452835",
+        "@user": "mikelima",
+        "@uid": "12473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6261307,
+          45.1351378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1739773039",
+      "properties": {
+        "@id": "node/1739773039",
+        "amenity": "library",
+        "@timestamp": "2012-05-03T21:31:57Z",
+        "@version": "1",
+        "@changeset": "11492880",
+        "@user": "Tatola_Aly92",
+        "@uid": "673366"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8195917,
+          45.0150924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1749826876",
+      "properties": {
+        "@id": "node/1749826876",
+        "amenity": "library",
+        "name": "Biblioteca Civica Giovanni Ferrero",
+        "@timestamp": "2012-12-29T14:31:42Z",
+        "@version": "4",
+        "@changeset": "14451264",
+        "@user": "wmann",
+        "@uid": "128017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0350933,
+          44.6986665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1802166189",
+      "properties": {
+        "@id": "node/1802166189",
+        "amenity": "library",
+        "name": "Biblioteca dell'infanzia",
+        "@timestamp": "2012-06-25T21:06:16Z",
+        "@version": "1",
+        "@changeset": "12016543",
+        "@user": "Botaler",
+        "@uid": "492756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2586653,
+          44.9572196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1830315843",
+      "properties": {
+        "@id": "node/1830315843",
+        "amenity": "library",
+        "@timestamp": "2012-07-19T00:58:11Z",
+        "@version": "1",
+        "@changeset": "12302462",
+        "@user": "jetset",
+        "@uid": "743352"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4272317,
+          45.0823064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1855080498",
+      "properties": {
+        "@id": "node/1855080498",
+        "addr:city": "Torino",
+        "addr:housenumber": "102",
+        "addr:postcode": "10136",
+        "addr:street": "Via Guido Reni",
+        "amenity": "library",
+        "name": "Biblioteca civica Alessandro Passerin d'Entrèves",
+        "opening_hours": "Mo 15:00-19:45;Tu-We 14:15-19:45;Th-Sa 08:15-14:00",
+        "operator": "Comune di Torino",
+        "phone": "+39 011 4435290",
+        "phone_1": "+39 011 4435205",
+        "website": "http://www.comune.torino.it/cultura/biblioteche/sedi_orari/passerin.shtml",
+        "wheelchair": "yes",
+        "@timestamp": "2014-09-05T20:17:54Z",
+        "@version": "4",
+        "@changeset": "25256141",
+        "@user": "Valerio_Bozzolan",
+        "@uid": "1875845"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.628192,
+          45.0488814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1880474387",
+      "properties": {
+        "@id": "node/1880474387",
+        "amenity": "library",
+        "@timestamp": "2012-08-24T08:39:40Z",
+        "@version": "1",
+        "@changeset": "12841765",
+        "@user": "Cicciop",
+        "@uid": "823905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7666302,
+          45.1358645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1893571643",
+      "properties": {
+        "@id": "node/1893571643",
+        "amenity": "library",
+        "@timestamp": "2012-09-01T18:37:41Z",
+        "@version": "1",
+        "@changeset": "12945605",
+        "@user": "ilex",
+        "@uid": "391451"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5447467,
+          44.4944238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1908206783",
+      "properties": {
+        "@id": "node/1908206783",
+        "amenity": "library",
+        "@timestamp": "2012-09-10T11:32:47Z",
+        "@version": "1",
+        "@changeset": "13055639",
+        "@user": "Biker_to",
+        "@uid": "871966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6577311,
+          45.1520661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1962295967",
+      "properties": {
+        "@id": "node/1962295967",
+        "amenity": "library",
+        "name": "Biblioteca Comunale",
+        "@timestamp": "2012-11-06T22:02:13Z",
+        "@version": "2",
+        "@changeset": "13779040",
+        "@user": "fcfc",
+        "@uid": "968639"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7245832,
+          45.3331418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1967623221",
+      "properties": {
+        "@id": "node/1967623221",
+        "amenity": "library",
+        "name": "Anna Frank",
+        "@timestamp": "2012-10-15T22:51:48Z",
+        "@version": "1",
+        "@changeset": "13512664",
+        "@user": "Botaler",
+        "@uid": "492756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4907233,
+          44.3315353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1984169707",
+      "properties": {
+        "@id": "node/1984169707",
+        "amenity": "library",
+        "name": "Biblioteca",
+        "@timestamp": "2012-10-26T10:58:39Z",
+        "@version": "2",
+        "@changeset": "13636093",
+        "@user": "RobiB",
+        "@uid": "1006283"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1923416,
+          44.9580517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1984318510",
+      "properties": {
+        "@id": "node/1984318510",
+        "amenity": "library",
+        "name": "Biblioteca",
+        "@timestamp": "2012-10-26T13:07:40Z",
+        "@version": "1",
+        "@changeset": "13637996",
+        "@user": "RobiB",
+        "@uid": "1006283"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2273337,
+          44.9437428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1988783756",
+      "properties": {
+        "@id": "node/1988783756",
+        "amenity": "library",
+        "@timestamp": "2012-10-29T20:38:19Z",
+        "@version": "1",
+        "@changeset": "13678387",
+        "@user": "marco2265",
+        "@uid": "1009064"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2976322,
+          45.1945414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2043486265",
+      "properties": {
+        "@id": "node/2043486265",
+        "addr:city": "Novara",
+        "addr:housenumber": "4/6",
+        "addr:postcode": "28100",
+        "addr:street": "Corso Felice Cavallotti",
+        "amenity": "library",
+        "name": "Biblioteca Civica Negroni",
+        "phone": "+39 0321 3702800",
+        "website": "http://www.comune.novara.it/citta/biblioteca/biblioteca.php",
+        "@timestamp": "2014-01-07T07:42:56Z",
+        "@version": "4",
+        "@changeset": "19858296",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6227012,
+          45.4467867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2079644116",
+      "properties": {
+        "@id": "node/2079644116",
+        "addr:city": "Orio Canavese",
+        "addr:country": "IT",
+        "addr:housenumber": "14",
+        "addr:postcode": "10010",
+        "addr:street": "Piazza Giuseppe Ponzetto",
+        "amenity": "library",
+        "name": "Biblioteca Civica \"Farfalibro\"",
+        "opening_hours": "Tu,Th 16:00-18:00; Sa 10:00-12:00",
+        "operator": "Comune di Orio Canavese",
+        "phone": "+39 011 9133359",
+        "@timestamp": "2014-06-04T08:36:28Z",
+        "@version": "3",
+        "@changeset": "22730096",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8626168,
+          45.3281335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2096881473",
+      "properties": {
+        "@id": "node/2096881473",
+        "amenity": "library",
+        "@timestamp": "2013-01-05T20:22:14Z",
+        "@version": "1",
+        "@changeset": "14541455",
+        "@user": "adirricor",
+        "@uid": "245439"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6781394,
+          45.0862308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2109091451",
+      "properties": {
+        "@id": "node/2109091451",
+        "amenity": "library",
+        "name": "Biblioteca Municipale Pinerolo",
+        "@timestamp": "2013-01-13T16:17:49Z",
+        "@version": "1",
+        "@changeset": "14636554",
+        "@user": "emmanuelecois",
+        "@uid": "574286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3346307,
+          44.8877559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2208208361",
+      "properties": {
+        "@id": "node/2208208361",
+        "amenity": "library",
+        "@timestamp": "2013-03-18T13:27:10Z",
+        "@version": "1",
+        "@changeset": "15407557",
+        "@user": "eagleDiego",
+        "@uid": "1279747"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0322594,
+          44.9133587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2255868042",
+      "properties": {
+        "@id": "node/2255868042",
+        "addr:city": "Torre Pellice",
+        "addr:country": "IT",
+        "addr:housenumber": "3",
+        "addr:postcode": "10066",
+        "addr:street": "Via Beckwith",
+        "amenity": "library",
+        "contact:email": "biblioteca@fondazionevaldese.org",
+        "contact:phone": "+39 0121 932179",
+        "contact:website": "http://www.fondazionevaldese.org",
+        "name": "Biblioteca Valdese",
+        "opening_hours": "Tu-Th 09:00-13:00, 14:00-18:00; Fr 09:00-13:00",
+        "@timestamp": "2013-10-16T12:26:21Z",
+        "@version": "2",
+        "@changeset": "18384616",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2186652,
+          44.8203089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2330843591",
+      "properties": {
+        "@id": "node/2330843591",
+        "amenity": "library",
+        "name": "Istituto per la  Storia della  Resistenza",
+        "@timestamp": "2013-06-14T18:59:43Z",
+        "@version": "8",
+        "@changeset": "16554531",
+        "@user": "shevek_o",
+        "@uid": "1424689"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2000756,
+          44.8991705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2339594523",
+      "properties": {
+        "@id": "node/2339594523",
+        "addr:city": "Bricherasio",
+        "addr:country": "IT",
+        "addr:housenumber": "79/A",
+        "addr:postcode": "10060",
+        "addr:street": "Via Vittorio Emanuele II",
+        "amenity": "library",
+        "contact:email": "pig.bricherasio@reteunitaria.piemonte.it",
+        "contact:phone": "+39 0121 59105",
+        "name": "Biblioteca Comunale di Bricherasio",
+        "@timestamp": "2013-10-14T11:01:08Z",
+        "@version": "2",
+        "@changeset": "18344666",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3040466,
+          44.8238222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2359401500",
+      "properties": {
+        "@id": "node/2359401500",
+        "amenity": "library",
+        "name": "Biblioteca Civica Bertetto Sertorio Valeria",
+        "@timestamp": "2013-06-24T20:57:19Z",
+        "@version": "1",
+        "@changeset": "16690812",
+        "@user": "Ale_Zena_IT",
+        "@uid": "22290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5328837,
+          44.2440292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2367683973",
+      "properties": {
+        "@id": "node/2367683973",
+        "addr:city": "Villar Pellice",
+        "addr:country": "IT",
+        "addr:housenumber": "37",
+        "addr:postcode": "10060",
+        "addr:street": "Viale 1 Maggio",
+        "amenity": "library",
+        "email": "biblioteca@comunevillarpellice.it",
+        "name": "Biblioteca Comunale",
+        "opening_hours": "Mo 16:00-18:00; Tu 15:00-18:00; Th 15:00-18:00; Fr 20:30-22:30; Sa 10:00-12:00",
+        "@timestamp": "2013-07-19T18:39:55Z",
+        "@version": "2",
+        "@changeset": "17015332",
+        "@user": "Gianluca67",
+        "@uid": "488783"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1584232,
+          44.8085918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2377812109",
+      "properties": {
+        "@id": "node/2377812109",
+        "amenity": "library",
+        "name": "Biblioteca Civica \"Luciano Balzaretti\"",
+        "@timestamp": "2013-07-08T10:26:58Z",
+        "@version": "1",
+        "@changeset": "16871614",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4884401,
+          45.261238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2395648762",
+      "properties": {
+        "@id": "node/2395648762",
+        "addr:housenumber": "9",
+        "addr:street": "Via Cacciatori delle Alpi",
+        "amenity": "library",
+        "name": "Biblioteca Civica",
+        "@timestamp": "2013-07-24T23:14:31Z",
+        "@version": "1",
+        "@changeset": "17082223",
+        "@user": "Botaler",
+        "@uid": "492756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5517595,
+          44.3916493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2402549062",
+      "properties": {
+        "@id": "node/2402549062",
+        "amenity": "library",
+        "name": "Biblioteca Civica",
+        "@timestamp": "2013-07-31T14:41:45Z",
+        "@version": "1",
+        "@changeset": "17167240",
+        "@user": "samuele pecetto",
+        "@uid": "1626261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9502357,
+          45.0217101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2404735841",
+      "properties": {
+        "@id": "node/2404735841",
+        "amenity": "library",
+        "opening_hours": "Tu 16:00-18:00; Sa 10:30-12:00",
+        "@timestamp": "2013-11-26T16:41:47Z",
+        "@version": "2",
+        "@changeset": "19129812",
+        "@user": "Josef73",
+        "@uid": "213831"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9402236,
+          45.1299608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2433637043",
+      "properties": {
+        "@id": "node/2433637043",
+        "amenity": "library",
+        "name": "Biblioteca Luciano Rapetti",
+        "@timestamp": "2013-09-01T16:58:16Z",
+        "@version": "3",
+        "@changeset": "17622090",
+        "@user": "diego92",
+        "@uid": "1726290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4245073,
+          44.7542357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2469457722",
+      "properties": {
+        "@id": "node/2469457722",
+        "amenity": "library",
+        "@timestamp": "2013-09-23T22:41:42Z",
+        "@version": "1",
+        "@changeset": "18000510",
+        "@user": "Botaler",
+        "@uid": "492756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4409108,
+          44.3415187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500315425",
+      "properties": {
+        "@id": "node/2500315425",
+        "addr:housenumber": "41",
+        "addr:street": "Via Madama Cristina",
+        "amenity": "library",
+        "name": "Shahrazàd",
+        "@timestamp": "2013-10-18T06:06:44Z",
+        "@version": "1",
+        "@changeset": "18413819",
+        "@user": "Parerga",
+        "@uid": "59457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6813453,
+          45.055317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2505297073",
+      "properties": {
+        "@id": "node/2505297073",
+        "addr:city": "Torino",
+        "addr:housenumber": "490",
+        "addr:postcode": "10135",
+        "addr:street": "Corso Unione Sovietica",
+        "amenity": "library",
+        "name": "Biblioteca civica Mirafiori",
+        "opening_hours": "Tu-We 09:00-13:00; Th-Fr 15:00-19:00; Sa 14:00-18:00",
+        "operator": "Comune di Torino",
+        "website": "http://www.comune.torino.it/cultura/biblioteche/sedi_orari/mirafiori.shtml",
+        "@timestamp": "2013-10-22T19:44:00Z",
+        "@version": "1",
+        "@changeset": "18491875",
+        "@user": "Parerga",
+        "@uid": "59457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6290134,
+          45.0192716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2528054293",
+      "properties": {
+        "@id": "node/2528054293",
+        "amenity": "library",
+        "name": "La Torcia",
+        "@timestamp": "2013-11-11T15:35:48Z",
+        "@version": "2",
+        "@changeset": "18835818",
+        "@user": "iz1xal",
+        "@uid": "1705689"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5325925,
+          45.3121105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2532503518",
+      "properties": {
+        "@id": "node/2532503518",
+        "amenity": "library",
+        "name": "Biblioteca civica",
+        "@timestamp": "2013-11-14T18:18:33Z",
+        "@version": "1",
+        "@changeset": "18898410",
+        "@user": "iz1xal",
+        "@uid": "1705689"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5324423,
+          45.3126821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2546516298",
+      "properties": {
+        "@id": "node/2546516298",
+        "addr:housenumber": "300",
+        "addr:street": "Via Pianezza",
+        "amenity": "library",
+        "@timestamp": "2013-11-23T09:29:03Z",
+        "@version": "1",
+        "@changeset": "19068494",
+        "@user": "Parerga",
+        "@uid": "59457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6195213,
+          45.1021205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2546671684",
+      "properties": {
+        "@id": "node/2546671684",
+        "addr:housenumber": "9",
+        "addr:postcode": "10156",
+        "addr:street": "Piazza Giovanni Astengo",
+        "amenity": "library",
+        "name": "Biblioteca civica Falchera",
+        "operator": "Comune di Torino",
+        "phone": "+39 011 4432620",
+        "website": "http://www.comune.torino.it/cultura/biblioteche/sedi_orari/falchera.shtml",
+        "wheelchair": "limited",
+        "@timestamp": "2013-11-23T11:40:41Z",
+        "@version": "2",
+        "@changeset": "19070095",
+        "@user": "Parerga",
+        "@uid": "59457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7096613,
+          45.1270698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2562689774",
+      "properties": {
+        "@id": "node/2562689774",
+        "amenity": "library",
+        "@timestamp": "2013-12-03T11:41:39Z",
+        "@version": "1",
+        "@changeset": "19249916",
+        "@user": "Massimo28",
+        "@uid": "1799310"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6508378,
+          45.0352032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2622379566",
+      "properties": {
+        "@id": "node/2622379566",
+        "addr:city": "Romagnano Sesia",
+        "addr:postcode": "28078",
+        "addr:street": "Via 25 Aprile",
+        "amenity": "library",
+        "name": "Biblioteca Civica",
+        "@timestamp": "2014-09-26T14:56:33Z",
+        "@version": "2",
+        "@changeset": "25687894",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3860583,
+          45.6336563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2710613078",
+      "properties": {
+        "@id": "node/2710613078",
+        "amenity": "library",
+        "name": "Biblioteca Comunale",
+        "@timestamp": "2014-03-10T10:13:02Z",
+        "@version": "1",
+        "@changeset": "21021941",
+        "@user": "lelegiraudo",
+        "@uid": "1969570"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8230913,
+          45.2719638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2898248008",
+      "properties": {
+        "@id": "node/2898248008",
+        "addr:city": "Susa",
+        "addr:housenumber": "27",
+        "addr:postcode": "10059",
+        "addr:street": "Via Giuseppe Mazzini",
+        "amenity": "library",
+        "name": "Biblioteca Civica Enrico De' Bartolomei",
+        "phone": "+39 0122 648301",
+        "ref:isil": "IT-TO0235",
+        "@timestamp": "2014-07-31T07:26:55Z",
+        "@version": "2",
+        "@changeset": "24457162",
+        "@user": "Martj9",
+        "@uid": "675302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0480624,
+          45.137708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2927230761",
+      "properties": {
+        "@id": "node/2927230761",
+        "amenity": "library",
+        "name": "Biblioteca Comunale",
+        "@timestamp": "2014-06-22T10:03:50Z",
+        "@version": "1",
+        "@changeset": "23077322",
+        "@user": "sainzone",
+        "@uid": "2089738"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0084429,
+          45.5625073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2932495183",
+      "properties": {
+        "@id": "node/2932495183",
+        "amenity": "library",
+        "@timestamp": "2014-06-25T08:53:11Z",
+        "@version": "1",
+        "@changeset": "23137991",
+        "@user": "cartomatto",
+        "@uid": "1976047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5153336,
+          44.9969089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2947382116",
+      "properties": {
+        "@id": "node/2947382116",
+        "addr:city": "Bairo",
+        "addr:country": "IT",
+        "addr:housenumber": "6",
+        "addr:postcode": "10010",
+        "addr:street": "Via Principe Tommaso",
+        "amenity": "library",
+        "email": "biblioteca.bairo@gmail.com",
+        "name": "Biblioteca Civica di Bairo",
+        "opening_hours": "We 20:30-21:30; Th 15:00-17:00",
+        "@timestamp": "2014-07-04T09:19:29Z",
+        "@version": "1",
+        "@changeset": "23914863",
+        "@user": "Dufour85",
+        "@uid": "822180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.754696,
+          45.3858016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2961909032",
+      "properties": {
+        "@id": "node/2961909032",
+        "addr:city": "Susa",
+        "addr:housenumber": "3",
+        "addr:postcode": "10059",
+        "addr:street": "Piazza San Francesco",
+        "amenity": "library",
+        "name": "Biblioteca di Teologia del Convento San Francesco",
+        "phone": "+39 0122 622548",
+        "ref:isil": "IT-TO0233",
+        "@timestamp": "2014-07-31T07:26:55Z",
+        "@version": "3",
+        "@changeset": "24457162",
+        "@user": "Martj9",
+        "@uid": "675302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0459232,
+          45.133972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2973678912",
+      "properties": {
+        "@id": "node/2973678912",
+        "amenity": "library",
+        "name": "Biblioteca comunale",
+        "@timestamp": "2014-07-23T20:59:25Z",
+        "@version": "2",
+        "@changeset": "24320099",
+        "@user": "eddy79",
+        "@uid": "2201141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7344289,
+          45.4348176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2982574081",
+      "properties": {
+        "@id": "node/2982574081",
+        "amenity": "library",
+        "@timestamp": "2014-07-27T11:53:55Z",
+        "@version": "1",
+        "@changeset": "24382870",
+        "@user": "Ciuppy",
+        "@uid": "2200997"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5261344,
+          45.0979456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3029652233",
+      "properties": {
+        "@id": "node/3029652233",
+        "amenity": "library",
+        "@timestamp": "2014-08-20T13:28:51Z",
+        "@version": "1",
+        "@changeset": "24884996",
+        "@user": "Luca Lorenzato",
+        "@uid": "2021910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4861027,
+          44.6143941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3052282124",
+      "properties": {
+        "@id": "node/3052282124",
+        "addr:city": "Meana di Susa",
+        "addr:housenumber": "23",
+        "addr:postcode": "10050",
+        "amenity": "library",
+        "name": "Ida Claretto",
+        "@timestamp": "2014-08-31T18:18:33Z",
+        "@version": "1",
+        "@changeset": "25144485",
+        "@user": "Martj9",
+        "@uid": "675302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0690173,
+          45.1225065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3061595053",
+      "properties": {
+        "@id": "node/3061595053",
+        "addr:city": "Torino",
+        "addr:housenumber": "5",
+        "addr:postcode": "10122",
+        "addr:street": "Via della Cittadella",
+        "amenity": "library",
+        "name": "Biblioteca Torino Centro",
+        "operator": "Comune di Torino",
+        "phone": "+39 011 4429826",
+        "phone_1": "+39 011 4429825",
+        "website": "http://www.comune.torino.it/cultura/biblioteche/sedi_orari/torino_centro.shtml",
+        "wheelchair": "yes",
+        "@timestamp": "2014-09-05T20:07:13Z",
+        "@version": "1",
+        "@changeset": "25255917",
+        "@user": "Valerio_Bozzolan",
+        "@uid": "1875845"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6734869,
+          45.0746233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3079267883",
+      "properties": {
+        "@id": "node/3079267883",
+        "amenity": "library",
+        "name": "Biblioteca Civil",
+        "@timestamp": "2014-09-15T22:02:59Z",
+        "@version": "1",
+        "@changeset": "25467469",
+        "@user": "Palinka",
+        "@uid": "56798"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0390749,
+          45.0876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3083512636",
+      "properties": {
+        "@id": "node/3083512636",
+        "amenity": "library",
+        "@timestamp": "2014-09-17T22:12:05Z",
+        "@version": "1",
+        "@changeset": "25510521",
+        "@user": "AL68",
+        "@uid": "1745073"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3826922,
+          45.9825797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3091927392",
+      "properties": {
+        "@id": "node/3091927392",
+        "amenity": "library",
+        "name": "Biblioteca Civica",
+        "@timestamp": "2014-09-23T02:33:02Z",
+        "@version": "1",
+        "@changeset": "25616330",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6455009,
+          44.6394195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3119489387",
+      "properties": {
+        "@id": "node/3119489387",
+        "amenity": "library",
+        "@timestamp": "2014-10-08T21:48:35Z",
+        "@version": "1",
+        "@changeset": "25949960",
+        "@user": "MaurizioPentenero",
+        "@uid": "2386503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9827192,
+          44.4516177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3139036897",
+      "properties": {
+        "@id": "node/3139036897",
+        "addr:city": "Villar Perosa",
+        "addr:country": "IT",
+        "addr:housenumber": "2",
+        "addr:postcode": "10069",
+        "addr:street": "Viale Galileo Ferraris",
+        "amenity": "library",
+        "email": "biblioteca.villar.perosa@reteunitaria.piemonte.it",
+        "name": "Una finestra sulle valli",
+        "opening_hours": "Mo 14:00-18:00; Tu 09:00-12:00; We-Fr 14:00-18:00; Sa 09:00-12:00",
+        "phone": "+39 0121 315792",
+        "@timestamp": "2014-10-25T01:16:07Z",
+        "@version": "2",
+        "@changeset": "26312598",
+        "@user": "adjuva",
+        "@uid": "92274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2471148,
+          44.9162432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3286119853",
+      "properties": {
+        "@id": "node/3286119853",
+        "amenity": "library",
+        "@timestamp": "2015-01-13T16:40:52Z",
+        "@version": "1",
+        "@changeset": "28115683",
+        "@user": "roby2107",
+        "@uid": "1808258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4147992,
+          45.1077603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3329817693",
+      "properties": {
+        "@id": "node/3329817693",
+        "amenity": "library",
+        "name": "Lombroso 16",
+        "website": "http://www.lombroso16.it",
+        "wheelchair": "yes",
+        "@timestamp": "2015-02-04T12:03:49Z",
+        "@version": "1",
+        "@changeset": "28609289",
+        "@user": "invisigot",
+        "@uid": "1848295"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.682542,
+          45.056127
+        ]
+      }
+    }
+  ]
+}
