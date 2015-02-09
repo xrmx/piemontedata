@@ -1,0 +1,7747 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-02-09T21:10:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/246806213",
+      "properties": {
+        "@id": "node/246806213",
+        "amenity": "post_office",
+        "name": "Ufficio Postale",
+        "@timestamp": "2011-10-25T16:26:18Z",
+        "@version": "2",
+        "@changeset": "9653624",
+        "@user": "paoloshila",
+        "@uid": "540375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7466377,
+          44.3197648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/248407677",
+      "properties": {
+        "@id": "node/248407677",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2012-06-09T18:08:41Z",
+        "@version": "4",
+        "@changeset": "11847505",
+        "@user": "adirricor",
+        "@uid": "245439"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7003771,
+          45.07021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/286528028",
+      "properties": {
+        "@id": "node/286528028",
+        "amenity": "post_office",
+        "@timestamp": "2008-08-09T19:21:00Z",
+        "@version": "1",
+        "@changeset": "155230",
+        "@user": "lucadelu",
+        "@uid": "13591"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7397171,
+          44.2791652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/308768065",
+      "properties": {
+        "@id": "node/308768065",
+        "amenity": "post_office",
+        "created_by": "Potlatch 0.10f",
+        "@timestamp": "2008-10-30T14:05:46Z",
+        "@version": "2",
+        "@changeset": "629902",
+        "@user": "wiselynx",
+        "@uid": "26333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6942685,
+          45.1090462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/321628243",
+      "properties": {
+        "@id": "node/321628243",
+        "amenity": "post_office",
+        "@timestamp": "2008-12-25T18:22:51Z",
+        "@version": "1",
+        "@changeset": "597640",
+        "@user": "Ale_Zena_IT",
+        "@uid": "22290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7869273,
+          44.764308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/415272146",
+      "properties": {
+        "@id": "node/415272146",
+        "amenity": "post_office",
+        "@timestamp": "2009-06-03T08:37:27Z",
+        "@version": "1",
+        "@changeset": "1410744",
+        "@user": "moyogo",
+        "@uid": "246"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6978488,
+          46.0617449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/446391749",
+      "properties": {
+        "@id": "node/446391749",
+        "amenity": "post_office",
+        "atm": "yes",
+        "@timestamp": "2009-08-14T17:52:37Z",
+        "@version": "7",
+        "@changeset": "2145245",
+        "@user": "cervo",
+        "@uid": "146872"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5250929,
+          45.0325809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/448941816",
+      "properties": {
+        "@id": "node/448941816",
+        "amenity": "post_office",
+        "name": "Post Office Varzo",
+        "@timestamp": "2009-07-27T13:06:11Z",
+        "@version": "1",
+        "@changeset": "1954815",
+        "@user": "laufkaefer",
+        "@uid": "141597"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2551606,
+          46.2064853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/448941877",
+      "properties": {
+        "@id": "node/448941877",
+        "amenity": "post_office",
+        "name": "Post Office Ponte",
+        "@timestamp": "2014-09-22T19:57:35Z",
+        "@version": "4",
+        "@changeset": "25611443",
+        "@user": "AL68",
+        "@uid": "1745073"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4266549,
+          46.3767516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/461286924",
+      "properties": {
+        "@id": "node/461286924",
+        "amenity": "post_office",
+        "@timestamp": "2013-05-19T21:32:03Z",
+        "@version": "4",
+        "@changeset": "16200275",
+        "@user": "jump6024",
+        "@uid": "172439"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4931621,
+          44.842967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/461981992",
+      "properties": {
+        "@id": "node/461981992",
+        "amenity": "post_office",
+        "@timestamp": "2009-08-11T21:00:43Z",
+        "@version": "1",
+        "@changeset": "2112319",
+        "@user": "michimambo",
+        "@uid": "156614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9324623,
+          45.0679384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/474991928",
+      "properties": {
+        "@id": "node/474991928",
+        "amenity": "post_office",
+        "name": "PT Posteitaliane",
+        "@timestamp": "2009-08-27T10:11:21Z",
+        "@version": "1",
+        "@changeset": "2275592",
+        "@user": "fahrradfahrer",
+        "@uid": "71312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4391405,
+          45.8218773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/491190414",
+      "properties": {
+        "@id": "node/491190414",
+        "amenity": "post_office",
+        "name": "Savigliano",
+        "operator": "Poste Italiane",
+        "@timestamp": "2009-09-09T16:11:42Z",
+        "@version": "2",
+        "@changeset": "2426435",
+        "@user": "Fabio Locati",
+        "@uid": "40276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6543596,
+          44.6506623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/601623268",
+      "properties": {
+        "@id": "node/601623268",
+        "amenity": "post_office",
+        "atm": "yes",
+        "@timestamp": "2009-12-30T21:04:24Z",
+        "@version": "1",
+        "@changeset": "3493663",
+        "@user": "cervo",
+        "@uid": "146872"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4661226,
+          45.020581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/607971016",
+      "properties": {
+        "@id": "node/607971016",
+        "amenity": "post_office",
+        "name": "Ufficio Postale",
+        "@timestamp": "2010-01-08T09:16:15Z",
+        "@version": "2",
+        "@changeset": "3568486",
+        "@user": "andrea simonassi",
+        "@uid": "182791"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6062901,
+          44.6769568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/619395450",
+      "properties": {
+        "@id": "node/619395450",
+        "addr:housenumber": "191",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2012-12-27T19:14:02Z",
+        "@version": "2",
+        "@changeset": "14428884",
+        "@user": "Geofreund1",
+        "@uid": "179581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6191827,
+          45.9579176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/660834152",
+      "properties": {
+        "@id": "node/660834152",
+        "amenity": "post_office",
+        "atm": "yes",
+        "name": "Poste",
+        "operator": "Poste Italiane",
+        "ref": "Biella 6 - Frazionario 90310",
+        "@timestamp": "2012-01-10T09:28:46Z",
+        "@version": "3",
+        "@changeset": "10349618",
+        "@user": "Silviopen",
+        "@uid": "211665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0413974,
+          45.5580933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/705887960",
+      "properties": {
+        "@id": "node/705887960",
+        "addr:city": "Torino",
+        "addr:housenumber": "2",
+        "addr:postcode": "10137",
+        "addr:street": "Via Flice Bricarello",
+        "amenity": "post_office",
+        "name": "Ufficio Postale Torino 24",
+        "operator": "Poste Italiane",
+        "phone": "+39 011 353571",
+        "@timestamp": "2014-09-09T09:00:35Z",
+        "@version": "7",
+        "@changeset": "25323590",
+        "@user": "dgitto",
+        "@uid": "554973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6448416,
+          45.0391766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/705908249",
+      "properties": {
+        "@id": "node/705908249",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2012-08-07T18:57:01Z",
+        "@version": "2",
+        "@changeset": "12649090",
+        "@user": "Parerga",
+        "@uid": "59457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6273607,
+          45.0393548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/738077446",
+      "properties": {
+        "@id": "node/738077446",
+        "amenity": "post_office",
+        "name": "Post Office",
+        "@timestamp": "2010-05-31T18:44:07Z",
+        "@version": "7",
+        "@changeset": "4865887",
+        "@user": "HeikoE",
+        "@uid": "35560"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2328336,
+          45.1109542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/748259760",
+      "properties": {
+        "@id": "node/748259760",
+        "amenity": "post_office",
+        "@timestamp": "2013-05-11T16:11:18Z",
+        "@version": "3",
+        "@changeset": "16082197",
+        "@user": "Geofreund1",
+        "@uid": "179581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4456551,
+          45.9613803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/811120924",
+      "properties": {
+        "@id": "node/811120924",
+        "amenity": "post_office",
+        "@timestamp": "2010-07-11T09:37:20Z",
+        "@version": "1",
+        "@changeset": "5188462",
+        "@user": "Ale_Zena_IT",
+        "@uid": "22290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4082019,
+          44.3349078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/836424769",
+      "properties": {
+        "@id": "node/836424769",
+        "amenity": "post_office",
+        "wheelchair": "yes",
+        "@timestamp": "2013-06-28T20:26:42Z",
+        "@version": "2",
+        "@changeset": "16743747",
+        "@user": "wheelmap_android",
+        "@uid": "524500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.947975,
+          45.4697691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/838552835",
+      "properties": {
+        "@id": "node/838552835",
+        "amenity": "post_office",
+        "@timestamp": "2010-07-30T10:53:21Z",
+        "@version": "1",
+        "@changeset": "5353581",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9782564,
+          45.4577322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/839934475",
+      "properties": {
+        "@id": "node/839934475",
+        "addr:city": "Novara",
+        "addr:housenumber": "7",
+        "addr:postcode": "28100",
+        "addr:street": "Viale Alessandro Manzoni",
+        "amenity": "post_office",
+        "name": "Poste Italiane",
+        "phone": "+39 0321 675381",
+        "@timestamp": "2014-01-07T07:42:58Z",
+        "@version": "3",
+        "@changeset": "19858296",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.625252,
+          45.4503824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/844165559",
+      "properties": {
+        "@id": "node/844165559",
+        "addr:city": "Novara",
+        "addr:country": "IT",
+        "addr:housenumber": "22/A",
+        "addr:postcode": "28100",
+        "addr:street": "Via Col di Lana",
+        "amenity": "post_office",
+        "name": "Poste Italiane",
+        "phone": "+39 0321 628823",
+        "@timestamp": "2014-01-05T22:08:26Z",
+        "@version": "3",
+        "@changeset": "19832220",
+        "@user": "Alecs01",
+        "@uid": "1476146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6272095,
+          45.4374097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/880421901",
+      "properties": {
+        "@id": "node/880421901",
+        "amenity": "post_office",
+        "@timestamp": "2013-06-17T15:12:50Z",
+        "@version": "3",
+        "@changeset": "16591202",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4843663,
+          45.2619806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/919791022",
+      "properties": {
+        "@id": "node/919791022",
+        "amenity": "post_office",
+        "atm": "no",
+        "@timestamp": "2012-07-26T07:16:58Z",
+        "@version": "2",
+        "@changeset": "12495300",
+        "@user": "noperante",
+        "@uid": "68842"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9814578,
+          45.5577109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/937171190",
+      "properties": {
+        "@id": "node/937171190",
+        "addr:city": "Borgo d'Ale",
+        "addr:housenumber": "84",
+        "addr:postcode": "13040",
+        "addr:street": "Corso Giacomo Matteotti",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2014-11-15T17:46:31Z",
+        "@version": "4",
+        "@changeset": "26804023",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0510124,
+          45.3472034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/938140536",
+      "properties": {
+        "@id": "node/938140536",
+        "amenity": "post_office",
+        "name": "poste",
+        "operator": "Poste Italiane",
+        "@timestamp": "2012-09-30T15:40:58Z",
+        "@version": "2",
+        "@changeset": "13311080",
+        "@user": "iluca72",
+        "@uid": "923593"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0393485,
+          45.0872056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/940690705",
+      "properties": {
+        "@id": "node/940690705",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2014-06-24T14:00:12Z",
+        "@version": "2",
+        "@changeset": "23123510",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9750531,
+          45.5715035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/944985432",
+      "properties": {
+        "@id": "node/944985432",
+        "amenity": "post_office",
+        "@timestamp": "2010-10-11T10:10:12Z",
+        "@version": "1",
+        "@changeset": "6010309",
+        "@user": "sbiribizio",
+        "@uid": "354284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4496522,
+          45.1365412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/946573167",
+      "properties": {
+        "@id": "node/946573167",
+        "amenity": "post_office",
+        "@timestamp": "2010-10-13T11:53:58Z",
+        "@version": "1",
+        "@changeset": "6028444",
+        "@user": "Sinki",
+        "@uid": "344445"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.41452,
+          45.9710206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/946844990",
+      "properties": {
+        "@id": "node/946844990",
+        "amenity": "post_office",
+        "brand": "Repsol",
+        "@timestamp": "2010-10-13T17:04:41Z",
+        "@version": "1",
+        "@changeset": "6030808",
+        "@user": "androne",
+        "@uid": "334734"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7518434,
+          45.0158062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/949674360",
+      "properties": {
+        "@id": "node/949674360",
+        "amenity": "post_office",
+        "@timestamp": "2012-05-18T12:23:20Z",
+        "@version": "3",
+        "@changeset": "11632571",
+        "@user": "sbiribizio",
+        "@uid": "354284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4531213,
+          45.130565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/966570957",
+      "properties": {
+        "@id": "node/966570957",
+        "addr:city": "Torino",
+        "addr:country": "IT",
+        "addr:housenumber": "8",
+        "addr:postcode": "10129",
+        "addr:street": "Via Enrico D'Ovidio",
+        "amenity": "post_office",
+        "atm": "yes",
+        "name": "Torino 27",
+        "opening_hours": "Mo-Fr 08:30-14:00; Sa 08:30-13:00",
+        "operator": "Poste Italiane",
+        "phone": "+39 011 534185",
+        "ref": "Torino 27",
+        "wheelchair": "yes",
+        "@timestamp": "2013-11-01T12:42:48Z",
+        "@version": "7",
+        "@changeset": "18650785",
+        "@user": "Guidus",
+        "@uid": "417672"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6611951,
+          45.0620099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/968885838",
+      "properties": {
+        "@id": "node/968885838",
+        "amenity": "post_office",
+        "@timestamp": "2014-01-08T07:58:04Z",
+        "@version": "2",
+        "@changeset": "19877307",
+        "@user": "sbiribizio",
+        "@uid": "354284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4614728,
+          45.1354028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/993135073",
+      "properties": {
+        "@id": "node/993135073",
+        "amenity": "post_office",
+        "@timestamp": "2010-11-17T22:23:08Z",
+        "@version": "1",
+        "@changeset": "6396689",
+        "@user": "cervo",
+        "@uid": "146872"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9292534,
+          45.097862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1045316135",
+      "properties": {
+        "@id": "node/1045316135",
+        "amenity": "post_office",
+        "@timestamp": "2013-08-04T18:46:31Z",
+        "@version": "2",
+        "@changeset": "17218669",
+        "@user": "albertux",
+        "@uid": "118185"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5919822,
+          46.073363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1053730513",
+      "properties": {
+        "@id": "node/1053730513",
+        "amenity": "post_office",
+        "@timestamp": "2010-12-21T08:48:06Z",
+        "@version": "1",
+        "@changeset": "6723054",
+        "@user": "sbiribizio",
+        "@uid": "354284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5251461,
+          45.1640441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1125029966",
+      "properties": {
+        "@id": "node/1125029966",
+        "amenity": "post_office",
+        "@timestamp": "2011-01-28T17:01:38Z",
+        "@version": "1",
+        "@changeset": "7114750",
+        "@user": "lucadelu",
+        "@uid": "13591"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7789236,
+          44.3386719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1156167905",
+      "properties": {
+        "@id": "node/1156167905",
+        "amenity": "post_office",
+        "@timestamp": "2011-03-07T10:40:20Z",
+        "@version": "2",
+        "@changeset": "7482683",
+        "@user": "raccoss",
+        "@uid": "305159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6034054,
+          45.0059079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1158026882",
+      "properties": {
+        "@id": "node/1158026882",
+        "amenity": "post_office",
+        "name": "Netro",
+        "operator": "Poste Italiane",
+        "@timestamp": "2011-02-17T21:11:48Z",
+        "@version": "1",
+        "@changeset": "7317381",
+        "@user": "noperante",
+        "@uid": "68842"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.947812,
+          45.5379754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1229172966",
+      "properties": {
+        "@id": "node/1229172966",
+        "amenity": "post_office",
+        "name": "Biella",
+        "operator": "Poste Italiane",
+        "@timestamp": "2013-06-03T19:57:24Z",
+        "@version": "2",
+        "@changeset": "16412083",
+        "@user": "Gianni Bragante",
+        "@uid": "1396397"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0671088,
+          45.5572855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1234102767",
+      "properties": {
+        "@id": "node/1234102767",
+        "amenity": "post_office",
+        "@timestamp": "2011-04-05T20:35:44Z",
+        "@version": "1",
+        "@changeset": "7779172",
+        "@user": "sibio",
+        "@uid": "430123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9774882,
+          45.6762932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1240196587",
+      "properties": {
+        "@id": "node/1240196587",
+        "amenity": "post_office",
+        "@timestamp": "2011-04-10T18:23:58Z",
+        "@version": "1",
+        "@changeset": "7825903",
+        "@user": "Ale_Zena_IT",
+        "@uid": "22290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0950106,
+          44.673645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1241422182",
+      "properties": {
+        "@id": "node/1241422182",
+        "amenity": "post_office",
+        "@timestamp": "2014-11-11T10:13:35Z",
+        "@version": "2",
+        "@changeset": "26706924",
+        "@user": "openpablo3",
+        "@uid": "708145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4675689,
+          46.1434643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1264092246",
+      "properties": {
+        "@id": "node/1264092246",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2013-01-08T20:12:39Z",
+        "@version": "2",
+        "@changeset": "14579002",
+        "@user": "Geofreund1",
+        "@uid": "179581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6843581,
+          46.0222292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1268489824",
+      "properties": {
+        "@id": "node/1268489824",
+        "amenity": "post_office",
+        "@timestamp": "2011-05-01T08:45:05Z",
+        "@version": "1",
+        "@changeset": "8018789",
+        "@user": "Ale_Zena_IT",
+        "@uid": "22290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0662041,
+          44.7018714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1268489906",
+      "properties": {
+        "@id": "node/1268489906",
+        "amenity": "post_office",
+        "@timestamp": "2011-05-01T08:45:09Z",
+        "@version": "1",
+        "@changeset": "8018789",
+        "@user": "Ale_Zena_IT",
+        "@uid": "22290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0509456,
+          44.7081572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1272613128",
+      "properties": {
+        "@id": "node/1272613128",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2011-05-05T00:33:15Z",
+        "@version": "1",
+        "@changeset": "8053768",
+        "@user": "UmbeP",
+        "@uid": "214142"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2994425,
+          46.0791458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1277429295",
+      "properties": {
+        "@id": "node/1277429295",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2011-05-08T18:14:30Z",
+        "@version": "1",
+        "@changeset": "8085693",
+        "@user": "UmbeP",
+        "@uid": "214142"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2578196,
+          46.0435196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1317624968",
+      "properties": {
+        "@id": "node/1317624968",
+        "amenity": "post_office",
+        "@timestamp": "2014-06-16T19:29:45Z",
+        "@version": "3",
+        "@changeset": "22971102",
+        "@user": "Dufour85",
+        "@uid": "822180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8671545,
+          45.3912013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1327905343",
+      "properties": {
+        "@id": "node/1327905343",
+        "amenity": "post_office",
+        "@timestamp": "2011-06-16T20:32:31Z",
+        "@version": "1",
+        "@changeset": "8459903",
+        "@user": "Ale_Zena_IT",
+        "@uid": "22290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4892129,
+          44.3957679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1327905361",
+      "properties": {
+        "@id": "node/1327905361",
+        "amenity": "post_office",
+        "@timestamp": "2011-06-16T20:32:32Z",
+        "@version": "1",
+        "@changeset": "8459903",
+        "@user": "Ale_Zena_IT",
+        "@uid": "22290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2866562,
+          44.4788588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1327905363",
+      "properties": {
+        "@id": "node/1327905363",
+        "amenity": "post_office",
+        "@timestamp": "2014-12-19T15:45:27Z",
+        "@version": "2",
+        "@changeset": "27571835",
+        "@user": "achim becker",
+        "@uid": "2153674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.256319,
+          44.4882781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1327910220",
+      "properties": {
+        "@id": "node/1327910220",
+        "amenity": "post_office",
+        "@timestamp": "2011-06-16T20:40:49Z",
+        "@version": "1",
+        "@changeset": "8459983",
+        "@user": "Ale_Zena_IT",
+        "@uid": "22290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0667609,
+          44.4846924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1334925713",
+      "properties": {
+        "@id": "node/1334925713",
+        "amenity": "post_office",
+        "@timestamp": "2011-06-22T20:59:43Z",
+        "@version": "1",
+        "@changeset": "8518310",
+        "@user": "giusdi",
+        "@uid": "285264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2698672,
+          45.1079534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1334925714",
+      "properties": {
+        "@id": "node/1334925714",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "ref": "Post Office",
+        "@timestamp": "2011-06-22T20:59:43Z",
+        "@version": "1",
+        "@changeset": "8518310",
+        "@user": "giusdi",
+        "@uid": "285264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.269878,
+          45.1079534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1346740969",
+      "properties": {
+        "@id": "node/1346740969",
+        "amenity": "post_office",
+        "@timestamp": "2011-11-17T10:45:36Z",
+        "@version": "2",
+        "@changeset": "9852898",
+        "@user": "balin",
+        "@uid": "249090"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7211984,
+          45.4635149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1369013576",
+      "properties": {
+        "@id": "node/1369013576",
+        "amenity": "post_office",
+        "@timestamp": "2011-07-21T13:02:42Z",
+        "@version": "1",
+        "@changeset": "8788398",
+        "@user": "sbiribizio",
+        "@uid": "354284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4486012,
+          44.7710772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1374641588",
+      "properties": {
+        "@id": "node/1374641588",
+        "amenity": "post_office",
+        "@timestamp": "2011-07-26T11:47:58Z",
+        "@version": "1",
+        "@changeset": "8834974",
+        "@user": "DanieleSer",
+        "@uid": "495913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5747711,
+          45.1306748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1382250560",
+      "properties": {
+        "@id": "node/1382250560",
+        "amenity": "post_office",
+        "@timestamp": "2011-08-01T21:26:28Z",
+        "@version": "1",
+        "@changeset": "8895646",
+        "@user": "Ale_Zena_IT",
+        "@uid": "22290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4854804,
+          44.5636048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1387482529",
+      "properties": {
+        "@id": "node/1387482529",
+        "amenity": "post_office",
+        "@timestamp": "2011-08-05T13:15:17Z",
+        "@version": "1",
+        "@changeset": "8928979",
+        "@user": "Ale_Zena_IT",
+        "@uid": "22290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1731313,
+          44.3070958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1387487269",
+      "properties": {
+        "@id": "node/1387487269",
+        "amenity": "post_office",
+        "@timestamp": "2011-08-05T13:22:59Z",
+        "@version": "1",
+        "@changeset": "8929042",
+        "@user": "Ale_Zena_IT",
+        "@uid": "22290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2954418,
+          44.3154486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1388222597",
+      "properties": {
+        "@id": "node/1388222597",
+        "amenity": "post_office",
+        "name": "Poste Italiane di Bioglio",
+        "@timestamp": "2011-08-06T08:25:52Z",
+        "@version": "1",
+        "@changeset": "8935708",
+        "@user": "GianlucaF",
+        "@uid": "501788"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1297039,
+          45.6104268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1400990846",
+      "properties": {
+        "@id": "node/1400990846",
+        "amenity": "post_office",
+        "@timestamp": "2011-08-16T12:48:34Z",
+        "@version": "1",
+        "@changeset": "9036603",
+        "@user": "sbiribizio",
+        "@uid": "354284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4867779,
+          44.8614397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1402815767",
+      "properties": {
+        "@id": "node/1402815767",
+        "amenity": "post_office",
+        "@timestamp": "2014-12-12T19:01:26Z",
+        "@version": "2",
+        "@changeset": "27428138",
+        "@user": "achim becker",
+        "@uid": "2153674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9693793,
+          44.3795737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1403175380",
+      "properties": {
+        "@id": "node/1403175380",
+        "amenity": "post_office",
+        "@timestamp": "2011-08-18T11:00:00Z",
+        "@version": "1",
+        "@changeset": "9055783",
+        "@user": "sbiribizio",
+        "@uid": "354284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4266916,
+          44.9642796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1407699329",
+      "properties": {
+        "@id": "node/1407699329",
+        "amenity": "post_office",
+        "@timestamp": "2011-08-21T22:09:34Z",
+        "@version": "1",
+        "@changeset": "9089453",
+        "@user": "Botaler",
+        "@uid": "492756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3878616,
+          44.3180482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1409591664",
+      "properties": {
+        "@id": "node/1409591664",
+        "amenity": "post_office",
+        "name": "Ufficio postale",
+        "@timestamp": "2012-09-04T13:51:29Z",
+        "@version": "2",
+        "@changeset": "12982252",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3461104,
+          45.2853614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1413160945",
+      "properties": {
+        "@id": "node/1413160945",
+        "amenity": "post_office",
+        "@timestamp": "2013-09-23T22:41:48Z",
+        "@version": "2",
+        "@changeset": "18000510",
+        "@user": "Botaler",
+        "@uid": "492756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4411556,
+          44.3414451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1414937173",
+      "properties": {
+        "@id": "node/1414937173",
+        "amenity": "post_office",
+        "name": "Ufficio Poste Italiane",
+        "wheelchair": "limited",
+        "@timestamp": "2012-11-16T21:53:18Z",
+        "@version": "4",
+        "@changeset": "13899408",
+        "@user": "Valerio Chietti",
+        "@uid": "545350"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6966044,
+          46.0638462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1433216389",
+      "properties": {
+        "@id": "node/1433216389",
+        "amenity": "post_office",
+        "atm": "yes",
+        "wheelchair": "limited",
+        "@timestamp": "2013-06-29T17:49:26Z",
+        "@version": "2",
+        "@changeset": "16752560",
+        "@user": "wheelmap_android",
+        "@uid": "524500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6170378,
+          44.9219698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1435793542",
+      "properties": {
+        "@id": "node/1435793542",
+        "amenity": "post_office",
+        "@timestamp": "2011-09-17T19:50:16Z",
+        "@version": "1",
+        "@changeset": "9327132",
+        "@user": "Botaler",
+        "@uid": "492756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4796602,
+          44.3137202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1438254809",
+      "properties": {
+        "@id": "node/1438254809",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2014-09-09T09:00:39Z",
+        "@version": "2",
+        "@changeset": "25323590",
+        "@user": "dgitto",
+        "@uid": "554973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6629047,
+          45.072511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1447899348",
+      "properties": {
+        "@id": "node/1447899348",
+        "amenity": "post_office",
+        "@timestamp": "2011-09-28T09:51:31Z",
+        "@version": "1",
+        "@changeset": "9417631",
+        "@user": "Enrico Ponassi",
+        "@uid": "286756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6459875,
+          44.3653095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1467593842",
+      "properties": {
+        "@id": "node/1467593842",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "wheelchair": "yes",
+        "@timestamp": "2014-02-17T23:15:26Z",
+        "@version": "3",
+        "@changeset": "20626840",
+        "@user": "wheelmap_android",
+        "@uid": "524500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6832932,
+          45.06001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1468282948",
+      "properties": {
+        "@id": "node/1468282948",
+        "amenity": "post_office",
+        "name": "Asti 4",
+        "operator": "Poste Italiane",
+        "@timestamp": "2013-10-11T23:20:40Z",
+        "@version": "2",
+        "@changeset": "18306470",
+        "@user": "Guidus",
+        "@uid": "417672"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2124107,
+          44.899046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1468333877",
+      "properties": {
+        "@id": "node/1468333877",
+        "amenity": "post_office",
+        "operator": "Poste Spa",
+        "@timestamp": "2011-10-15T15:32:29Z",
+        "@version": "1",
+        "@changeset": "9564159",
+        "@user": "lucadelu",
+        "@uid": "13591"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2185155,
+          44.9044546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1469560310",
+      "properties": {
+        "@id": "node/1469560310",
+        "amenity": "post_office",
+        "@timestamp": "2011-10-16T17:06:08Z",
+        "@version": "1",
+        "@changeset": "9574579",
+        "@user": "sbiribizio",
+        "@uid": "354284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4565981,
+          44.992295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1470026036",
+      "properties": {
+        "@id": "node/1470026036",
+        "amenity": "post_office",
+        "name": "Asti Dante",
+        "operator": "Poste Italiane",
+        "@timestamp": "2013-11-11T16:50:09Z",
+        "@version": "3",
+        "@changeset": "18839257",
+        "@user": "Guidus",
+        "@uid": "417672"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.205517,
+          44.9019553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1470615806",
+      "properties": {
+        "@id": "node/1470615806",
+        "addr:housenumber": "7c",
+        "addr:street": "Via Bagnasco",
+        "amenity": "post_office",
+        "name": "PT 73 Via Bagnasco",
+        "wheelchair": "limited",
+        "@timestamp": "2014-08-25T11:14:04Z",
+        "@version": "4",
+        "@changeset": "25000531",
+        "@user": "lucio checchia",
+        "@uid": "2238789"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6506976,
+          45.0559617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1470617309",
+      "properties": {
+        "@id": "node/1470617309",
+        "amenity": "post_office",
+        "name": "Asti 6",
+        "operator": "Poste Italiane",
+        "@timestamp": "2013-12-19T22:34:44Z",
+        "@version": "3",
+        "@changeset": "19539609",
+        "@user": "Guidus",
+        "@uid": "417672"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2061218,
+          44.8957055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1470664164",
+      "properties": {
+        "@id": "node/1470664164",
+        "amenity": "post_office",
+        "name": "Asti 1",
+        "@timestamp": "2011-10-17T10:04:59Z",
+        "@version": "1",
+        "@changeset": "9580380",
+        "@user": "Ale_Zena_IT",
+        "@uid": "22290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2024828,
+          44.8991564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1471963169",
+      "properties": {
+        "@id": "node/1471963169",
+        "amenity": "post_office",
+        "name": "Ufficio Postale Saluzzo",
+        "@timestamp": "2011-10-18T11:42:05Z",
+        "@version": "1",
+        "@changeset": "9590475",
+        "@user": "claudio87",
+        "@uid": "534729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4949419,
+          44.6472662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1482169836",
+      "properties": {
+        "@id": "node/1482169836",
+        "amenity": "post_office",
+        "name": "Poste",
+        "@timestamp": "2011-10-27T09:48:14Z",
+        "@version": "1",
+        "@changeset": "9666474",
+        "@user": "Gianpiero Oliva",
+        "@uid": "535765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5554636,
+          44.6245641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1500139566",
+      "properties": {
+        "@id": "node/1500139566",
+        "amenity": "post_office",
+        "atm": "yes",
+        "name": "Torino 19",
+        "operator": "Poste Italiane",
+        "@timestamp": "2011-11-12T16:22:32Z",
+        "@version": "1",
+        "@changeset": "9805875",
+        "@user": "s19n",
+        "@uid": "513389"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6551957,
+          45.0754597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1500173371",
+      "properties": {
+        "@id": "node/1500173371",
+        "amenity": "post_office",
+        "atm": "yes",
+        "name": "Torino 6",
+        "operator": "Poste Italiane",
+        "@timestamp": "2011-11-12T16:33:59Z",
+        "@version": "1",
+        "@changeset": "9805875",
+        "@user": "s19n",
+        "@uid": "513389"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6468141,
+          45.0703363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1500215658",
+      "properties": {
+        "@id": "node/1500215658",
+        "amenity": "post_office",
+        "atm": "yes",
+        "name": "Torino 46",
+        "operator": "Poste Italiane",
+        "@timestamp": "2011-11-12T16:58:59Z",
+        "@version": "1",
+        "@changeset": "9805875",
+        "@user": "s19n",
+        "@uid": "513389"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6322841,
+          45.079928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1502714484",
+      "properties": {
+        "@id": "node/1502714484",
+        "amenity": "post_office",
+        "atm": "yes",
+        "name": "Torino 30",
+        "operator": "Poste Italiane",
+        "@timestamp": "2011-11-14T09:35:11Z",
+        "@version": "1",
+        "@changeset": "9822884",
+        "@user": "s19n",
+        "@uid": "513389"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6495624,
+          45.0981773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1502720204",
+      "properties": {
+        "@id": "node/1502720204",
+        "amenity": "post_office",
+        "atm": "yes",
+        "name": "Torino 31",
+        "operator": "Poste Italiane",
+        "@timestamp": "2011-11-14T09:57:18Z",
+        "@version": "1",
+        "@changeset": "9822884",
+        "@user": "s19n",
+        "@uid": "513389"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6658293,
+          45.1032368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1512146626",
+      "properties": {
+        "@id": "node/1512146626",
+        "amenity": "post_office",
+        "name": "Ufficio postale",
+        "operator": "Poste Italiane",
+        "@timestamp": "2014-09-09T09:00:37Z",
+        "@version": "2",
+        "@changeset": "25323590",
+        "@user": "dgitto",
+        "@uid": "554973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7364762,
+          45.4346512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1530422635",
+      "properties": {
+        "@id": "node/1530422635",
+        "amenity": "post_office",
+        "@timestamp": "2013-10-13T08:43:03Z",
+        "@version": "2",
+        "@changeset": "18328416",
+        "@user": "Botaler",
+        "@uid": "492756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5327008,
+          44.2474759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1531964429",
+      "properties": {
+        "@id": "node/1531964429",
+        "amenity": "post_office",
+        "@timestamp": "2014-11-13T16:44:53Z",
+        "@version": "3",
+        "@changeset": "26759687",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3745602,
+          44.3380765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1537190870",
+      "properties": {
+        "@id": "node/1537190870",
+        "amenity": "post_office",
+        "@timestamp": "2011-12-08T19:51:56Z",
+        "@version": "1",
+        "@changeset": "10068147",
+        "@user": "Ale_Zena_IT",
+        "@uid": "22290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0035694,
+          44.1082969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1573468472",
+      "properties": {
+        "@id": "node/1573468472",
+        "amenity": "post_office",
+        "@timestamp": "2012-01-02T00:58:48Z",
+        "@version": "1",
+        "@changeset": "10267178",
+        "@user": "Botaler",
+        "@uid": "492756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3959269,
+          44.2774937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1575896094",
+      "properties": {
+        "@id": "node/1575896094",
+        "amenity": "post_office",
+        "@timestamp": "2012-01-04T12:44:47Z",
+        "@version": "2",
+        "@changeset": "10290414",
+        "@user": "Niccolo",
+        "@uid": "864"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9412317,
+          45.0133351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592546036",
+      "properties": {
+        "@id": "node/1592546036",
+        "amenity": "post_office",
+        "name": "Ufficio Postale di San Giuliano Nuovo",
+        "@timestamp": "2012-01-16T11:03:48Z",
+        "@version": "1",
+        "@changeset": "10407318",
+        "@user": "sbrublu",
+        "@uid": "586732"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7647908,
+          44.9084864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592619381",
+      "properties": {
+        "@id": "node/1592619381",
+        "amenity": "post_office",
+        "name": "Ufficio Postale di Caresana",
+        "@timestamp": "2013-02-03T14:21:58Z",
+        "@version": "2",
+        "@changeset": "14896983",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5064082,
+          45.2210921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592837337",
+      "properties": {
+        "@id": "node/1592837337",
+        "amenity": "post_office",
+        "name": "Ufficio Postale di Villanova Monferrato",
+        "@timestamp": "2012-08-02T12:01:37Z",
+        "@version": "2",
+        "@changeset": "12585046",
+        "@user": "sbiribizio",
+        "@uid": "354284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4793537,
+          45.1813775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1593125394",
+      "properties": {
+        "@id": "node/1593125394",
+        "amenity": "post_office",
+        "name": "Ufficio postale di Occimiano",
+        "@timestamp": "2012-01-16T16:19:27Z",
+        "@version": "1",
+        "@changeset": "10409495",
+        "@user": "sbrublu",
+        "@uid": "586732"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5067605,
+          45.0598107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1593179104",
+      "properties": {
+        "@id": "node/1593179104",
+        "amenity": "post_office",
+        "name": "Ufficio postale di Oltreponte",
+        "@timestamp": "2013-04-03T08:22:32Z",
+        "@version": "2",
+        "@changeset": "15591351",
+        "@user": "sbiribizio",
+        "@uid": "354284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4453014,
+          45.142919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1609955108",
+      "properties": {
+        "@id": "node/1609955108",
+        "amenity": "post_office",
+        "name": "Poste Vigliano Biellese",
+        "operator": "Poste Italiane",
+        "@timestamp": "2014-09-09T09:00:32Z",
+        "@version": "3",
+        "@changeset": "25323590",
+        "@user": "dgitto",
+        "@uid": "554973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0914552,
+          45.5643848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1628578684",
+      "properties": {
+        "@id": "node/1628578684",
+        "amenity": "post_office",
+        "name": "Poste Italiane-Cressa",
+        "@timestamp": "2013-01-13T22:15:43Z",
+        "@version": "2",
+        "@changeset": "14641966",
+        "@user": "Fabrizio Godio",
+        "@uid": "600862"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5085306,
+          45.648547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1636821195",
+      "properties": {
+        "@id": "node/1636821195",
+        "amenity": "post_office",
+        "@timestamp": "2012-02-17T18:01:48Z",
+        "@version": "1",
+        "@changeset": "10713345",
+        "@user": "Riki88",
+        "@uid": "606626"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3529006,
+          44.5987789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1666073513",
+      "properties": {
+        "@id": "node/1666073513",
+        "amenity": "post_office",
+        "name": "Ufficio Postale di Borgo Vercelli",
+        "@timestamp": "2012-03-08T16:58:02Z",
+        "@version": "1",
+        "@changeset": "10911125",
+        "@user": "vitton",
+        "@uid": "620135"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4671548,
+          45.3566309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1671249924",
+      "properties": {
+        "@id": "node/1671249924",
+        "amenity": "post_office",
+        "@timestamp": "2012-03-11T22:58:14Z",
+        "@version": "1",
+        "@changeset": "10949619",
+        "@user": "maner",
+        "@uid": "6083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4525272,
+          44.6312144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1673397932",
+      "properties": {
+        "@id": "node/1673397932",
+        "amenity": "post_office",
+        "name": "Ufficio Postale di Nebbiuno",
+        "@timestamp": "2012-03-13T14:07:52Z",
+        "@version": "1",
+        "@changeset": "10967030",
+        "@user": "CVI",
+        "@uid": "34088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5231235,
+          45.8054632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1673397935",
+      "properties": {
+        "@id": "node/1673397935",
+        "amenity": "post_office",
+        "name": "Ufficio postale di Pisano",
+        "@timestamp": "2012-03-13T14:07:52Z",
+        "@version": "1",
+        "@changeset": "10967030",
+        "@user": "CVI",
+        "@uid": "34088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5104999,
+          45.7933514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1702405659",
+      "properties": {
+        "@id": "node/1702405659",
+        "amenity": "post_office",
+        "@timestamp": "2012-04-05T08:58:25Z",
+        "@version": "1",
+        "@changeset": "11186494",
+        "@user": "sbiribizio",
+        "@uid": "354284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6675884,
+          45.4167749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1702758554",
+      "properties": {
+        "@id": "node/1702758554",
+        "amenity": "post_office",
+        "name": "Post Office",
+        "@timestamp": "2012-04-05T14:41:35Z",
+        "@version": "1",
+        "@changeset": "11190213",
+        "@user": "turco antonio",
+        "@uid": "646181"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5122994,
+          44.9543654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1703462130",
+      "properties": {
+        "@id": "node/1703462130",
+        "amenity": "post_office",
+        "@timestamp": "2012-05-01T21:00:29Z",
+        "@version": "2",
+        "@changeset": "11474426",
+        "@user": "camlt63",
+        "@uid": "645590"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6485745,
+          45.3910003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1710319148",
+      "properties": {
+        "@id": "node/1710319148",
+        "amenity": "post_office",
+        "@timestamp": "2012-04-10T18:01:03Z",
+        "@version": "1",
+        "@changeset": "11255514",
+        "@user": "sbiribizio",
+        "@uid": "354284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3261889,
+          45.2350834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1725900836",
+      "properties": {
+        "@id": "node/1725900836",
+        "amenity": "post_office",
+        "@timestamp": "2012-04-21T22:17:32Z",
+        "@version": "1",
+        "@changeset": "11378730",
+        "@user": "Botaler",
+        "@uid": "492756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.729993,
+          44.5514677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1727131105",
+      "properties": {
+        "@id": "node/1727131105",
+        "amenity": "post_office",
+        "@timestamp": "2012-04-22T21:26:29Z",
+        "@version": "1",
+        "@changeset": "11389435",
+        "@user": "mikibe",
+        "@uid": "661035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6285653,
+          45.6649733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1730327647",
+      "properties": {
+        "@id": "node/1730327647",
+        "amenity": "post_office",
+        "@timestamp": "2013-10-05T16:39:42Z",
+        "@version": "3",
+        "@changeset": "18198574",
+        "@user": "gscholz",
+        "@uid": "109705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1881671,
+          44.5795995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1732487219",
+      "properties": {
+        "@id": "node/1732487219",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2012-04-26T23:42:48Z",
+        "@version": "1",
+        "@changeset": "11428887",
+        "@user": "aledipaola",
+        "@uid": "666682"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8864902,
+          45.3820365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1734976494",
+      "properties": {
+        "@id": "node/1734976494",
+        "amenity": "post_office",
+        "@timestamp": "2012-04-29T08:50:44Z",
+        "@version": "1",
+        "@changeset": "11447386",
+        "@user": "mikelima",
+        "@uid": "12473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6321273,
+          45.1298342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1735418056",
+      "properties": {
+        "@id": "node/1735418056",
+        "amenity": "post_office",
+        "atm": "yes",
+        "@timestamp": "2012-04-29T16:56:24Z",
+        "@version": "1",
+        "@changeset": "11451860",
+        "@user": "pgn",
+        "@uid": "25372"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7673346,
+          44.9480702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1738070494",
+      "properties": {
+        "@id": "node/1738070494",
+        "amenity": "post_office",
+        "@timestamp": "2012-10-22T19:07:36Z",
+        "@version": "3",
+        "@changeset": "13596835",
+        "@user": "Ale_Zena_IT",
+        "@uid": "22290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7823706,
+          44.759979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1739770918",
+      "properties": {
+        "@id": "node/1739770918",
+        "amenity": "post_office",
+        "@timestamp": "2012-05-03T21:31:04Z",
+        "@version": "1",
+        "@changeset": "11492880",
+        "@user": "Tatola_Aly92",
+        "@uid": "673366"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8194147,
+          45.0151379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1739790650",
+      "properties": {
+        "@id": "node/1739790650",
+        "amenity": "post_office",
+        "@timestamp": "2012-05-03T22:03:34Z",
+        "@version": "1",
+        "@changeset": "11492880",
+        "@user": "Tatola_Aly92",
+        "@uid": "673366"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8683514,
+          45.0346882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1743726921",
+      "properties": {
+        "@id": "node/1743726921",
+        "amenity": "post_office",
+        "name": "Ufficio Postale Piazza Eigenio Curiel",
+        "operator": "Poste Italiane",
+        "@timestamp": "2012-05-06T22:29:22Z",
+        "@version": "1",
+        "@changeset": "11523924",
+        "@user": "Viking81",
+        "@uid": "645593"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6084239,
+          44.9084178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1745440585",
+      "properties": {
+        "@id": "node/1745440585",
+        "amenity": "post_office",
+        "@timestamp": "2012-05-08T11:55:30Z",
+        "@version": "1",
+        "@changeset": "11538219",
+        "@user": "Gabbro",
+        "@uid": "81746"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6555138,
+          45.0311807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1750934223",
+      "properties": {
+        "@id": "node/1750934223",
+        "amenity": "post_office",
+        "name": "Poste Italiana",
+        "@timestamp": "2012-05-13T16:33:35Z",
+        "@version": "2",
+        "@changeset": "11587795",
+        "@user": "Creando",
+        "@uid": "132740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9426705,
+          44.6100226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1756203929",
+      "properties": {
+        "@id": "node/1756203929",
+        "amenity": "post_office",
+        "name": "Poste Italiane S.P.A.",
+        "ref": "Piazza Municipio, 16",
+        "@timestamp": "2012-05-22T08:25:29Z",
+        "@version": "5",
+        "@changeset": "11669090",
+        "@user": "PGG",
+        "@uid": "683889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3891514,
+          45.3134095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1757370104",
+      "properties": {
+        "@id": "node/1757370104",
+        "amenity": "post_office",
+        "@timestamp": "2012-05-18T16:44:57Z",
+        "@version": "1",
+        "@changeset": "11634803",
+        "@user": "giacomop",
+        "@uid": "683319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8427873,
+          44.620467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1763101014",
+      "properties": {
+        "@id": "node/1763101014",
+        "amenity": "post_office",
+        "@timestamp": "2013-01-14T13:01:33Z",
+        "@version": "3",
+        "@changeset": "14647726",
+        "@user": "nuvolabianca",
+        "@uid": "439413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3874131,
+          45.3385793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1771851111",
+      "properties": {
+        "@id": "node/1771851111",
+        "amenity": "post_office",
+        "@timestamp": "2012-05-31T21:10:42Z",
+        "@version": "1",
+        "@changeset": "11762242",
+        "@user": "declivio",
+        "@uid": "676601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5698381,
+          45.1994615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1772622101",
+      "properties": {
+        "@id": "node/1772622101",
+        "amenity": "post_office",
+        "@timestamp": "2012-06-01T12:24:34Z",
+        "@version": "1",
+        "@changeset": "11767148",
+        "@user": "JulianMortel",
+        "@uid": "693765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0252359,
+          44.9889167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1774156099",
+      "properties": {
+        "@id": "node/1774156099",
+        "amenity": "post_office",
+        "@timestamp": "2012-06-02T23:15:33Z",
+        "@version": "1",
+        "@changeset": "11781731",
+        "@user": "Botaler",
+        "@uid": "492756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2824435,
+          44.4185831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1779546071",
+      "properties": {
+        "@id": "node/1779546071",
+        "amenity": "post_office",
+        "name": "Poste Italiane, Pamparato",
+        "operator": "Poste Italiane",
+        "@timestamp": "2013-02-28T11:50:53Z",
+        "@version": "2",
+        "@changeset": "15195566",
+        "@user": "mcheck",
+        "@uid": "478872"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9138465,
+          44.2771111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1813440395",
+      "properties": {
+        "@id": "node/1813440395",
+        "amenity": "post_office",
+        "name": "Ufficio Postale",
+        "@timestamp": "2012-07-05T06:41:18Z",
+        "@version": "1",
+        "@changeset": "12116839",
+        "@user": "Silvano Beltramo",
+        "@uid": "717652"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9682372,
+          45.2161996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1832037957",
+      "properties": {
+        "@id": "node/1832037957",
+        "amenity": "post_office",
+        "@timestamp": "2012-07-21T10:42:10Z",
+        "@version": "2",
+        "@changeset": "12406141",
+        "@user": "Patrus",
+        "@uid": "369905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8835432,
+          45.0723249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1835102618",
+      "properties": {
+        "@id": "node/1835102618",
+        "amenity": "post_office",
+        "@timestamp": "2012-07-23T09:14:24Z",
+        "@version": "1",
+        "@changeset": "12447091",
+        "@user": "sbiribizio",
+        "@uid": "354284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9320133,
+          44.8417766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1835607768",
+      "properties": {
+        "@id": "node/1835607768",
+        "addr:city": "Torre Pellice",
+        "addr:country": "IT",
+        "addr:housenumber": "7",
+        "addr:postcode": "10066",
+        "addr:street": "Piazza della Libertà",
+        "amenity": "post_office",
+        "atm": "no",
+        "contact:fax": "+39 0121 91222",
+        "contact:phone": "+39 0121 91222",
+        "contact:website": "http://www.poste.it",
+        "name": "Ufficio Postale Torre Pellice",
+        "opening_hours": "Mo-Fr 08:30-14:00; Sa 08:30-13:00",
+        "operator": "Poste Italiane",
+        "ref": "63348",
+        "@timestamp": "2014-01-01T12:35:21Z",
+        "@version": "9",
+        "@changeset": "19743951",
+        "@user": "ypid",
+        "@uid": "1486839"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2246468,
+          44.8210874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1839819130",
+      "properties": {
+        "@id": "node/1839819130",
+        "amenity": "post_office",
+        "name": "Ufficio postale di Giaveno",
+        "@timestamp": "2012-07-27T13:10:50Z",
+        "@version": "1",
+        "@changeset": "12511290",
+        "@user": "AlessioNET",
+        "@uid": "377456"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3533834,
+          45.0403973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1840407609",
+      "properties": {
+        "@id": "node/1840407609",
+        "amenity": "post_office",
+        "name": "Ufficio postale",
+        "@timestamp": "2012-07-27T20:14:27Z",
+        "@version": "1",
+        "@changeset": "12516128",
+        "@user": "novesoda",
+        "@uid": "764369"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9047484,
+          45.4783904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1844974702",
+      "properties": {
+        "@id": "node/1844974702",
+        "amenity": "post_office",
+        "@timestamp": "2012-07-31T07:40:24Z",
+        "@version": "1",
+        "@changeset": "12557687",
+        "@user": "emmanuelecois",
+        "@uid": "574286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2241698,
+          44.8434067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1855392517",
+      "properties": {
+        "@id": "node/1855392517",
+        "amenity": "post_office",
+        "@timestamp": "2012-08-07T10:19:31Z",
+        "@version": "1",
+        "@changeset": "12643482",
+        "@user": "emmanuelecois",
+        "@uid": "574286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.600198,
+          44.9016301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1863542183",
+      "properties": {
+        "@id": "node/1863542183",
+        "amenity": "post_office",
+        "@timestamp": "2014-12-15T18:06:49Z",
+        "@version": "3",
+        "@changeset": "27487813",
+        "@user": "achim becker",
+        "@uid": "2153674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0767133,
+          44.3377756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1864504217",
+      "properties": {
+        "@id": "node/1864504217",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2012-08-13T16:50:18Z",
+        "@version": "1",
+        "@changeset": "12716441",
+        "@user": "popeye",
+        "@uid": "200369"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8849668,
+          44.6885259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1870693290",
+      "properties": {
+        "@id": "node/1870693290",
+        "amenity": "post_office",
+        "@timestamp": "2012-08-17T22:49:46Z",
+        "@version": "1",
+        "@changeset": "12768258",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8739219,
+          45.52843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1875565947",
+      "properties": {
+        "@id": "node/1875565947",
+        "amenity": "post_office",
+        "name": "Poste",
+        "wheelchair": "limited",
+        "@timestamp": "2015-01-12T21:45:46Z",
+        "@version": "3",
+        "@changeset": "28096378",
+        "@user": "wheelmap_visitor",
+        "@uid": "290680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7408286,
+          44.9830171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1876542067",
+      "properties": {
+        "@id": "node/1876542067",
+        "amenity": "post_office",
+        "name": "Ufficio Postale di Samone Canavese",
+        "operator": "Poste Italiane",
+        "@timestamp": "2012-08-24T07:18:46Z",
+        "@version": "4",
+        "@changeset": "12841465",
+        "@user": "Dufour85",
+        "@uid": "822180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8455608,
+          45.4500788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1877695583",
+      "properties": {
+        "@id": "node/1877695583",
+        "addr:city": "Ivrea",
+        "addr:country": "IT",
+        "addr:housenumber": "499",
+        "addr:postcode": "10015",
+        "addr:street": "Via Torino",
+        "amenity": "post_office",
+        "fax": "+390125234533",
+        "name": "Ufficio Postale San Bernardo d'Ivrea",
+        "opening_hours": "Mo-Fr 08:20-13:45; Sa 08:20-12:45",
+        "operator": "Poste Italiane",
+        "phone": "+39 0125 234533",
+        "@timestamp": "2014-01-16T21:18:08Z",
+        "@version": "3",
+        "@changeset": "20041236",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8794786,
+          45.4369444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1877871394",
+      "properties": {
+        "@id": "node/1877871394",
+        "addr:city": "Ivrea",
+        "addr:country": "IT",
+        "addr:housenumber": "15/C",
+        "addr:postcode": "10015",
+        "addr:street": "Cantone Maridon",
+        "amenity": "post_office",
+        "opening_hours": "Mo-Fr 08:15-13:30; Sa 08:20-12:35",
+        "operator": "Poste Italiane",
+        "@timestamp": "2014-01-15T18:42:59Z",
+        "@version": "2",
+        "@changeset": "20019873",
+        "@user": "Dufour85",
+        "@uid": "822180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8766592,
+          45.4481769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1885449346",
+      "properties": {
+        "@id": "node/1885449346",
+        "addr:city": "Ivrea",
+        "addr:country": "IT",
+        "addr:housenumber": "1",
+        "addr:postcode": "10015",
+        "addr:street": "Via Frandina",
+        "amenity": "post_office",
+        "@timestamp": "2013-05-03T21:43:47Z",
+        "@version": "2",
+        "@changeset": "15966316",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9146588,
+          45.4500849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1887943184",
+      "properties": {
+        "@id": "node/1887943184",
+        "amenity": "post_office",
+        "wheelchair": "yes",
+        "@timestamp": "2013-06-29T17:40:50Z",
+        "@version": "3",
+        "@changeset": "16752560",
+        "@user": "wheelmap_android",
+        "@uid": "524500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6122507,
+          44.9158591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1888750814",
+      "properties": {
+        "@id": "node/1888750814",
+        "addr:city": "Ivrea",
+        "addr:country": "IT",
+        "addr:housenumber": "15",
+        "addr:postcode": "10015",
+        "addr:street": "Piazza Freguglia",
+        "amenity": "post_office",
+        "fax": "+39012545346",
+        "name": "Ufficio Postale di Ivrea",
+        "opening_hours": "Mo-Fr 08:20-19:05; Sa 08:20-12:35",
+        "operator": "Poste Italiane",
+        "phone": "+39 0125 646711",
+        "wheelchair": "no",
+        "@timestamp": "2014-01-16T21:18:08Z",
+        "@version": "4",
+        "@changeset": "20041236",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8807924,
+          45.466363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1891101058",
+      "properties": {
+        "@id": "node/1891101058",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2012-08-31T07:26:47Z",
+        "@version": "1",
+        "@changeset": "12927207",
+        "@user": "eIrOcA",
+        "@uid": "847391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9653469,
+          45.2466888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1895115392",
+      "properties": {
+        "@id": "node/1895115392",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2012-09-02T17:47:29Z",
+        "@version": "1",
+        "@changeset": "12957360",
+        "@user": "s19n",
+        "@uid": "513389"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2183008,
+          45.302333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1906595749",
+      "properties": {
+        "@id": "node/1906595749",
+        "amenity": "post_office",
+        "@timestamp": "2012-09-09T09:34:42Z",
+        "@version": "1",
+        "@changeset": "13042290",
+        "@user": "Viking81",
+        "@uid": "645593"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3597081,
+          45.0972369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1908206791",
+      "properties": {
+        "@id": "node/1908206791",
+        "amenity": "post_office",
+        "@timestamp": "2012-09-10T11:32:47Z",
+        "@version": "1",
+        "@changeset": "13055639",
+        "@user": "Biker_to",
+        "@uid": "871966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6604964,
+          45.1523555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1909358140",
+      "properties": {
+        "@id": "node/1909358140",
+        "amenity": "post_office",
+        "@timestamp": "2012-09-11T00:13:48Z",
+        "@version": "1",
+        "@changeset": "13063865",
+        "@user": "Viking81",
+        "@uid": "645593"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4147339,
+          45.1077699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1914498253",
+      "properties": {
+        "@id": "node/1914498253",
+        "amenity": "post_office",
+        "@timestamp": "2012-09-14T20:33:07Z",
+        "@version": "1",
+        "@changeset": "13111878",
+        "@user": "miche-42",
+        "@uid": "868219"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1500755,
+          45.1364982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1938762190",
+      "properties": {
+        "@id": "node/1938762190",
+        "amenity": "post_office",
+        "name": "Poste Italiane Veglio",
+        "@timestamp": "2013-06-19T10:37:46Z",
+        "@version": "2",
+        "@changeset": "16615341",
+        "@user": "Simone Saviolo",
+        "@uid": "169211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1210303,
+          45.6324237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1938764633",
+      "properties": {
+        "@id": "node/1938764633",
+        "amenity": "post_office",
+        "name": "Poste Italiane Valle Mosso",
+        "@timestamp": "2012-10-07T09:43:52Z",
+        "@version": "2",
+        "@changeset": "13395350",
+        "@user": "gabrydener",
+        "@uid": "930910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1411239,
+          45.6348548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1960359990",
+      "properties": {
+        "@id": "node/1960359990",
+        "amenity": "post_office",
+        "name": "PT 9 VIA MIGLIETTI",
+        "@timestamp": "2015-01-07T15:11:36Z",
+        "@version": "3",
+        "@changeset": "27978674",
+        "@user": "gspinoza",
+        "@uid": "562239"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6686216,
+          45.0794107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1966761083",
+      "properties": {
+        "@id": "node/1966761083",
+        "amenity": "post_office",
+        "@timestamp": "2012-10-15T13:50:52Z",
+        "@version": "1",
+        "@changeset": "13506212",
+        "@user": "Ale_Zena_IT",
+        "@uid": "22290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7664072,
+          44.3456282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1978395960",
+      "properties": {
+        "@id": "node/1978395960",
+        "amenity": "post_office",
+        "@timestamp": "2012-10-22T19:07:30Z",
+        "@version": "1",
+        "@changeset": "13596835",
+        "@user": "Ale_Zena_IT",
+        "@uid": "22290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7822564,
+          44.7600272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1984124084",
+      "properties": {
+        "@id": "node/1984124084",
+        "amenity": "post_office",
+        "name": "Poste Italiane",
+        "@timestamp": "2012-10-26T10:20:10Z",
+        "@version": "1",
+        "@changeset": "13636093",
+        "@user": "RobiB",
+        "@uid": "1006283"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1916067,
+          44.9557626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1984312444",
+      "properties": {
+        "@id": "node/1984312444",
+        "amenity": "post_office",
+        "name": "Ufficio Postale",
+        "@timestamp": "2012-10-26T13:03:35Z",
+        "@version": "1",
+        "@changeset": "13637996",
+        "@user": "RobiB",
+        "@uid": "1006283"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2269287,
+          44.9434049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1984415518",
+      "properties": {
+        "@id": "node/1984415518",
+        "amenity": "post_office",
+        "@timestamp": "2012-10-26T15:01:32Z",
+        "@version": "1",
+        "@changeset": "13637996",
+        "@user": "RobiB",
+        "@uid": "1006283"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3046296,
+          44.8843926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1988783768",
+      "properties": {
+        "@id": "node/1988783768",
+        "amenity": "post_office",
+        "@timestamp": "2012-10-29T20:38:20Z",
+        "@version": "1",
+        "@changeset": "13678387",
+        "@user": "marco2265",
+        "@uid": "1009064"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2959907,
+          45.1943297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1996150976",
+      "properties": {
+        "@id": "node/1996150976",
+        "amenity": "post_office",
+        "@timestamp": "2012-11-03T21:49:02Z",
+        "@version": "1",
+        "@changeset": "13739377",
+        "@user": "Geofreund1",
+        "@uid": "179581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4149471,
+          45.916799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1996744017",
+      "properties": {
+        "@id": "node/1996744017",
+        "addr:city": "Carema",
+        "addr:country": "IT",
+        "addr:housenumber": "14",
+        "addr:postcode": "10010",
+        "addr:street": "Via Pozzalle",
+        "amenity": "post_office",
+        "entrance": "yes",
+        "name": "Ufficio postale di Carema",
+        "@timestamp": "2014-03-10T11:51:02Z",
+        "@version": "4",
+        "@changeset": "21023427",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8085211,
+          45.5848574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2024831438",
+      "properties": {
+        "@id": "node/2024831438",
+        "addr:city": "San Secondo di Pinerolo",
+        "addr:country": "IT",
+        "addr:housenumber": "5",
+        "addr:postcode": "10060",
+        "addr:street": "Via Bonatto",
+        "amenity": "post_office",
+        "atm": "no",
+        "contact:fax": "+39 0121 500736",
+        "contact:phone": "+39 0121 304531",
+        "contact:website": "http://www.poste.it",
+        "name": "Ufficio Postale San Secondo di Pinerolo",
+        "opening_hours": "Mo-Fr 08:30-14:00; Sa 08:30-13:00",
+        "operator": "Poste Italiane",
+        "ref": "63297",
+        "@timestamp": "2014-01-01T12:35:21Z",
+        "@version": "6",
+        "@changeset": "19743951",
+        "@user": "ypid",
+        "@uid": "1486839"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2992466,
+          44.8671508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2028062606",
+      "properties": {
+        "@id": "node/2028062606",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2012-12-04T15:09:21Z",
+        "@version": "2",
+        "@changeset": "14152916",
+        "@user": "maxgazze",
+        "@uid": "1076098"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6026007,
+          45.0745624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2035093475",
+      "properties": {
+        "@id": "node/2035093475",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2012-11-26T17:57:59Z",
+        "@version": "1",
+        "@changeset": "14048091",
+        "@user": "maxgazze",
+        "@uid": "1076098"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7649269,
+          45.2680454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2035466945",
+      "properties": {
+        "@id": "node/2035466945",
+        "amenity": "post_office",
+        "@timestamp": "2012-11-26T21:24:55Z",
+        "@version": "1",
+        "@changeset": "14051247",
+        "@user": "fcfc",
+        "@uid": "968639"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7473412,
+          45.3055966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2036184960",
+      "properties": {
+        "@id": "node/2036184960",
+        "addr:city": "Novara",
+        "addr:housenumber": "2/C",
+        "addr:postcode": "28100",
+        "addr:street": "Via Maggi",
+        "amenity": "post_office",
+        "name": "Poste italiane",
+        "phone": "+39 0321 390451",
+        "@timestamp": "2014-01-07T07:42:58Z",
+        "@version": "5",
+        "@changeset": "19858296",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6050387,
+          45.4501586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2037346226",
+      "properties": {
+        "@id": "node/2037346226",
+        "addr:city": "Bricherasio",
+        "addr:country": "IT",
+        "addr:housenumber": "11",
+        "addr:postcode": "10060",
+        "addr:street": "Piazza Santa Maria",
+        "amenity": "post_office",
+        "atm": "no",
+        "contact:fax": "+39 0121 349280",
+        "contact:phone": "+39 0121 348431",
+        "contact:website": "http://www.poste.it",
+        "name": "Ufficio Postale Bricherasio",
+        "opening_hours": "Mo-Fr 08:30-14:00; Sa 08:30-13:00",
+        "operator": "Poste Italiane",
+        "ref": "63048",
+        "@timestamp": "2014-01-05T14:12:02Z",
+        "@version": "6",
+        "@changeset": "19823541",
+        "@user": "Gianluca67",
+        "@uid": "488783"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3029303,
+          44.8255975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2037362699",
+      "properties": {
+        "@id": "node/2037362699",
+        "addr:city": "Bibiana",
+        "addr:country": "IT",
+        "addr:housenumber": "3",
+        "addr:postcode": "10060",
+        "addr:street": "Piazza Vittorio Emanuele II",
+        "amenity": "post_office",
+        "atm": "no",
+        "contact:fax": "+39 0121 55749",
+        "contact:phone": "+39 0121 55749",
+        "contact:website": "http://www.poste.it",
+        "name": "Ufficio Postale Bibiana",
+        "opening_hours": "Mo-Fr 08:30-14:00; Sa 08:30-13:00",
+        "operator": "Poste Italiane",
+        "ref": "63037",
+        "@timestamp": "2014-01-01T12:35:20Z",
+        "@version": "5",
+        "@changeset": "19743951",
+        "@user": "ypid",
+        "@uid": "1486839"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.290022,
+          44.797431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2037387038",
+      "properties": {
+        "@id": "node/2037387038",
+        "addr:city": "Luserna San Giovanni",
+        "addr:country": "IT",
+        "addr:housenumber": "46",
+        "addr:postcode": "10062",
+        "addr:street": "Via 1° Maggio",
+        "amenity": "post_office",
+        "atm": "yes",
+        "contact:fax": "+39 0121 901915",
+        "contact:phone": "+39 0121 955931",
+        "contact:website": "http://www.poste.it",
+        "name": "Ufficio Postale Luserna San Giovanni",
+        "opening_hours": "Mo-Fr 08:30-14:00; Sa 08:30-13:00",
+        "operator": "Poste Italiane",
+        "ref": "63171",
+        "@timestamp": "2014-01-01T12:35:20Z",
+        "@version": "7",
+        "@changeset": "19743951",
+        "@user": "ypid",
+        "@uid": "1486839"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2472491,
+          44.8134755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2037485330",
+      "properties": {
+        "@id": "node/2037485330",
+        "addr:city": "Pinerolo",
+        "addr:country": "IT",
+        "addr:housenumber": "5",
+        "addr:postcode": "10064",
+        "addr:street": "Via Bignone",
+        "amenity": "post_office",
+        "atm": "yes",
+        "contact:fax": "+39 0121 323220",
+        "contact:phone": "+39 0121 323220",
+        "contact:website": "http://www.poste.it",
+        "name": "Ufficio Postale Pinerolo 1",
+        "opening_hours": "Mo-Fr 08:30-14:00; Sa 08:30-13:00",
+        "operator": "Poste Italiane",
+        "ref": "63555",
+        "@timestamp": "2014-01-01T12:35:20Z",
+        "@version": "6",
+        "@changeset": "19743951",
+        "@user": "ypid",
+        "@uid": "1486839"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3461481,
+          44.8866674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2038439195",
+      "properties": {
+        "@id": "node/2038439195",
+        "amenity": "post_office",
+        "@timestamp": "2012-11-28T16:02:55Z",
+        "@version": "1",
+        "@changeset": "14075141",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0519709,
+          45.422283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2049832424",
+      "properties": {
+        "@id": "node/2049832424",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2012-12-04T15:32:52Z",
+        "@version": "1",
+        "@changeset": "14153114",
+        "@user": "maxgazze",
+        "@uid": "1076098"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6096862,
+          45.0705158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2050335527",
+      "properties": {
+        "@id": "node/2050335527",
+        "amenity": "post_office",
+        "name": "Poste Italiane Dusino San Michele",
+        "@timestamp": "2012-12-04T20:22:35Z",
+        "@version": "1",
+        "@changeset": "14156050",
+        "@user": "DusinMeadows",
+        "@uid": "1110558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.972338,
+          44.9201391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2073299338",
+      "properties": {
+        "@id": "node/2073299338",
+        "amenity": "post_office",
+        "@timestamp": "2012-12-18T17:45:10Z",
+        "@version": "1",
+        "@changeset": "14321262",
+        "@user": "wiselynx",
+        "@uid": "26333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3993615,
+          45.0103794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2079641648",
+      "properties": {
+        "@id": "node/2079641648",
+        "addr:city": "Orio Canavese",
+        "addr:country": "IT",
+        "addr:housenumber": "1",
+        "addr:postcode": "10010",
+        "addr:street": "Piazza Giuseppe Tapparo",
+        "amenity": "post_office",
+        "fax": "+390119898027",
+        "name": "Orio Canavese",
+        "opening_hours": "Tu-Fr 08:20-14:00; Sa 08:20-12:45",
+        "operator": "Poste Italiane",
+        "phone": "+39 011 9898027",
+        "@timestamp": "2014-06-04T08:36:29Z",
+        "@version": "3",
+        "@changeset": "22730096",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8602262,
+          45.3283963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2089386654",
+      "properties": {
+        "@id": "node/2089386654",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2012-12-31T00:42:55Z",
+        "@version": "1",
+        "@changeset": "14472337",
+        "@user": "UmbeP",
+        "@uid": "214142"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7827105,
+          45.4101637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2106183750",
+      "properties": {
+        "@id": "node/2106183750",
+        "amenity": "post_office",
+        "name": "Post Office",
+        "@timestamp": "2013-01-11T18:55:50Z",
+        "@version": "1",
+        "@changeset": "14613798",
+        "@user": "i-d-m",
+        "@uid": "597860"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1173173,
+          44.4645569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2107693274",
+      "properties": {
+        "@id": "node/2107693274",
+        "amenity": "post_office",
+        "name": "ufficio postale",
+        "@timestamp": "2013-01-12T19:01:48Z",
+        "@version": "1",
+        "@changeset": "14626013",
+        "@user": "RMGe",
+        "@uid": "1140692"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1002297,
+          44.9747916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2110823672",
+      "properties": {
+        "@id": "node/2110823672",
+        "amenity": "post_office",
+        "name": "Ufficio Postale",
+        "operator": "Poste Italiane",
+        "@timestamp": "2013-01-14T15:49:25Z",
+        "@version": "1",
+        "@changeset": "14649684",
+        "@user": "maorin",
+        "@uid": "897063"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6595603,
+          45.0849215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2114649283",
+      "properties": {
+        "@id": "node/2114649283",
+        "amenity": "post_office",
+        "name": "ufficio postale Gattico",
+        "@timestamp": "2013-01-16T18:58:52Z",
+        "@version": "1",
+        "@changeset": "14676072",
+        "@user": "gatticom",
+        "@uid": "640339"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5208725,
+          45.7095173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2115094813",
+      "properties": {
+        "@id": "node/2115094813",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2013-01-17T00:44:30Z",
+        "@version": "1",
+        "@changeset": "14679318",
+        "@user": "UmbeP",
+        "@uid": "214142"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4183122,
+          45.5351203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2125812822",
+      "properties": {
+        "@id": "node/2125812822",
+        "amenity": "post_office",
+        "name": "Uffico postale di Sillavengo",
+        "operator": "Poste Italiane",
+        "@timestamp": "2013-01-25T00:37:31Z",
+        "@version": "2",
+        "@changeset": "14776090",
+        "@user": "UmbeP",
+        "@uid": "214142"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4405405,
+          45.5204311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2132561886",
+      "properties": {
+        "@id": "node/2132561886",
+        "amenity": "post_office",
+        "name": "Poste Italiane",
+        "@timestamp": "2013-01-28T17:02:19Z",
+        "@version": "1",
+        "@changeset": "14824303",
+        "@user": "gianluigi cella",
+        "@uid": "794379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6460994,
+          45.5693314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2134855125",
+      "properties": {
+        "@id": "node/2134855125",
+        "amenity": "post_office",
+        "name": "poste Italiane",
+        "source": "survey",
+        "@timestamp": "2013-02-21T16:28:00Z",
+        "@version": "2",
+        "@changeset": "15114057",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9527806,
+          45.8332012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2141159561",
+      "properties": {
+        "@id": "node/2141159561",
+        "amenity": "post_office",
+        "name": "Ufficio Postale di Gargallo",
+        "@timestamp": "2013-02-04T10:24:16Z",
+        "@version": "1",
+        "@changeset": "14907783",
+        "@user": "dino57",
+        "@uid": "544140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4290578,
+          45.7275745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2151929468",
+      "properties": {
+        "@id": "node/2151929468",
+        "amenity": "post_office",
+        "@timestamp": "2013-02-12T14:58:29Z",
+        "@version": "1",
+        "@changeset": "15007477",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2934654,
+          45.3994757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2154431696",
+      "properties": {
+        "@id": "node/2154431696",
+        "amenity": "post_office",
+        "@timestamp": "2013-02-14T12:39:05Z",
+        "@version": "1",
+        "@changeset": "15028739",
+        "@user": "Emmebigi_TO_62",
+        "@uid": "1229981"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7120565,
+          45.0708288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2166726270",
+      "properties": {
+        "@id": "node/2166726270",
+        "amenity": "post_office",
+        "@timestamp": "2013-02-22T10:25:18Z",
+        "@version": "1",
+        "@changeset": "15121360",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4543463,
+          45.2313956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2187559023",
+      "properties": {
+        "@id": "node/2187559023",
+        "amenity": "post_office",
+        "name": "Ufficio Postale di Alagna",
+        "operator": "Poste Italiane",
+        "@timestamp": "2013-03-05T19:38:29Z",
+        "@version": "1",
+        "@changeset": "15262644",
+        "@user": "nuvolabianca",
+        "@uid": "439413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9374346,
+          45.8538172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2189746374",
+      "properties": {
+        "@id": "node/2189746374",
+        "amenity": "post_office",
+        "@timestamp": "2013-03-07T15:03:59Z",
+        "@version": "1",
+        "@changeset": "15282992",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3367287,
+          45.4367243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2201810998",
+      "properties": {
+        "@id": "node/2201810998",
+        "amenity": "post_office",
+        "@timestamp": "2013-03-14T16:29:53Z",
+        "@version": "1",
+        "@changeset": "15364246",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9339365,
+          45.4821994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2203234407",
+      "properties": {
+        "@id": "node/2203234407",
+        "addr:city": "Vercelli",
+        "addr:housenumber": "10",
+        "addr:postcode": "13100",
+        "addr:street": "Via Antonio Gramsci",
+        "amenity": "post_office",
+        "name": "Vercelli 6",
+        "operator": "Poste Italiane",
+        "phone": "+39 0161 393794",
+        "@timestamp": "2014-11-15T17:46:39Z",
+        "@version": "4",
+        "@changeset": "26804023",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379",
+        "@relations": [
+          {
+            "role": "address",
+            "rel": "3095085",
+            "reltags": {
+              "name": "Via Antonio Gramsci",
+              "type": "street"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4072647,
+          45.3189098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2203897732",
+      "properties": {
+        "@id": "node/2203897732",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2013-03-15T23:00:05Z",
+        "@version": "1",
+        "@changeset": "15378868",
+        "@user": "nuvolabianca",
+        "@uid": "439413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3886665,
+          45.3574406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2207995656",
+      "properties": {
+        "@id": "node/2207995656",
+        "addr:city": "Novara",
+        "addr:country": "IT",
+        "addr:housenumber": "81",
+        "addr:postcode": "28100",
+        "addr:street": "Via Verbano",
+        "amenity": "post_office",
+        "name": "Poste Italiane",
+        "phone": "+39 0321 471669",
+        "@timestamp": "2014-01-05T21:44:59Z",
+        "@version": "3",
+        "@changeset": "19832220",
+        "@user": "Alecs01",
+        "@uid": "1476146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6279233,
+          45.4734488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2208275002",
+      "properties": {
+        "@id": "node/2208275002",
+        "amenity": "post_office",
+        "name": "Poste Italiane",
+        "@timestamp": "2013-03-18T14:01:58Z",
+        "@version": "1",
+        "@changeset": "15408302",
+        "@user": "eagleDiego",
+        "@uid": "1279747"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0325076,
+          44.9130662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2213288883",
+      "properties": {
+        "@id": "node/2213288883",
+        "amenity": "post_office",
+        "@timestamp": "2013-03-21T17:16:14Z",
+        "@version": "1",
+        "@changeset": "15445378",
+        "@user": "oski71",
+        "@uid": "1257574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.110289,
+          45.9790531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2214886872",
+      "properties": {
+        "@id": "node/2214886872",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "source": "Poste Italiane",
+        "@timestamp": "2013-03-23T16:41:43Z",
+        "@version": "5",
+        "@changeset": "15468451",
+        "@user": "maxgazze",
+        "@uid": "1076098"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6667347,
+          45.1017382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2217052234",
+      "properties": {
+        "@id": "node/2217052234",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2013-03-23T18:24:41Z",
+        "@version": "1",
+        "@changeset": "15469752",
+        "@user": "maxgazze",
+        "@uid": "1076098"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6510348,
+          45.0815016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2218427298",
+      "properties": {
+        "@id": "node/2218427298",
+        "addr:city": "Cavour",
+        "addr:country": "IT",
+        "addr:housenumber": "5",
+        "addr:postcode": "10061",
+        "addr:street": "Via Roma",
+        "amenity": "post_office",
+        "@timestamp": "2013-03-26T16:56:25Z",
+        "@version": "2",
+        "@changeset": "15505772",
+        "@user": "kikhit",
+        "@uid": "687503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3747284,
+          44.784707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2272789683",
+      "properties": {
+        "@id": "node/2272789683",
+        "amenity": "post_office",
+        "@timestamp": "2013-04-19T15:52:58Z",
+        "@version": "1",
+        "@changeset": "15787033",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9920837,
+          45.4052949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2275928578",
+      "properties": {
+        "@id": "node/2275928578",
+        "amenity": "post_office",
+        "@timestamp": "2013-04-21T19:43:14Z",
+        "@version": "1",
+        "@changeset": "15815846",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8567457,
+          45.4609511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2276893264",
+      "properties": {
+        "@id": "node/2276893264",
+        "amenity": "post_office",
+        "name": "Asti 5",
+        "operator": "Poste Italiane",
+        "@timestamp": "2013-10-10T17:25:44Z",
+        "@version": "3",
+        "@changeset": "18284800",
+        "@user": "Guidus",
+        "@uid": "417672"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2002511,
+          44.9089134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2298688888",
+      "properties": {
+        "@id": "node/2298688888",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2013-05-10T19:21:42Z",
+        "@version": "1",
+        "@changeset": "16069940",
+        "@user": "nuvolabianca",
+        "@uid": "439413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.981371,
+          45.6262195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2299811603",
+      "properties": {
+        "@id": "node/2299811603",
+        "amenity": "post_office",
+        "@timestamp": "2013-05-12T13:10:06Z",
+        "@version": "2",
+        "@changeset": "16095328",
+        "@user": "Geofreund1",
+        "@uid": "179581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5047448,
+          45.9101723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2299811669",
+      "properties": {
+        "@id": "node/2299811669",
+        "amenity": "post_office",
+        "@timestamp": "2013-05-11T16:05:44Z",
+        "@version": "1",
+        "@changeset": "16082197",
+        "@user": "Geofreund1",
+        "@uid": "179581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5510889,
+          45.9238028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2312891262",
+      "properties": {
+        "@id": "node/2312891262",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2013-05-20T12:33:15Z",
+        "@version": "1",
+        "@changeset": "16207805",
+        "@user": "Viking81",
+        "@uid": "645593"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3717988,
+          45.1470764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2325431753",
+      "properties": {
+        "@id": "node/2325431753",
+        "amenity": "post_office",
+        "@timestamp": "2013-05-30T12:10:38Z",
+        "@version": "1",
+        "@changeset": "16350464",
+        "@user": "joecow",
+        "@uid": "875675"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1883197,
+          44.6922748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2327034259",
+      "properties": {
+        "@id": "node/2327034259",
+        "amenity": "post_office",
+        "@timestamp": "2013-06-03T14:36:48Z",
+        "@version": "2",
+        "@changeset": "16407171",
+        "@user": "joecow",
+        "@uid": "875675"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1572887,
+          44.6990932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2351210313",
+      "properties": {
+        "@id": "node/2351210313",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2013-06-18T13:54:39Z",
+        "@version": "1",
+        "@changeset": "16604073",
+        "@user": "nuvolabianca",
+        "@uid": "439413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3826069,
+          45.4023935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2353149227",
+      "properties": {
+        "@id": "node/2353149227",
+        "addr:city": "Vercelli",
+        "addr:housenumber": "71",
+        "addr:postcode": "13100",
+        "addr:street": "Via Thaon de Revel",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2014-11-15T17:46:28Z",
+        "@version": "3",
+        "@changeset": "26804023",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4453391,
+          45.3045086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2353149228",
+      "properties": {
+        "@id": "node/2353149228",
+        "addr:city": "Vercelli",
+        "addr:housenumber": "74",
+        "addr:postcode": "13100",
+        "addr:street": "Via Riccardo Restano",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2014-11-15T17:46:28Z",
+        "@version": "2",
+        "@changeset": "26804023",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.41976,
+          45.335386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2360434392",
+      "properties": {
+        "@id": "node/2360434392",
+        "amenity": "post_office",
+        "@timestamp": "2013-06-25T13:02:01Z",
+        "@version": "1",
+        "@changeset": "16698315",
+        "@user": "mamma",
+        "@uid": "1581807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8397538,
+          44.9234555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2360597374",
+      "properties": {
+        "@id": "node/2360597374",
+        "amenity": "post_office",
+        "@timestamp": "2013-06-25T16:04:57Z",
+        "@version": "1",
+        "@changeset": "16701019",
+        "@user": "ktm47",
+        "@uid": "1455822"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2172096,
+          45.2327198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2361593570",
+      "properties": {
+        "@id": "node/2361593570",
+        "addr:city": "Loranzè",
+        "addr:country": "IT",
+        "addr:housenumber": "1",
+        "addr:postcode": "10010",
+        "addr:street": "Piazza della Libertà",
+        "amenity": "post_office",
+        "fax": "+39 0125 53001",
+        "name": "Loranzè",
+        "opening_hours": "Mo-Fr 08:20-13:45; Sa 08:20-12:45",
+        "operator": "Poste Italiane",
+        "phone": "+39 0125 53001",
+        "@timestamp": "2014-08-23T20:41:11Z",
+        "@version": "6",
+        "@changeset": "24964830",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8107874,
+          45.4422211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2364186721",
+      "properties": {
+        "@id": "node/2364186721",
+        "amenity": "post_office",
+        "@timestamp": "2013-06-28T09:14:28Z",
+        "@version": "1",
+        "@changeset": "16736863",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4174375,
+          45.2356143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2367703738",
+      "properties": {
+        "@id": "node/2367703738",
+        "addr:city": "Villar Pellice",
+        "addr:country": "IT",
+        "addr:housenumber": "20",
+        "addr:postcode": "10060",
+        "addr:street": "Viale 1 Maggio",
+        "amenity": "post_office",
+        "atm": "no",
+        "fax": "+39 0121 930709",
+        "name": "Ufficio Postale Villar Pellice",
+        "opening_hours": "Mo-Fr 08:20-13:45; Sa 08:20-12:45",
+        "operator": "Poste Italiane",
+        "phone": "+39 0121 930709",
+        "@timestamp": "2013-07-19T18:39:56Z",
+        "@version": "2",
+        "@changeset": "17015332",
+        "@user": "Gianluca67",
+        "@uid": "488783"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1578241,
+          44.8084153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2368446315",
+      "properties": {
+        "@id": "node/2368446315",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2013-07-01T12:55:20Z",
+        "@version": "1",
+        "@changeset": "16777472",
+        "@user": "sbiribizio",
+        "@uid": "354284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3325357,
+          45.1435821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2375268117",
+      "properties": {
+        "@id": "node/2375268117",
+        "amenity": "post_office",
+        "@timestamp": "2014-03-04T21:06:22Z",
+        "@version": "2",
+        "@changeset": "20918812",
+        "@user": "openpablo3",
+        "@uid": "708145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5444677,
+          46.1306068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2378758240",
+      "properties": {
+        "@id": "node/2378758240",
+        "addr:housenumber": "4",
+        "amenity": "post_office",
+        "fax": "+39 0161 259130",
+        "name": "Vercelli 4",
+        "note": "l'ufficio occupa il piano terreno, ai piani superiori è condominio",
+        "opening_hours": "Mo-Fr 08:20-13:35; Sa 08:20-12:35",
+        "operator": "Poste Italiane",
+        "phone": "+39 0161 259130",
+        "ref": "90298",
+        "@timestamp": "2013-11-28T13:42:34Z",
+        "@version": "4",
+        "@changeset": "19160471",
+        "@user": "nuvolabianca",
+        "@uid": "439413",
+        "@relations": [
+          {
+            "role": "address",
+            "rel": "3095086",
+            "reltags": {
+              "name": "Via Malinverni",
+              "type": "street"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.421184,
+          45.3161296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2382151304",
+      "properties": {
+        "@id": "node/2382151304",
+        "amenity": "post_office",
+        "@timestamp": "2013-07-12T09:45:46Z",
+        "@version": "1",
+        "@changeset": "16923759",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2120256,
+          45.3300445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2382416228",
+      "properties": {
+        "@id": "node/2382416228",
+        "amenity": "post_office",
+        "@timestamp": "2013-07-12T13:55:54Z",
+        "@version": "1",
+        "@changeset": "16926351",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3295947,
+          45.3094269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2386327092",
+      "properties": {
+        "@id": "node/2386327092",
+        "amenity": "post_office",
+        "@timestamp": "2013-07-16T11:26:22Z",
+        "@version": "1",
+        "@changeset": "16973396",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1085041,
+          45.4483605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2387625328",
+      "properties": {
+        "@id": "node/2387625328",
+        "amenity": "post_office",
+        "@timestamp": "2013-07-17T16:04:40Z",
+        "@version": "1",
+        "@changeset": "16989031",
+        "@user": "SpontonMichele",
+        "@uid": "1653380"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.365749,
+          45.1652763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2392127854",
+      "properties": {
+        "@id": "node/2392127854",
+        "amenity": "post_office",
+        "name": "Ufficio postale Tigliole",
+        "operator": "Poste Italiane",
+        "@timestamp": "2013-07-23T12:42:56Z",
+        "@version": "2",
+        "@changeset": "17061732",
+        "@user": "Gabriele Pagliano",
+        "@uid": "1439024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0764667,
+          44.8867078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2392567873",
+      "properties": {
+        "@id": "node/2392567873",
+        "addr:housenumber": "26",
+        "amenity": "post_office",
+        "fax": "+39 0161 254495",
+        "name": "Vercelli 3",
+        "opening_hours": "Mo-Fr 08:20-13:45; Sa 08:20-12:45",
+        "operator": "Poste Italiane",
+        "phone": "+39 0161 254495",
+        "ref": "90289",
+        "@timestamp": "2013-10-11T20:55:05Z",
+        "@version": "2",
+        "@changeset": "18304876",
+        "@user": "Simone Saviolo",
+        "@uid": "169211",
+        "@relations": [
+          {
+            "role": "address",
+            "rel": "2090432",
+            "reltags": {
+              "name": "Corso Giovanni Randaccio",
+              "type": "street"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4099701,
+          45.3310367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2392567901",
+      "properties": {
+        "@id": "node/2392567901",
+        "amenity": "post_office",
+        "operator": "Posta Privata Nazionale",
+        "@timestamp": "2013-07-22T09:17:24Z",
+        "@version": "1",
+        "@changeset": "17045770",
+        "@user": "Simone Saviolo",
+        "@uid": "169211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4290347,
+          45.3189086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2404065743",
+      "properties": {
+        "@id": "node/2404065743",
+        "addr:city": "Bagnolo Piemonte",
+        "addr:country": "IT",
+        "addr:housenumber": "6",
+        "addr:postcode": "12031",
+        "addr:street": "Via Cavaliedi di Vittorio Veneto",
+        "amenity": "post_office",
+        "atm": "no",
+        "contact:fax": "+39 0175 392462",
+        "contact:phone": "+39 0175 399111",
+        "contact:website": "http://www.poste.it",
+        "name": "Ufficio Postale Bagnolo Piemonte",
+        "operator": "Poste Italiane",
+        "ref": "23013",
+        "@timestamp": "2013-08-01T19:41:46Z",
+        "@version": "1",
+        "@changeset": "17183938",
+        "@user": "Gianluca67",
+        "@uid": "488783"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.315377,
+          44.7606908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2404735842",
+      "properties": {
+        "@id": "node/2404735842",
+        "amenity": "post_office",
+        "@timestamp": "2013-08-02T08:19:00Z",
+        "@version": "1",
+        "@changeset": "17188868",
+        "@user": "luposelvatico",
+        "@uid": "1701623"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9431271,
+          45.1293841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2409064247",
+      "properties": {
+        "@id": "node/2409064247",
+        "amenity": "post_office",
+        "name": "Posta",
+        "@timestamp": "2013-08-06T16:56:51Z",
+        "@version": "2",
+        "@changeset": "17243860",
+        "@user": "Rudy355",
+        "@uid": "142831"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8776441,
+          44.9586462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2422773447",
+      "properties": {
+        "@id": "node/2422773447",
+        "amenity": "post_office",
+        "@timestamp": "2013-12-19T10:37:44Z",
+        "@version": "2",
+        "@changeset": "19528801",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9465613,
+          45.4349365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2428119891",
+      "properties": {
+        "@id": "node/2428119891",
+        "amenity": "post_office",
+        "@timestamp": "2013-08-22T14:12:05Z",
+        "@version": "1",
+        "@changeset": "17456042",
+        "@user": "Sherlock95",
+        "@uid": "1721642"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1695128,
+          45.1486314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2433637040",
+      "properties": {
+        "@id": "node/2433637040",
+        "amenity": "post_office",
+        "@timestamp": "2013-08-27T09:52:46Z",
+        "@version": "1",
+        "@changeset": "17532787",
+        "@user": "diego92",
+        "@uid": "1726290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4245797,
+          44.7542643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2451730259",
+      "properties": {
+        "@id": "node/2451730259",
+        "amenity": "post_office",
+        "@timestamp": "2013-09-09T13:52:55Z",
+        "@version": "1",
+        "@changeset": "17750648",
+        "@user": "Botaler",
+        "@uid": "492756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6174224,
+          44.3282255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452075212",
+      "properties": {
+        "@id": "node/2452075212",
+        "amenity": "post_office",
+        "name": "Poste Italiane",
+        "@timestamp": "2013-09-09T18:05:26Z",
+        "@version": "1",
+        "@changeset": "17754337",
+        "@user": "tommym3it",
+        "@uid": "1418284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2186752,
+          44.8488444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2459897481",
+      "properties": {
+        "@id": "node/2459897481",
+        "amenity": "post_office",
+        "@timestamp": "2013-09-15T21:24:35Z",
+        "@version": "1",
+        "@changeset": "17858580",
+        "@user": "Botaler",
+        "@uid": "492756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4681426,
+          44.3830311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2462079082",
+      "properties": {
+        "@id": "node/2462079082",
+        "amenity": "post_office",
+        "atm": "yes",
+        "@timestamp": "2013-11-15T16:26:21Z",
+        "@version": "2",
+        "@changeset": "18917674",
+        "@user": "Parerga",
+        "@uid": "59457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6847041,
+          45.0014958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2463554894",
+      "properties": {
+        "@id": "node/2463554894",
+        "amenity": "post_office",
+        "@timestamp": "2013-09-19T06:47:51Z",
+        "@version": "1",
+        "@changeset": "17917263",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8057372,
+          44.2871154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2476726170",
+      "properties": {
+        "@id": "node/2476726170",
+        "amenity": "post_office",
+        "@timestamp": "2013-09-29T16:39:00Z",
+        "@version": "1",
+        "@changeset": "18095888",
+        "@user": "Gianni Bragante",
+        "@uid": "1396397"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.11015,
+          45.5617986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2486090976",
+      "properties": {
+        "@id": "node/2486090976",
+        "amenity": "post_office",
+        "@timestamp": "2013-10-07T08:42:49Z",
+        "@version": "1",
+        "@changeset": "18225486",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2316422,
+          45.7142166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2489706881",
+      "properties": {
+        "@id": "node/2489706881",
+        "addr:city": "Torino",
+        "addr:housenumber": "2",
+        "addr:postcode": "10154",
+        "addr:street": "Via Ternengo",
+        "amenity": "post_office",
+        "name": "Poste Italiane",
+        "phone": "+39 011 851396",
+        "wheelchair": "yes",
+        "@timestamp": "2013-10-09T16:49:50Z",
+        "@version": "1",
+        "@changeset": "18268047",
+        "@user": "francescaredi",
+        "@uid": "1454784"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6986265,
+          45.0842738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2490078866",
+      "properties": {
+        "@id": "node/2490078866",
+        "amenity": "post_office",
+        "name": "Vigliano d'Asti",
+        "operator": "Poste Italiane",
+        "@timestamp": "2013-10-12T12:58:41Z",
+        "@version": "2",
+        "@changeset": "18314425",
+        "@user": "Guidus",
+        "@uid": "417672"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2318103,
+          44.8350417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2495655099",
+      "properties": {
+        "@id": "node/2495655099",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2013-10-13T23:24:41Z",
+        "@version": "1",
+        "@changeset": "18342006",
+        "@user": "Simone Saviolo",
+        "@uid": "169211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4117429,
+          45.3235294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496036177",
+      "properties": {
+        "@id": "node/2496036177",
+        "amenity": "post_office",
+        "@timestamp": "2013-10-14T10:24:49Z",
+        "@version": "1",
+        "@changeset": "18347204",
+        "@user": "Ale_Zena_IT",
+        "@uid": "22290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0430995,
+          44.3023321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2497195506",
+      "properties": {
+        "@id": "node/2497195506",
+        "amenity": "post_office",
+        "name": "Nizza Monferrato",
+        "operator": "Poste Italiane",
+        "@timestamp": "2013-10-15T11:44:22Z",
+        "@version": "1",
+        "@changeset": "18367022",
+        "@user": "Guidus",
+        "@uid": "417672"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3535683,
+          44.7747315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2497199096",
+      "properties": {
+        "@id": "node/2497199096",
+        "amenity": "post_office",
+        "name": "Nizza Monferrato 1",
+        "operator": "Poste Italiane",
+        "@timestamp": "2013-10-15T11:49:52Z",
+        "@version": "1",
+        "@changeset": "18367107",
+        "@user": "Guidus",
+        "@uid": "417672"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.362724,
+          44.7711937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2517056766",
+      "properties": {
+        "@id": "node/2517056766",
+        "amenity": "post_office",
+        "name": "posta centrale nichelino",
+        "@timestamp": "2013-11-02T06:01:23Z",
+        "@version": "1",
+        "@changeset": "18670103",
+        "@user": "pienneci",
+        "@uid": "1773576"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6451551,
+          44.9990821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2527951727",
+      "properties": {
+        "@id": "node/2527951727",
+        "amenity": "post_office",
+        "name": "Poste",
+        "@timestamp": "2013-11-11T13:56:05Z",
+        "@version": "1",
+        "@changeset": "18835818",
+        "@user": "iz1xal",
+        "@uid": "1705689"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5303908,
+          45.3133042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2532376221",
+      "properties": {
+        "@id": "node/2532376221",
+        "amenity": "post_office",
+        "@timestamp": "2013-11-14T16:41:50Z",
+        "@version": "1",
+        "@changeset": "18896743",
+        "@user": "maner",
+        "@uid": "6083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7293047,
+          44.6696114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2544083144",
+      "properties": {
+        "@id": "node/2544083144",
+        "amenity": "post_office",
+        "name": "Moasca",
+        "operator": "Poste Italiane",
+        "@timestamp": "2013-11-21T21:30:34Z",
+        "@version": "1",
+        "@changeset": "19045447",
+        "@user": "Guidus",
+        "@uid": "417672"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2778755,
+          44.762514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2546781251",
+      "properties": {
+        "@id": "node/2546781251",
+        "amenity": "post_office",
+        "@timestamp": "2013-11-23T12:51:11Z",
+        "@version": "1",
+        "@changeset": "19070979",
+        "@user": "Parerga",
+        "@uid": "59457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.69358,
+          45.0937886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2552489329",
+      "properties": {
+        "@id": "node/2552489329",
+        "addr:housenumber": "26",
+        "addr:postcode": "10024",
+        "addr:street": "Via Carlo Tenivelli",
+        "amenity": "post_office",
+        "@timestamp": "2013-11-26T13:18:23Z",
+        "@version": "1",
+        "@changeset": "19126618",
+        "@user": "Parerga",
+        "@uid": "59457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6957853,
+          44.9999236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2556848576",
+      "properties": {
+        "@id": "node/2556848576",
+        "amenity": "post_office",
+        "@timestamp": "2013-11-29T10:21:41Z",
+        "@version": "1",
+        "@changeset": "19175635",
+        "@user": "openpablo3",
+        "@uid": "708145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4998396,
+          46.1273727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2557280188",
+      "properties": {
+        "@id": "node/2557280188",
+        "amenity": "post_office",
+        "name": "Poste Italiane",
+        "@timestamp": "2013-12-12T15:54:42Z",
+        "@version": "2",
+        "@changeset": "19416130",
+        "@user": "nuvolabianca",
+        "@uid": "439413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4296213,
+          45.3230299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2557792819",
+      "properties": {
+        "@id": "node/2557792819",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2013-11-29T21:32:59Z",
+        "@version": "1",
+        "@changeset": "19185858",
+        "@user": "hikerit",
+        "@uid": "834334"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9357796,
+          44.959321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2561524703",
+      "properties": {
+        "@id": "node/2561524703",
+        "amenity": "post_office",
+        "name": "PT 50 Via Ascoli",
+        "@timestamp": "2015-01-07T15:11:36Z",
+        "@version": "2",
+        "@changeset": "27978674",
+        "@user": "gspinoza",
+        "@uid": "562239"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6671748,
+          45.0849357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2564316712",
+      "properties": {
+        "@id": "node/2564316712",
+        "addr:city": "Rivoli",
+        "addr:housenumber": "110",
+        "addr:postcode": "10098",
+        "addr:street": "Corso XXV Aprile",
+        "amenity": "post_office",
+        "name": "Ufficio Postale Rivoli 1",
+        "operator": "Poste Italiane",
+        "phone": "+39 011 9580504",
+        "@timestamp": "2014-09-09T09:00:35Z",
+        "@version": "2",
+        "@changeset": "25323590",
+        "@user": "dgitto",
+        "@uid": "554973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5182079,
+          45.0630111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2582220791",
+      "properties": {
+        "@id": "node/2582220791",
+        "amenity": "post_office",
+        "@timestamp": "2013-12-16T11:16:29Z",
+        "@version": "1",
+        "@changeset": "19480442",
+        "@user": "solitone",
+        "@uid": "584192"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.466037,
+          44.9897625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2583619992",
+      "properties": {
+        "@id": "node/2583619992",
+        "amenity": "post_office",
+        "@timestamp": "2013-12-17T12:42:45Z",
+        "@version": "1",
+        "@changeset": "19497893",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0117609,
+          45.3476616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2585934350",
+      "properties": {
+        "@id": "node/2585934350",
+        "amenity": "post_office",
+        "name": "Aglietti",
+        "operator": "Poste Italiane",
+        "@timestamp": "2013-12-18T23:34:59Z",
+        "@version": "1",
+        "@changeset": "19524042",
+        "@user": "Cristian Testa",
+        "@uid": "116049"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1868281,
+          45.5746711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2603681133",
+      "properties": {
+        "@id": "node/2603681133",
+        "addr:city": "Novara",
+        "addr:country": "IT",
+        "addr:housenumber": "19",
+        "addr:postcode": "28100",
+        "addr:street": "Corso Torino",
+        "amenity": "post_office",
+        "name": "Poste Italiane",
+        "phone": "+39 0321 628822",
+        "@timestamp": "2014-01-05T22:08:26Z",
+        "@version": "2",
+        "@changeset": "19832220",
+        "@user": "Alecs01",
+        "@uid": "1476146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6100843,
+          45.4415513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2603685507",
+      "properties": {
+        "@id": "node/2603685507",
+        "addr:city": "Novara",
+        "addr:country": "IT",
+        "addr:housenumber": "18/A",
+        "addr:postcode": "28100",
+        "addr:street": "Corso Trieste",
+        "amenity": "post_office",
+        "name": "Poste Italiane",
+        "phone": "+39 0321 628824",
+        "@timestamp": "2014-01-05T22:08:26Z",
+        "@version": "2",
+        "@changeset": "19832220",
+        "@user": "Alecs01",
+        "@uid": "1476146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6339711,
+          45.4477271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2603688401",
+      "properties": {
+        "@id": "node/2603688401",
+        "addr:city": "Novara",
+        "addr:country": "IT",
+        "addr:housenumber": "78",
+        "addr:postcode": "28100",
+        "addr:street": "Corso Risorgimento",
+        "amenity": "post_office",
+        "name": "Poste Italiane",
+        "phone": "+39 0321 475205",
+        "@timestamp": "2014-01-05T21:44:58Z",
+        "@version": "2",
+        "@changeset": "19832220",
+        "@user": "Alecs01",
+        "@uid": "1476146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6165668,
+          45.4608379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2603688508",
+      "properties": {
+        "@id": "node/2603688508",
+        "addr:city": "Novara",
+        "addr:country": "IT",
+        "addr:housenumber": "3",
+        "addr:postcode": "28100",
+        "addr:street": "Via Bergamo",
+        "amenity": "post_office",
+        "name": "Poste Italiane",
+        "phone": "+39 0321 452746",
+        "@timestamp": "2014-01-05T22:07:29Z",
+        "@version": "2",
+        "@changeset": "19832220",
+        "@user": "Alecs01",
+        "@uid": "1476146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5997438,
+          45.4334752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2603689047",
+      "properties": {
+        "@id": "node/2603689047",
+        "addr:city": "Novara",
+        "addr:housenumber": "13/15",
+        "addr:postcode": "28100",
+        "addr:street": "Via Monsignor Giovanni Cavigioli",
+        "amenity": "post_office",
+        "name": "Poste Italiane",
+        "phone": "+39 0321 402163",
+        "@timestamp": "2014-01-07T07:42:58Z",
+        "@version": "2",
+        "@changeset": "19858296",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6402016,
+          45.4305294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2603690481",
+      "properties": {
+        "@id": "node/2603690481",
+        "addr:city": "Torrion Quartara",
+        "addr:housenumber": "79",
+        "addr:postcode": "28100",
+        "addr:street": "Via Maestra",
+        "amenity": "post_office",
+        "name": "Poste Italiane",
+        "phone": "+39 0321 432062",
+        "@timestamp": "2014-01-07T07:42:58Z",
+        "@version": "2",
+        "@changeset": "19858296",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6133282,
+          45.4182326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2603691171",
+      "properties": {
+        "@id": "node/2603691171",
+        "addr:city": "Novara",
+        "addr:country": "IT",
+        "addr:housenumber": "7",
+        "addr:postcode": "28100",
+        "addr:street": "Largo Antonio Cantore",
+        "amenity": "post_office",
+        "name": "Poste Italiane",
+        "phone": "+39 0321 475722",
+        "@timestamp": "2014-01-05T21:44:59Z",
+        "@version": "2",
+        "@changeset": "19832220",
+        "@user": "Alecs01",
+        "@uid": "1476146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6323473,
+          45.4622526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2603699146",
+      "properties": {
+        "@id": "node/2603699146",
+        "addr:city": "Novara",
+        "addr:country": "IT",
+        "addr:housenumber": "3/5",
+        "addr:postcode": "28100",
+        "addr:street": "Via Sant'Andrea Apostolo",
+        "amenity": "post_office",
+        "name": "Poste Italiane",
+        "phone": "+39 0321 637117",
+        "@timestamp": "2014-01-05T22:07:30Z",
+        "@version": "2",
+        "@changeset": "19832220",
+        "@user": "Alecs01",
+        "@uid": "1476146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.675656,
+          45.4579549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2603713390",
+      "properties": {
+        "@id": "node/2603713390",
+        "addr:city": "Novara",
+        "addr:housenumber": "369",
+        "addr:postcode": "28100",
+        "addr:street": "Corso Risorgimento",
+        "amenity": "post_office",
+        "name": "Poste Italiane",
+        "phone": "+39 0321 56074",
+        "@timestamp": "2014-01-07T07:42:58Z",
+        "@version": "2",
+        "@changeset": "19858296",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6098534,
+          45.4846232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2603721198",
+      "properties": {
+        "@id": "node/2603721198",
+        "addr:city": "Novara",
+        "addr:country": "IT",
+        "addr:housenumber": "1",
+        "addr:postcode": "28100",
+        "addr:street": "Via della Chiesa",
+        "amenity": "post_office",
+        "name": "Poste Italiane",
+        "phone": "+39 0321 469174",
+        "@timestamp": "2014-01-05T21:42:45Z",
+        "@version": "2",
+        "@changeset": "19832220",
+        "@user": "Alecs01",
+        "@uid": "1476146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5886509,
+          45.407961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2617650974",
+      "properties": {
+        "@id": "node/2617650974",
+        "amenity": "post_office",
+        "@timestamp": "2014-01-10T18:25:55Z",
+        "@version": "1",
+        "@changeset": "19922275",
+        "@user": "Valerio_Bozzolan",
+        "@uid": "1875845"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6704314,
+          45.0431119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2622303751",
+      "properties": {
+        "@id": "node/2622303751",
+        "amenity": "post_office",
+        "@timestamp": "2014-01-14T14:37:48Z",
+        "@version": "1",
+        "@changeset": "19991981",
+        "@user": "Vincent60",
+        "@uid": "1882362"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3848263,
+          45.6310878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2629717553",
+      "properties": {
+        "@id": "node/2629717553",
+        "amenity": "post_office",
+        "name": "Posta",
+        "operator": "Poste Italiane",
+        "@timestamp": "2014-01-20T12:35:02Z",
+        "@version": "1",
+        "@changeset": "20102468",
+        "@user": "sbiribizio",
+        "@uid": "354284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8907229,
+          45.3080955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2632594016",
+      "properties": {
+        "@id": "node/2632594016",
+        "amenity": "post_office",
+        "name": "Poste Italiane",
+        "@timestamp": "2014-01-22T17:38:08Z",
+        "@version": "1",
+        "@changeset": "20145731",
+        "@user": "andrea torri",
+        "@uid": "1891654"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2535816,
+          45.8144967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2635518592",
+      "properties": {
+        "@id": "node/2635518592",
+        "addr:city": "Torino",
+        "addr:housenumber": "3/a",
+        "addr:postcode": "10133",
+        "addr:street": "Via alla Parrocchia",
+        "amenity": "post_office",
+        "name": "Ufficio Postale di Cavoretto",
+        "operator": "Poste Italiane",
+        "phone": "+39 011 6612319",
+        "website": "http://poste.it",
+        "@timestamp": "2014-10-17T12:00:07Z",
+        "@version": "5",
+        "@changeset": "26142768",
+        "@user": "Valerio_Bozzolan",
+        "@uid": "1875845"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6875299,
+          45.0290274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2643998523",
+      "properties": {
+        "@id": "node/2643998523",
+        "amenity": "post_office",
+        "@timestamp": "2014-02-05T12:47:50Z",
+        "@version": "3",
+        "@changeset": "20391884",
+        "@user": "openpablo3",
+        "@uid": "708145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.490865,
+          46.1405265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2673027490",
+      "properties": {
+        "@id": "node/2673027490",
+        "access": "private",
+        "addr:city": "Parella",
+        "addr:country": "IT",
+        "addr:housenumber": "8",
+        "addr:postcode": "10010",
+        "addr:street": "Via Provinciale",
+        "amenity": "post_office",
+        "entrance": "main",
+        "fax": "+39 0125 76151",
+        "name": "Parella",
+        "opening_hours": "Mo-Fr 08:20-13:45; Sa 08:20-12:45",
+        "operator": "Poste Italiane",
+        "phone": "+39 0125 76151",
+        "@timestamp": "2014-08-23T20:41:13Z",
+        "@version": "6",
+        "@changeset": "24964830",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7912334,
+          45.4303935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2676849813",
+      "properties": {
+        "@id": "node/2676849813",
+        "addr:city": "Brosso",
+        "addr:country": "IT",
+        "addr:housenumber": "9",
+        "addr:postcode": "10080",
+        "addr:street": "Piazza Sclopis",
+        "amenity": "post_office",
+        "fax": "+39 0125 795159",
+        "name": "Brosso",
+        "opening_hours": "Tu,Th 08:20-13:45; Sa 08:20-12:45",
+        "operator": "Poste Italiane",
+        "phone": "+39 0125 795159",
+        "@timestamp": "2014-08-23T20:41:11Z",
+        "@version": "6",
+        "@changeset": "24964830",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8034666,
+          45.492388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2681364674",
+      "properties": {
+        "@id": "node/2681364674",
+        "amenity": "post_office",
+        "name": "PT",
+        "operator": "Poste Italiane",
+        "@timestamp": "2014-02-19T22:06:03Z",
+        "@version": "1",
+        "@changeset": "20665299",
+        "@user": "Andreas61",
+        "@uid": "182079"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.179607,
+          44.4826372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2724934974",
+      "properties": {
+        "@id": "node/2724934974",
+        "amenity": "post_office",
+        "@timestamp": "2014-03-18T09:02:10Z",
+        "@version": "1",
+        "@changeset": "21169228",
+        "@user": "cartomatto",
+        "@uid": "1976047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4319817,
+          45.050825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2729334719",
+      "properties": {
+        "@id": "node/2729334719",
+        "amenity": "post_office",
+        "@timestamp": "2014-03-20T18:48:55Z",
+        "@version": "1",
+        "@changeset": "21215296",
+        "@user": "mattecat",
+        "@uid": "771862"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4205017,
+          44.5927057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2845558673",
+      "properties": {
+        "@id": "node/2845558673",
+        "amenity": "post_office",
+        "name": "Poste Italiane",
+        "@timestamp": "2014-05-09T09:28:17Z",
+        "@version": "1",
+        "@changeset": "22226445",
+        "@user": "Danger39",
+        "@uid": "2057292"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6216833,
+          44.5575766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2852932212",
+      "properties": {
+        "@id": "node/2852932212",
+        "amenity": "post_office",
+        "name": "Ufficio postale Vergano di Borgomanero",
+        "@timestamp": "2014-05-12T14:09:03Z",
+        "@version": "1",
+        "@changeset": "22292611",
+        "@user": "giannisax",
+        "@uid": "2053352"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4456758,
+          45.7023386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2852932213",
+      "properties": {
+        "@id": "node/2852932213",
+        "amenity": "post_office",
+        "name": "Briga Novarese",
+        "@timestamp": "2014-05-12T14:09:03Z",
+        "@version": "1",
+        "@changeset": "22292611",
+        "@user": "giannisax",
+        "@uid": "2053352"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4516636,
+          45.7312747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2882247807",
+      "properties": {
+        "@id": "node/2882247807",
+        "addr:city": "Torre Canavese",
+        "addr:country": "IT",
+        "addr:housenumber": "10",
+        "addr:postcode": "10010",
+        "addr:street": "Via Ruetta",
+        "amenity": "post_office",
+        "fax": "+390124501024",
+        "name": "Torre Canavese",
+        "opening_hours": "Mo-Fr 08:20-13:45; Sa 08:20-12:45",
+        "operator": "Poste Italiane",
+        "phone": "+39 0124 501024",
+        "@timestamp": "2014-05-28T19:55:21Z",
+        "@version": "2",
+        "@changeset": "22607320",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7605898,
+          45.3917844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2897288915",
+      "properties": {
+        "@id": "node/2897288915",
+        "addr:city": "Barone Canavese",
+        "addr:country": "IT",
+        "addr:housenumber": "4",
+        "addr:postcode": "10010",
+        "addr:street": "Via Canonico Frola",
+        "amenity": "post_office",
+        "fax": "+390119898094",
+        "name": "Barone Canavese",
+        "opening_hours": "Tu 08:20-13:45; Th 08:20-13:45; Sa 08:20-12:45",
+        "operator": "Poste Italiane",
+        "phone": "+39 011 9898094",
+        "@timestamp": "2014-06-04T08:36:28Z",
+        "@version": "2",
+        "@changeset": "22730096",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8706216,
+          45.3275132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2897288929",
+      "properties": {
+        "@id": "node/2897288929",
+        "addr:city": "Mercenasco",
+        "addr:country": "IT",
+        "addr:housenumber": "1",
+        "addr:postcode": "10010",
+        "addr:street": "Via Papa Giovanni XXIII",
+        "amenity": "post_office",
+        "fax": "+390125710067",
+        "name": "Mercenasco",
+        "opening_hours": "Tu-Fr 08:20-13:45; Sa 08:20-12:45",
+        "operator": "Poste Italiane",
+        "phone": "+39 0125 710067",
+        "@timestamp": "2014-06-04T08:36:28Z",
+        "@version": "2",
+        "@changeset": "22730096",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8826636,
+          45.3570598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2897288936",
+      "properties": {
+        "@id": "node/2897288936",
+        "addr:city": "Perosa Canavese",
+        "addr:country": "IT",
+        "addr:housenumber": "2",
+        "addr:postcode": "10010",
+        "addr:street": "Piazza Municipio",
+        "amenity": "post_office",
+        "fax": "+390125739117",
+        "name": "Perosa Canavese",
+        "opening_hours": "We,Fr 08:20-13:45",
+        "operator": "Poste Italiane",
+        "phone": "+39 0125 739117",
+        "@timestamp": "2014-06-04T08:36:29Z",
+        "@version": "2",
+        "@changeset": "22730096",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8292348,
+          45.3970681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2904307453",
+      "properties": {
+        "@id": "node/2904307453",
+        "amenity": "post_office",
+        "@timestamp": "2014-06-24T13:13:46Z",
+        "@version": "2",
+        "@changeset": "23122386",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0038517,
+          45.5649226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2906315026",
+      "properties": {
+        "@id": "node/2906315026",
+        "amenity": "post_office",
+        "@timestamp": "2014-06-08T20:34:30Z",
+        "@version": "1",
+        "@changeset": "22817227",
+        "@user": "giannisax",
+        "@uid": "2053352"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5563814,
+          45.9279849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2908686648",
+      "properties": {
+        "@id": "node/2908686648",
+        "amenity": "post_office",
+        "name": "Post Office",
+        "@timestamp": "2014-06-10T08:20:49Z",
+        "@version": "1",
+        "@changeset": "22845091",
+        "@user": "Rocco Rossetti",
+        "@uid": "2096131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6773612,
+          45.0628991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2909468473",
+      "properties": {
+        "@id": "node/2909468473",
+        "addr:city": "Agliè",
+        "addr:country": "IT",
+        "addr:housenumber": "24",
+        "addr:postcode": "10011",
+        "addr:street": "Via Principe Tommaso",
+        "amenity": "post_office",
+        "fax": "+390124330135",
+        "name": "Agliè",
+        "opening_hours": "Mo-Fr 08:20-13:35; Sa 08:20-12:35",
+        "operator": "Poste Italiane",
+        "phone": "+39 0124 330135",
+        "@timestamp": "2014-06-12T10:03:27Z",
+        "@version": "2",
+        "@changeset": "22886017",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7687226,
+          45.3633748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2912662929",
+      "properties": {
+        "@id": "node/2912662929",
+        "addr:city": "San Martino Canavese",
+        "addr:country": "IT",
+        "addr:housenumber": "29",
+        "addr:postcode": "10010",
+        "addr:street": "Via Arduino",
+        "amenity": "post_office",
+        "fax": "+390125739116",
+        "name": "San Martino Canavese",
+        "opening_hours": "Tu,Th 08:20-13:45; Sa 08:20-12:45",
+        "operator": "Poste Italiane",
+        "phone": "+39 0125 739116",
+        "@timestamp": "2014-06-19T20:17:10Z",
+        "@version": "2",
+        "@changeset": "23032396",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8181282,
+          45.39519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2916639259",
+      "properties": {
+        "@id": "node/2916639259",
+        "addr:city": "Mercenasco",
+        "addr:country": "IT",
+        "addr:housenumber": "22",
+        "addr:postcode": "10010",
+        "addr:street": "Via 4 Novembre",
+        "amenity": "post_office",
+        "fax": "+39 0125 711105",
+        "name": "Villate",
+        "opening_hours": "Fr 08:20-13:35",
+        "operator": "Poste Italiane",
+        "phone": "+39 0125 711105",
+        "@timestamp": "2014-08-23T20:41:14Z",
+        "@version": "5",
+        "@changeset": "24964830",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8432001,
+          45.3528674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2921108477",
+      "properties": {
+        "@id": "node/2921108477",
+        "amenity": "post_office",
+        "name": "Post Office",
+        "@timestamp": "2014-06-17T21:34:17Z",
+        "@version": "1",
+        "@changeset": "22993803",
+        "@user": "Mood snc",
+        "@uid": "1834575"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2921222,
+          46.0083608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2921731812",
+      "properties": {
+        "@id": "node/2921731812",
+        "addr:city": "Quagliuzzo",
+        "addr:country": "IT",
+        "addr:housenumber": "14",
+        "addr:postcode": "10010",
+        "addr:street": "Via Provinciale",
+        "amenity": "post_office",
+        "fax": "+39 0125 76158",
+        "name": "Quagliuzzo",
+        "opening_hours": "Tu,Th 08:20-13:45; Sa 08:20-12:45",
+        "operator": "Poste Italiane",
+        "phone": "+39 0125 76158",
+        "@timestamp": "2014-08-23T20:41:13Z",
+        "@version": "5",
+        "@changeset": "24964830",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7818635,
+          45.4264637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2924459990",
+      "properties": {
+        "@id": "node/2924459990",
+        "amenity": "post_office",
+        "@timestamp": "2014-06-20T09:13:47Z",
+        "@version": "1",
+        "@changeset": "23039895",
+        "@user": "wiselynx",
+        "@uid": "26333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6846741,
+          45.0788716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2925194746",
+      "properties": {
+        "@id": "node/2925194746",
+        "addr:city": "Lessolo",
+        "addr:country": "IT",
+        "addr:housenumber": "206",
+        "addr:postcode": "10010",
+        "addr:street": "Via Vittorio Veneto",
+        "amenity": "post_office",
+        "fax": "+39 0125 58152",
+        "name": "Lessolo",
+        "opening_hours": "Mo-Fr 08:20-13:45; Sa 08:20-12:45",
+        "operator": "Poste Italiane",
+        "phone": "+39 0125 58152",
+        "@timestamp": "2014-08-23T20:41:11Z",
+        "@version": "5",
+        "@changeset": "24964830",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8162832,
+          45.4787141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2928553566",
+      "properties": {
+        "@id": "node/2928553566",
+        "addr:city": "Lugnacco",
+        "addr:country": "IT",
+        "addr:housenumber": "10",
+        "addr:postcode": "10080",
+        "addr:street": "Via Umberto I",
+        "amenity": "post_office",
+        "fax": "+39 0125 789005",
+        "name": "Lugnacco",
+        "opening_hours": "Tu 08:20-13:45; Th 08:20-13:45; Sa 08:20-12:45",
+        "operator": "Poste Italiane",
+        "phone": "+39 0125 789005",
+        "@timestamp": "2014-09-26T15:35:21Z",
+        "@version": "6",
+        "@changeset": "25688657",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7794883,
+          45.4443937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2931926844",
+      "properties": {
+        "@id": "node/2931926844",
+        "amenity": "post_office",
+        "fax": "+39 0125 78597",
+        "name": "Alice Superiore",
+        "opening_hours": "Mo-Fr 08:20-13:45; Sa 08:20-12:45",
+        "operator": "Poste Italiane",
+        "phone": "+39 0125 78597",
+        "@timestamp": "2014-08-23T20:41:11Z",
+        "@version": "5",
+        "@changeset": "24964830",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7770396,
+          45.4600743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2931926899",
+      "properties": {
+        "@id": "node/2931926899",
+        "addr:city": "Vistrorio",
+        "addr:country": "IT",
+        "addr:housenumber": "39",
+        "addr:postcode": "10080",
+        "addr:street": "Via Garibaldi",
+        "amenity": "post_office",
+        "fax": "+39 0125 789169",
+        "name": "Vistrorio",
+        "opening_hours": "Mo-Fr 08:20-13:45; Tu off; Th off",
+        "operator": "Poste Italiane",
+        "phone": "+39 0125 789169",
+        "@timestamp": "2014-08-23T20:41:14Z",
+        "@version": "5",
+        "@changeset": "24964830",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7692292,
+          45.441287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2934710651",
+      "properties": {
+        "@id": "node/2934710651",
+        "addr:city": "Issiglio",
+        "addr:country": "IT",
+        "addr:housenumber": "1",
+        "addr:postcode": "10080",
+        "addr:street": "Via Municipio",
+        "amenity": "post_office",
+        "fax": "+390125789615",
+        "name": "Issiglio",
+        "opening_hours": "Tu,Th 08:20-13:45; Sa 08:20-12:45",
+        "operator": "Poste Italiane",
+        "phone": "+39 0125 789615",
+        "@timestamp": "2014-07-05T07:26:44Z",
+        "@version": "2",
+        "@changeset": "23962404",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7540435,
+          45.4469415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2942678045",
+      "properties": {
+        "@id": "node/2942678045",
+        "addr:city": "Montalenghe",
+        "addr:country": "IT",
+        "addr:housenumber": "1",
+        "addr:postcode": "10090",
+        "addr:street": "Piazza Statuto",
+        "amenity": "post_office",
+        "fax": "+390119839142",
+        "name": "Montalenghe",
+        "opening_hours": "Mo-Fr 08:20-13:45; Tu off; Th off",
+        "operator": "Poste Italiane",
+        "phone": "+39 011 9839142",
+        "@timestamp": "2014-07-14T07:41:13Z",
+        "@version": "2",
+        "@changeset": "24134467",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8364863,
+          45.3370508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2942680000",
+      "properties": {
+        "@id": "node/2942680000",
+        "addr:city": "San Giorgio Canavese",
+        "addr:country": "IT",
+        "addr:housenumber": "3",
+        "addr:postcode": "10090",
+        "addr:street": "Via Rigoletti",
+        "amenity": "post_office",
+        "fax": "+39012432175",
+        "name": "San Giorgio Canavese",
+        "operator": "Poste Italiane",
+        "phone": "+39 0124 32175",
+        "@timestamp": "2014-07-14T07:41:16Z",
+        "@version": "3",
+        "@changeset": "24134467",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7931941,
+          45.3353506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2947383544",
+      "properties": {
+        "@id": "node/2947383544",
+        "addr:city": "Bairo",
+        "addr:country": "IT",
+        "addr:housenumber": "1",
+        "addr:postcode": "10010",
+        "addr:street": "Piazza Comunale",
+        "amenity": "post_office",
+        "fax": "+390124514714",
+        "name": "Municipio di Bairo",
+        "opening_hours": "Mo-Fr 08:20-13:45; Sa 08:20-12:45",
+        "phone": "+39 0124 514714",
+        "@timestamp": "2014-07-14T07:41:13Z",
+        "@version": "2",
+        "@changeset": "24134467",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7569907,
+          45.386154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2966795714",
+      "properties": {
+        "@id": "node/2966795714",
+        "amenity": "post_office",
+        "@timestamp": "2014-07-16T21:42:57Z",
+        "@version": "1",
+        "@changeset": "24189132",
+        "@user": "GeoMarco",
+        "@uid": "2189504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1805432,
+          45.6863502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2966826049",
+      "properties": {
+        "@id": "node/2966826049",
+        "amenity": "post_office",
+        "@timestamp": "2014-07-16T21:53:10Z",
+        "@version": "1",
+        "@changeset": "24189132",
+        "@user": "GeoMarco",
+        "@uid": "2189504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1770349,
+          45.675204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2992763029",
+      "properties": {
+        "@id": "node/2992763029",
+        "amenity": "post_office",
+        "@timestamp": "2014-08-02T18:53:08Z",
+        "@version": "1",
+        "@changeset": "24503205",
+        "@user": "Ciuppy",
+        "@uid": "2200997"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5416172,
+          45.113409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2999579854",
+      "properties": {
+        "@id": "node/2999579854",
+        "amenity": "post_office",
+        "@timestamp": "2014-08-06T10:50:19Z",
+        "@version": "1",
+        "@changeset": "24573017",
+        "@user": "Martj9",
+        "@uid": "675302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.014029,
+          45.1396457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3024316535",
+      "properties": {
+        "@id": "node/3024316535",
+        "amenity": "post_office",
+        "name": "Poste Italiane",
+        "@timestamp": "2014-08-18T11:22:44Z",
+        "@version": "1",
+        "@changeset": "24829743",
+        "@user": "eddy79",
+        "@uid": "2201141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7208328,
+          45.3977541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3046955801",
+      "properties": {
+        "@id": "node/3046955801",
+        "addr:city": "Torino",
+        "addr:housenumber": "69",
+        "addr:postcode": "10148",
+        "addr:street": "Via Venaria",
+        "amenity": "post_office",
+        "name": "To 57",
+        "@timestamp": "2014-09-22T01:30:26Z",
+        "@version": "3",
+        "@changeset": "25592799",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6592193,
+          45.1099028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3051585534",
+      "properties": {
+        "@id": "node/3051585534",
+        "amenity": "post_office",
+        "@timestamp": "2014-08-31T10:32:46Z",
+        "@version": "1",
+        "@changeset": "25134821",
+        "@user": "freak_antoni",
+        "@uid": "646083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6943299,
+          45.0712352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3077397634",
+      "properties": {
+        "@id": "node/3077397634",
+        "amenity": "post_office",
+        "@timestamp": "2014-09-14T21:10:23Z",
+        "@version": "1",
+        "@changeset": "25442708",
+        "@user": "AL68",
+        "@uid": "1745073"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0510188,
+          45.7711356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3087262299",
+      "properties": {
+        "@id": "node/3087262299",
+        "amenity": "post_office",
+        "name": "Poste Italiane",
+        "@timestamp": "2014-09-20T10:23:24Z",
+        "@version": "1",
+        "@changeset": "25556481",
+        "@user": "fighting_coulomb",
+        "@uid": "2348574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4585779,
+          45.5542064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3119489385",
+      "properties": {
+        "@id": "node/3119489385",
+        "addr:postcode": "12060",
+        "addr:street": "Via del Municipio, 16",
+        "amenity": "post_office",
+        "phone": "+39 0174 787110",
+        "@timestamp": "2014-10-19T20:01:59Z",
+        "@version": "2",
+        "@changeset": "26200331",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9827088,
+          44.4515259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3142602028",
+      "properties": {
+        "@id": "node/3142602028",
+        "amenity": "post_office",
+        "@timestamp": "2014-10-21T20:26:47Z",
+        "@version": "1",
+        "@changeset": "26242209",
+        "@user": "elhh",
+        "@uid": "112558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1474338,
+          45.9906276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151513296",
+      "properties": {
+        "@id": "node/3151513296",
+        "amenity": "post_office",
+        "@timestamp": "2014-10-26T20:24:14Z",
+        "@version": "1",
+        "@changeset": "26349559",
+        "@user": "Beccalo69",
+        "@uid": "2416708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8292616,
+          44.54411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3167032529",
+      "properties": {
+        "@id": "node/3167032529",
+        "amenity": "post_office",
+        "name": "Ufficio Postale",
+        "operator": "Poste Italiane",
+        "@timestamp": "2014-11-21T17:49:21Z",
+        "@version": "2",
+        "@changeset": "26933671",
+        "@user": "map_arrow",
+        "@uid": "2404691"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.871037,
+          44.5937427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3224050312",
+      "properties": {
+        "@id": "node/3224050312",
+        "amenity": "post_office",
+        "name": "Poste Italiane",
+        "operator": "Poste Italiane",
+        "@timestamp": "2014-12-07T21:18:18Z",
+        "@version": "1",
+        "@changeset": "27321087",
+        "@user": "Pier Paolo",
+        "@uid": "433915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2710005,
+          46.0026237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3246066912",
+      "properties": {
+        "@id": "node/3246066912",
+        "amenity": "post_office",
+        "name": "Ufficio Postale di Cuneo 3",
+        "@timestamp": "2014-12-21T13:45:33Z",
+        "@version": "1",
+        "@changeset": "27609178",
+        "@user": "ToX",
+        "@uid": "360538"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5612922,
+          44.3893416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3257128119",
+      "properties": {
+        "@id": "node/3257128119",
+        "amenity": "post_office",
+        "@timestamp": "2014-12-28T19:09:28Z",
+        "@version": "1",
+        "@changeset": "27761123",
+        "@user": "achim becker",
+        "@uid": "2153674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3801783,
+          44.4828552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3265159670",
+      "properties": {
+        "@id": "node/3265159670",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2015-01-02T12:27:35Z",
+        "@version": "1",
+        "@changeset": "27861453",
+        "@user": "openpablo3",
+        "@uid": "708145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4319448,
+          46.1353339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3287416814",
+      "properties": {
+        "@id": "node/3287416814",
+        "amenity": "post_office",
+        "name": "Poste Italiane  - Prato Sesia",
+        "@timestamp": "2015-01-14T11:19:23Z",
+        "@version": "1",
+        "@changeset": "28132125",
+        "@user": "giannisax",
+        "@uid": "2053352"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.372815,
+          45.6466144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3287421802",
+      "properties": {
+        "@id": "node/3287421802",
+        "amenity": "post_office",
+        "@timestamp": "2015-01-14T11:25:58Z",
+        "@version": "1",
+        "@changeset": "28132224",
+        "@user": "roby2107",
+        "@uid": "1808258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3590026,
+          44.9806509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3287642595",
+      "properties": {
+        "@id": "node/3287642595",
+        "amenity": "post_office",
+        "@timestamp": "2015-01-14T14:28:35Z",
+        "@version": "1",
+        "@changeset": "28137499",
+        "@user": "dariost",
+        "@uid": "2573573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.863456,
+          44.7657623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3290567880",
+      "properties": {
+        "@id": "node/3290567880",
+        "amenity": "post_office",
+        "@timestamp": "2015-01-15T17:54:17Z",
+        "@version": "1",
+        "@changeset": "28169602",
+        "@user": "motovader",
+        "@uid": "101249"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6065028,
+          45.6831652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3292182120",
+      "properties": {
+        "@id": "node/3292182120",
+        "amenity": "post_office",
+        "@timestamp": "2015-01-16T11:41:37Z",
+        "@version": "1",
+        "@changeset": "28184111",
+        "@user": "roby2107",
+        "@uid": "1808258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.451121,
+          44.7256947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3292537718",
+      "properties": {
+        "@id": "node/3292537718",
+        "amenity": "post_office",
+        "@timestamp": "2015-01-16T15:18:51Z",
+        "@version": "1",
+        "@changeset": "28189704",
+        "@user": "roby2107",
+        "@uid": "1808258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3811977,
+          44.7205965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3292691719",
+      "properties": {
+        "@id": "node/3292691719",
+        "amenity": "post_office",
+        "@timestamp": "2015-01-16T16:26:07Z",
+        "@version": "1",
+        "@changeset": "28191317",
+        "@user": "roby2107",
+        "@uid": "1808258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2633837,
+          45.0514744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3298183956",
+      "properties": {
+        "@id": "node/3298183956",
+        "addr:city": "Penango",
+        "addr:housenumber": "1",
+        "addr:street": "Piazza Marconi",
+        "amenity": "post_office",
+        "@timestamp": "2015-01-19T10:03:41Z",
+        "@version": "1",
+        "@changeset": "28248822",
+        "@user": "roby2107",
+        "@uid": "1808258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2500256,
+          45.0332671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3298293057",
+      "properties": {
+        "@id": "node/3298293057",
+        "amenity": "post_office",
+        "@timestamp": "2015-01-19T11:19:03Z",
+        "@version": "1",
+        "@changeset": "28250100",
+        "@user": "roby2107",
+        "@uid": "1808258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4546454,
+          45.0206666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3298612598",
+      "properties": {
+        "@id": "node/3298612598",
+        "amenity": "post_office",
+        "@timestamp": "2015-01-19T15:46:47Z",
+        "@version": "1",
+        "@changeset": "28255119",
+        "@user": "roby2107",
+        "@uid": "1808258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2086962,
+          44.9815175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3298710715",
+      "properties": {
+        "@id": "node/3298710715",
+        "amenity": "post_office",
+        "@timestamp": "2015-01-19T16:38:19Z",
+        "@version": "1",
+        "@changeset": "28256212",
+        "@user": "roby2107",
+        "@uid": "1808258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3238827,
+          44.9840827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3302262747",
+      "properties": {
+        "@id": "node/3302262747",
+        "amenity": "post_office",
+        "@timestamp": "2015-01-21T11:18:49Z",
+        "@version": "1",
+        "@changeset": "28303967",
+        "@user": "roby2107",
+        "@uid": "1808258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3001714,
+          44.9990368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3304312253",
+      "properties": {
+        "@id": "node/3304312253",
+        "amenity": "post_office",
+        "@timestamp": "2015-01-22T15:26:06Z",
+        "@version": "1",
+        "@changeset": "28329793",
+        "@user": "roby2107",
+        "@uid": "1808258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5230248,
+          45.0353053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3314195619",
+      "properties": {
+        "@id": "node/3314195619",
+        "amenity": "post_office",
+        "@timestamp": "2015-01-27T11:42:09Z",
+        "@version": "1",
+        "@changeset": "28440249",
+        "@user": "roby2107",
+        "@uid": "1808258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7349655,
+          44.9598121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3314372461",
+      "properties": {
+        "@id": "node/3314372461",
+        "amenity": "post_office",
+        "@timestamp": "2015-01-27T14:03:09Z",
+        "@version": "1",
+        "@changeset": "28442844",
+        "@user": "roby2107",
+        "@uid": "1808258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8813233,
+          45.0175186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3314746374",
+      "properties": {
+        "@id": "node/3314746374",
+        "amenity": "post_office",
+        "@timestamp": "2015-01-27T16:29:58Z",
+        "@version": "1",
+        "@changeset": "28445229",
+        "@user": "fodrasca",
+        "@uid": "103148"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6645617,
+          46.034055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3316914839",
+      "properties": {
+        "@id": "node/3316914839",
+        "amenity": "post_office",
+        "@timestamp": "2015-01-28T14:54:15Z",
+        "@version": "1",
+        "@changeset": "28466946",
+        "@user": "roby2107",
+        "@uid": "1808258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4267668,
+          44.6438855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3318728220",
+      "properties": {
+        "@id": "node/3318728220",
+        "amenity": "post_office",
+        "operator": "Poste Italiane",
+        "@timestamp": "2015-01-29T13:32:25Z",
+        "@version": "1",
+        "@changeset": "28486033",
+        "@user": "roby2107",
+        "@uid": "1808258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5726873,
+          44.7854119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3320416204",
+      "properties": {
+        "@id": "node/3320416204",
+        "amenity": "post_office",
+        "@timestamp": "2015-01-30T09:35:29Z",
+        "@version": "1",
+        "@changeset": "28501141",
+        "@user": "roby2107",
+        "@uid": "1808258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7191296,
+          44.8788806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3320453349",
+      "properties": {
+        "@id": "node/3320453349",
+        "amenity": "post_office",
+        "@timestamp": "2015-01-30T10:11:35Z",
+        "@version": "1",
+        "@changeset": "28501609",
+        "@user": "roby2107",
+        "@uid": "1808258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9651551,
+          44.8029898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3327014089",
+      "properties": {
+        "@id": "node/3327014089",
+        "amenity": "post_office",
+        "@timestamp": "2015-02-02T14:53:41Z",
+        "@version": "1",
+        "@changeset": "28568237",
+        "@user": "roby2107",
+        "@uid": "1808258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6758854,
+          44.8220646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3329974640",
+      "properties": {
+        "@id": "node/3329974640",
+        "amenity": "post_office",
+        "@timestamp": "2015-02-04T14:19:51Z",
+        "@version": "1",
+        "@changeset": "28611564",
+        "@user": "roby2107",
+        "@uid": "1808258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5462283,
+          44.7439083
+        ]
+      }
+    }
+  ]
+}
