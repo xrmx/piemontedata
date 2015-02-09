@@ -1,0 +1,1119 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-02-09T10:11:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/429724253",
+      "properties": {
+        "@id": "node/429724253",
+        "name": "Massaua",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.620265,
+          45.0748976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/429724255",
+      "properties": {
+        "@id": "node/429724255",
+        "name": "Monte Grappa",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6361567,
+          45.0753974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/430167591",
+      "properties": {
+        "@id": "node/430167591",
+        "name": "Monte Grappa",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6360192,
+          45.0751242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/442641053",
+      "properties": {
+        "@id": "node/442641053",
+        "name": "Bernini",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6553078,
+          45.0763116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/442641055",
+      "properties": {
+        "@id": "node/442641055",
+        "name": "Bernini",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6554737,
+          45.0756796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/946525616",
+      "properties": {
+        "@id": "node/946525616",
+        "name": "Rivoli",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6443423,
+          45.0758014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/946525620",
+      "properties": {
+        "@id": "node/946525620",
+        "name": "Massaua",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6203139,
+          45.0742358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/946525643",
+      "properties": {
+        "@id": "node/946525643",
+        "name": "Rivoli",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6446657,
+          45.0752579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/957916124",
+      "properties": {
+        "@id": "node/957916124",
+        "name": "Rivoli",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6445375,
+          45.0753553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/957923307",
+      "properties": {
+        "@id": "node/957923307",
+        "name": "Principi D'Acaja",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6641175,
+          45.0761546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/957923318",
+      "properties": {
+        "@id": "node/957923318",
+        "name": "Principi D'Acaja",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6641595,
+          45.0765463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/957923319",
+      "properties": {
+        "@id": "node/957923319",
+        "name": "Principi D'Acaja",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6640139,
+          45.0762635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/957923325",
+      "properties": {
+        "@id": "node/957923325",
+        "name": "Bernini",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6551839,
+          45.0760977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/957923361",
+      "properties": {
+        "@id": "node/957923361",
+        "name": "Principi D'Acaja",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6637724,
+          45.0765356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1026285948",
+      "properties": {
+        "@id": "node/1026285948",
+        "name": "XVIII Dicembre",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.667789,
+          45.074027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1026285950",
+      "properties": {
+        "@id": "node/1026285950",
+        "name": "XVIII Dicembre",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6685212,
+          45.0739311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1026285955",
+      "properties": {
+        "@id": "node/1026285955",
+        "name": "XVIII Dicembre",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6684714,
+          45.0737746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1026285957",
+      "properties": {
+        "@id": "node/1026285957",
+        "name": "XVIII Dicembre",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6679438,
+          45.074156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1213993797",
+      "properties": {
+        "@id": "node/1213993797",
+        "bicycle": "yes",
+        "highway": "elevator",
+        "name": "Lingotto",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6666754,
+          45.0313384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1213993844",
+      "properties": {
+        "@id": "node/1213993844",
+        "bicycle": "no",
+        "name": "Lingotto",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6669777,
+          45.0310483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1213993854",
+      "properties": {
+        "@id": "node/1213993854",
+        "bicycle": "no",
+        "name": "Lingotto",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6665227,
+          45.031075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1213993997",
+      "properties": {
+        "@id": "node/1213993997",
+        "bicycle": "yes",
+        "highway": "elevator",
+        "name": "Dante",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6731084,
+          45.0469585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1213994014",
+      "properties": {
+        "@id": "node/1213994014",
+        "bicycle": "no",
+        "name": "Dante",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6731669,
+          45.0471868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1213994125",
+      "properties": {
+        "@id": "node/1213994125",
+        "bicycle": "no",
+        "name": "Dante",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.672843,
+          45.0472537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1262284319",
+      "properties": {
+        "@id": "node/1262284319",
+        "name": "Porta Nuova FS",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6788293,
+          45.06319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1262284345",
+      "properties": {
+        "@id": "node/1262284345",
+        "name": "Porta Nuova FS",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6791748,
+          45.0629889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1262284353",
+      "properties": {
+        "@id": "node/1262284353",
+        "name": "Porta Nuova FS",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6795062,
+          45.0629639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1262284354",
+      "properties": {
+        "@id": "node/1262284354",
+        "name": "Porta Nuova FS",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6790672,
+          45.0630259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1367855907",
+      "properties": {
+        "@id": "node/1367855907",
+        "name": "Porta Susa A",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6638544,
+          45.0705256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1367855909",
+      "properties": {
+        "@id": "node/1367855909",
+        "highway": "elevator",
+        "name": "Porta Susa A",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6639505,
+          45.0706623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1367855910",
+      "properties": {
+        "@id": "node/1367855910",
+        "name": "Porta Susa A",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6640494,
+          45.0708029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1367855911",
+      "properties": {
+        "@id": "node/1367855911",
+        "name": "Porta Susa B",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6643731,
+          45.071251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1367855914",
+      "properties": {
+        "@id": "node/1367855914",
+        "name": "Porta Susa C",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6650713,
+          45.072244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1367855920",
+      "properties": {
+        "@id": "node/1367855920",
+        "name": "Porta Susa D",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6656611,
+          45.0730828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1367855921",
+      "properties": {
+        "@id": "node/1367855921",
+        "highway": "elevator",
+        "name": "Porta Susa D",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6657573,
+          45.0732195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1367855922",
+      "properties": {
+        "@id": "node/1367855922",
+        "name": "Porta Susa D",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6658561,
+          45.0733601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1481306354",
+      "properties": {
+        "@id": "node/1481306354",
+        "name": "Fermi",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5909512,
+          45.075949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1481306366",
+      "properties": {
+        "@id": "node/1481306366",
+        "name": "Fermi",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5910529,
+          45.0761702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1484955755",
+      "properties": {
+        "@id": "node/1484955755",
+        "name": "Marche",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6143549,
+          45.0740329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1484955756",
+      "properties": {
+        "@id": "node/1484955756",
+        "name": "Marche",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6141769,
+          45.0745509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1484955757",
+      "properties": {
+        "@id": "node/1484955757",
+        "name": "Marche",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6142214,
+          45.0746763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1484955758",
+      "properties": {
+        "@id": "node/1484955758",
+        "name": "Massaua",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6203872,
+          45.0743579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1484955759",
+      "properties": {
+        "@id": "node/1484955759",
+        "name": "Monte Grappa",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6361952,
+          45.0751213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1484955760",
+      "properties": {
+        "@id": "node/1484955760",
+        "name": "Paradiso",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6018758,
+          45.0735846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1484955761",
+      "properties": {
+        "@id": "node/1484955761",
+        "name": "Paradiso",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6019496,
+          45.0740707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1484955762",
+      "properties": {
+        "@id": "node/1484955762",
+        "name": "Paradiso",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6021194,
+          45.0741058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1484955763",
+      "properties": {
+        "@id": "node/1484955763",
+        "name": "Pozzo Strada",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6292636,
+          45.0748533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1484955764",
+      "properties": {
+        "@id": "node/1484955764",
+        "name": "Pozzo Strada",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6293344,
+          45.0750578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1484955765",
+      "properties": {
+        "@id": "node/1484955765",
+        "name": "Pozzo Strada",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6295807,
+          45.0750646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1484955766",
+      "properties": {
+        "@id": "node/1484955766",
+        "name": "Racconigi",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6490054,
+          45.075539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1484955767",
+      "properties": {
+        "@id": "node/1484955767",
+        "name": "Racconigi",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6489917,
+          45.0756378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1484955768",
+      "properties": {
+        "@id": "node/1484955768",
+        "name": "Racconigi",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6491342,
+          45.0759282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1621378600",
+      "properties": {
+        "@id": "node/1621378600",
+        "highway": "elevator",
+        "name": "Carducci",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6715159,
+          45.0420901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1621378601",
+      "properties": {
+        "@id": "node/1621378601",
+        "name": "Carducci",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6716037,
+          45.0422806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1621378602",
+      "properties": {
+        "@id": "node/1621378602",
+        "name": "Carducci",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6706847,
+          45.0424632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1622042886",
+      "properties": {
+        "@id": "node/1622042886",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6773047,
+          45.0572087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1622042919",
+      "properties": {
+        "@id": "node/1622042919",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6769231,
+          45.0575906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1839686581",
+      "properties": {
+        "@id": "node/1839686581",
+        "entrance": "yes",
+        "name": "Porta Susa A",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6651476,
+          45.070241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2299299617",
+      "properties": {
+        "@id": "node/2299299617",
+        "entrance": "yes",
+        "name": "Porta Susa B",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6656599,
+          45.0709647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2299299618",
+      "properties": {
+        "@id": "node/2299299618",
+        "entrance": "main",
+        "name": "Porta Susa C",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6663675,
+          45.0719535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2617655139",
+      "properties": {
+        "@id": "node/2617655139",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6708934,
+          45.0422482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3253332072",
+      "properties": {
+        "@id": "node/3253332072",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6749954,
+          45.0518342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3253332073",
+      "properties": {
+        "@id": "node/3253332073",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6745896,
+          45.0519092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3283630305",
+      "properties": {
+        "@id": "node/3283630305",
+        "entrance": "main",
+        "name": "Porta Susa D",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6669572,
+          45.0727947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3283904468",
+      "properties": {
+        "@id": "node/3283904468",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6771526,
+          45.0572955
+        ]
+      }
+    }
+  ]
+}
