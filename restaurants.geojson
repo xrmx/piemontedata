@@ -1952,29 +1952,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/539818115",
-      "properties": {
-        "@id": "node/539818115",
-        "amenity": "restaurant",
-        "cuisine": "regional",
-        "name": "Le Nivernais",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour :2009",
-        "@timestamp": "2009-10-24T22:01:20Z",
-        "@version": "1",
-        "@changeset": "2941901",
-        "@user": "chimel38",
-        "@uid": "148831"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.7862319,
-          45.1114035
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/559589418",
       "properties": {
         "@id": "node/559589418",
@@ -3158,27 +3135,6 @@
         "coordinates": [
           8.539078,
           45.8842848
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/761469936",
-      "properties": {
-        "@id": "node/761469936",
-        "amenity": "restaurant",
-        "cuisine": "regional",
-        "@timestamp": "2010-06-01T17:31:30Z",
-        "@version": "1",
-        "@changeset": "4876576",
-        "@user": "PhQ",
-        "@uid": "141978"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.0168939,
-          45.1109948
         ]
       }
     },
@@ -13943,30 +13899,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/1866947352",
-      "properties": {
-        "@id": "node/1866947352",
-        "addr:postcode": "38800",
-        "addr:street": "Rue Bourg",
-        "amenity": "restaurant",
-        "cuisine": "french",
-        "name": "L'Etable",
-        "@timestamp": "2012-08-15T08:14:21Z",
-        "@version": "1",
-        "@changeset": "12735515",
-        "@user": "PhiFORT",
-        "@uid": "806833"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.7288808,
-          45.1114185
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/1870260848",
       "properties": {
         "@id": "node/1870260848",
@@ -23215,28 +23147,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/2438838107",
-      "properties": {
-        "@id": "node/2438838107",
-        "amenity": "restaurant",
-        "name": "Café Restaurant du Pont des Vannes",
-        "source": "my survey + cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour :2012",
-        "@timestamp": "2013-09-01T15:51:41Z",
-        "@version": "2",
-        "@changeset": "17620966",
-        "@user": "chimel38",
-        "@uid": "148831"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.7084639,
-          45.1108403
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/2441565346",
       "properties": {
         "@id": "node/2441565346",
@@ -25594,49 +25504,6 @@
         "coordinates": [
           7.6275102,
           45.1347263
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/2627812611",
-      "properties": {
-        "@id": "node/2627812611",
-        "amenity": "restaurant",
-        "@timestamp": "2014-01-19T00:20:32Z",
-        "@version": "1",
-        "@changeset": "20077203",
-        "@user": "Chapouil",
-        "@uid": "1890831"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.8676662,
-          45.1115603
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/2627812653",
-      "properties": {
-        "@id": "node/2627812653",
-        "amenity": "restaurant",
-        "capacity": "50",
-        "cuisine": "creperie",
-        "name": "Chez Laurette",
-        "@timestamp": "2014-04-22T20:18:57Z",
-        "@version": "2",
-        "@changeset": "21871823",
-        "@user": "NicolasDumoulin",
-        "@uid": "143932"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.8691427,
-          45.1115688
         ]
       }
     },
@@ -31860,28 +31727,6 @@
         "coordinates": [
           7.8856062,
           44.2840706
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3107760896",
-      "properties": {
-        "@id": "node/3107760896",
-        "amenity": "restaurant",
-        "cuisine": "regional",
-        "name": "Le Perce Neige",
-        "@timestamp": "2014-10-02T18:37:56Z",
-        "@version": "1",
-        "@changeset": "25816794",
-        "@user": "Francois LONGIN",
-        "@uid": "2373908"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.078105,
-          45.1139234
         ]
       }
     },
