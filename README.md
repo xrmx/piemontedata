@@ -2,6 +2,7 @@
 A collection of geojson files containing amenities found in Piemonte.
 
 - architecturalheritage.geojson: architectural heritage as collected here http://www.dati.piemonte.it/catalogodati/dato/100440-.html
+- barcafeicecream.geojson: Bars, cafes and ice cream shops from openstreetmap (ODbL)
 - bikesharing.geojson: bike sharing stations as collected by the excellent http://citybik.es/ project
 - cinema.geojson: cinemas from openstreetmap (ODbL)
 - libraries.geojson: libraries from openstreetmap (ODbL)
