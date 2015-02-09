@@ -9,6 +9,7 @@ A collection of geojson files containing amenities found in Piemonte.
 - metro.geojson: metro stations from openstreetmap (ODbL)
 - pharmacies.geojson: pharmacies from openstreetmap (ODbL)
 - postoffices.geojson: post offices from openstreetmap (ODbL)
+- swimming_pools.geojson: swimming pools from openstreetmap (ODbL)
 - theatre.geojson: theaters from openstreetmap (ODbL)
 
 License
