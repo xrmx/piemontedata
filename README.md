@@ -6,6 +6,7 @@ A collection of geojson files containing amenities found in Piemonte.
 - cinema.geojson: cinemas from openstreetmap (ODbL)
 - museums.geojson: museums as collected here http://www.dati.piemonte.it/catalogodati/dato/100439-.html
 - metro.geojson: metro stations from openstreetmap (ODbL)
+- pharmacies.geojson: pharmacies from openstreetmap (ODbL)
 - postoffices.geojson: post offices from openstreetmap (ODbL)
 - theatre.geojson: theaters from openstreetmap (ODbL)
 
