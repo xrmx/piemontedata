@@ -1,0 +1,1891 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-02-09T22:07:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/172448680",
+      "properties": {
+        "@id": "way/172448680",
+        "highway": "track",
+        "surface": "ground",
+        "@timestamp": "2014-06-29T09:32:06Z",
+        "@version": "4",
+        "@changeset": "23265690",
+        "@user": "gianfox",
+        "@uid": "1753173",
+        "@tainted": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.899428,
+            45.4501181
+          ],
+          [
+            7.899428,
+            45.4501181
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/266820349",
+      "properties": {
+        "@id": "way/266820349",
+        "building": "industrial",
+        "@timestamp": "2014-08-07T16:22:31Z",
+        "@version": "3",
+        "@changeset": "24599224",
+        "@user": "Martj9",
+        "@uid": "675302",
+        "@tainted": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.0577708,
+            45.137487
+          ],
+          [
+            7.0577958,
+            45.1374817
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/270654558",
+      "properties": {
+        "@id": "node/270654558",
+        "leisure": "sports_centre",
+        "name": "Sferisterio Comunale \"Cesare Porro\"",
+        "sport": "pallone_elastico",
+        "@timestamp": "2011-06-13T10:36:52Z",
+        "@version": "2",
+        "@changeset": "8424319",
+        "@user": "wiselynx",
+        "@uid": "26333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3941339,
+          45.0119725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/360880197",
+      "properties": {
+        "@id": "node/360880197",
+        "leisure": "sports_centre",
+        "sport": "soccer",
+        "@timestamp": "2014-10-14T11:35:16Z",
+        "@version": "2",
+        "@changeset": "26069936",
+        "@user": "sbiribizio",
+        "@uid": "354284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7009243,
+          44.6989483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/380312706",
+      "properties": {
+        "@id": "node/380312706",
+        "leisure": "sports_centre",
+        "name": "Alba Marina",
+        "sport": "tennis",
+        "@timestamp": "2009-04-22T08:15:23Z",
+        "@version": "1",
+        "@changeset": "893925",
+        "@user": "warrippo",
+        "@uid": "108514"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1492659,
+          45.5571021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/459483175",
+      "properties": {
+        "@id": "node/459483175",
+        "leisure": "sports_centre",
+        "sport": "canoe",
+        "@timestamp": "2009-08-09T09:41:46Z",
+        "@version": "1",
+        "@changeset": "2082669",
+        "@user": "fahrradfahrer",
+        "@uid": "71312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4106205,
+          45.8730428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/513150866",
+      "properties": {
+        "@id": "node/513150866",
+        "leisure": "sports_centre",
+        "name": "Campo Sportivo \"Cogliatti\"",
+        "sport": "soccer",
+        "@timestamp": "2014-09-26T15:03:33Z",
+        "@version": "2",
+        "@changeset": "25688063",
+        "@user": "Pab09",
+        "@uid": "178610"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7073931,
+          45.3791737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/513150869",
+      "properties": {
+        "@id": "node/513150869",
+        "leisure": "sports_centre",
+        "name": "Campo Sportivo Baseball & Softball",
+        "sport": "baseball",
+        "@timestamp": "2009-09-29T09:10:21Z",
+        "@version": "1",
+        "@changeset": "2674161",
+        "@user": "killer86",
+        "@uid": "168544"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.706717,
+          45.3795971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/563313695",
+      "properties": {
+        "@id": "node/563313695",
+        "leisure": "sports_centre",
+        "@timestamp": "2010-05-13T16:24:24Z",
+        "@version": "3",
+        "@changeset": "4687761",
+        "@user": "luca lanteri",
+        "@uid": "196796"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7839221,
+          44.9686455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/611625593",
+      "properties": {
+        "@id": "node/611625593",
+        "leisure": "sports_centre",
+        "name": "Palestra Vital",
+        "sport": "multi",
+        "@timestamp": "2010-01-11T11:44:31Z",
+        "@version": "1",
+        "@changeset": "3595199",
+        "@user": "andrea simonassi",
+        "@uid": "182791"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6508353,
+          44.6446002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/727050139",
+      "properties": {
+        "@id": "node/727050139",
+        "leisure": "sports_centre",
+        "@timestamp": "2010-05-09T06:39:00Z",
+        "@version": "1",
+        "@changeset": "4645045",
+        "@user": "luca lanteri",
+        "@uid": "196796"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7790426,
+          44.9693563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/872061781",
+      "properties": {
+        "@id": "node/872061781",
+        "leisure": "sports_centre",
+        "name": "FC Juventus",
+        "sport": "soccer",
+        "@timestamp": "2012-10-14T15:05:08Z",
+        "@version": "5",
+        "@changeset": "13493947",
+        "@user": "Ken Hayabusa",
+        "@uid": "153293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6151806,
+          44.9779934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/919790858",
+      "properties": {
+        "@id": "node/919790858",
+        "leisure": "sports_centre",
+        "@timestamp": "2010-09-20T20:27:00Z",
+        "@version": "1",
+        "@changeset": "5832608",
+        "@user": "noperante",
+        "@uid": "68842"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.979286,
+          45.560981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/919791156",
+      "properties": {
+        "@id": "node/919791156",
+        "leisure": "sports_centre",
+        "name": "Bonvalle",
+        "@timestamp": "2010-09-20T20:27:09Z",
+        "@version": "1",
+        "@changeset": "5832608",
+        "@user": "noperante",
+        "@uid": "68842"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0141007,
+          45.5623202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1227864658",
+      "properties": {
+        "@id": "node/1227864658",
+        "leisure": "sports_centre",
+        "name": "Centro Polivalente",
+        "@timestamp": "2011-04-20T12:15:45Z",
+        "@version": "3",
+        "@changeset": "7915503",
+        "@user": "giusdi",
+        "@uid": "285264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2289609,
+          45.108999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1234119373",
+      "properties": {
+        "@id": "node/1234119373",
+        "leisure": "sports_centre",
+        "name": "campo sportivo",
+        "@timestamp": "2011-07-03T18:44:53Z",
+        "@version": "2",
+        "@changeset": "8622380",
+        "@user": "venerdi",
+        "@uid": "196617"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1329412,
+          45.1396537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1244289266",
+      "properties": {
+        "@id": "node/1244289266",
+        "leisure": "sports_centre",
+        "name": "Dojo Miura",
+        "@timestamp": "2011-04-14T12:05:08Z",
+        "@version": "1",
+        "@changeset": "7860226",
+        "@user": "wiselynx",
+        "@uid": "26333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6893196,
+          45.0819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1305268707",
+      "properties": {
+        "@id": "node/1305268707",
+        "leisure": "sports_centre",
+        "name": "Centro Sportivo Regione \"Miclet\"",
+        "@timestamp": "2012-01-06T11:53:26Z",
+        "@version": "2",
+        "@changeset": "10310596",
+        "@user": "dan1981",
+        "@uid": "580224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6051511,
+          44.32632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1311611036",
+      "properties": {
+        "@id": "node/1311611036",
+        "leisure": "sports_centre",
+        "name": "Campo Sportivo San Carlo",
+        "@timestamp": "2011-06-04T09:01:18Z",
+        "@version": "1",
+        "@changeset": "8337205",
+        "@user": "Grillus",
+        "@uid": "32418"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5212158,
+          45.0900619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1334926586",
+      "properties": {
+        "@id": "node/1334926586",
+        "leisure": "sports_centre",
+        "name": "Palazetto dello Sport",
+        "@timestamp": "2011-06-22T21:00:38Z",
+        "@version": "1",
+        "@changeset": "8518310",
+        "@user": "giusdi",
+        "@uid": "285264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2712298,
+          45.1055227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1356955435",
+      "properties": {
+        "@id": "node/1356955435",
+        "leisure": "sports_centre",
+        "@timestamp": "2011-07-10T18:46:41Z",
+        "@version": "1",
+        "@changeset": "8687032",
+        "@user": "Gautama",
+        "@uid": "67289"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5522623,
+          44.3863974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1391573399",
+      "properties": {
+        "@id": "node/1391573399",
+        "leisure": "sports_centre",
+        "name": "Palazzetto Sport Comunale",
+        "sport": "volleyball",
+        "@timestamp": "2012-03-03T18:02:31Z",
+        "@version": "2",
+        "@changeset": "10860453",
+        "@user": "Gigi",
+        "@uid": "33286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6736354,
+          44.3266348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1391573408",
+      "properties": {
+        "@id": "node/1391573408",
+        "leisure": "sports_centre",
+        "name": "Campo Calcio Comunale",
+        "@timestamp": "2012-12-17T01:14:17Z",
+        "@version": "2",
+        "@changeset": "14301052",
+        "@user": "Botaler",
+        "@uid": "492756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6737004,
+          44.3271881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1446133005",
+      "properties": {
+        "@id": "node/1446133005",
+        "addr:city": "Torino",
+        "addr:country": "IT",
+        "addr:housenumber": "14",
+        "addr:postcode": "10139",
+        "addr:street": "Via Oulx",
+        "email": "info@lacasadelfitness.it",
+        "leisure": "sports_centre",
+        "name": "La casa del fitness",
+        "phone": "+39 011 7732866",
+        "website": "http://www.lacasadelfitness.it/",
+        "@timestamp": "2011-11-02T13:07:17Z",
+        "@version": "3",
+        "@changeset": "9721820",
+        "@user": "glaucos",
+        "@uid": "113023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6363709,
+          45.0728565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1447900656",
+      "properties": {
+        "@id": "node/1447900656",
+        "leisure": "sports_centre",
+        "name": "Golemme",
+        "@timestamp": "2011-09-28T09:57:12Z",
+        "@version": "1",
+        "@changeset": "9417631",
+        "@user": "Enrico Ponassi",
+        "@uid": "286756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.644743,
+          44.3657003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1482176554",
+      "properties": {
+        "@id": "node/1482176554",
+        "leisure": "sports_centre",
+        "@timestamp": "2011-10-27T10:00:56Z",
+        "@version": "1",
+        "@changeset": "9666474",
+        "@user": "Gianpiero Oliva",
+        "@uid": "535765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5564077,
+          44.6243503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1593874878",
+      "properties": {
+        "@id": "node/1593874878",
+        "leisure": "sports_centre",
+        "name": "Palestra Bistolfi",
+        "sport": "gymnastics",
+        "@timestamp": "2012-01-25T14:09:31Z",
+        "@version": "2",
+        "@changeset": "10493957",
+        "@user": "sbiribizio",
+        "@uid": "354284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4562324,
+          45.1344562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1636821212",
+      "properties": {
+        "@id": "node/1636821212",
+        "addr:postcode": "15010",
+        "addr:street": "Piazza Fornace",
+        "leisure": "sports_centre",
+        "name": "Circolo sportivo la Fornace",
+        "sport": "soccer",
+        "@timestamp": "2014-04-03T04:55:17Z",
+        "@version": "7",
+        "@changeset": "21469767",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3543917,
+          44.6011404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1739742893",
+      "properties": {
+        "@id": "node/1739742893",
+        "leisure": "sports_centre",
+        "@timestamp": "2012-05-03T21:10:51Z",
+        "@version": "1",
+        "@changeset": "11492880",
+        "@user": "Tatola_Aly92",
+        "@uid": "673366"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8351431,
+          45.0160404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1739790647",
+      "properties": {
+        "@id": "node/1739790647",
+        "leisure": "sports_centre",
+        "@timestamp": "2012-05-03T22:03:34Z",
+        "@version": "1",
+        "@changeset": "11492880",
+        "@user": "Tatola_Aly92",
+        "@uid": "673366"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8593286,
+          45.0405344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1745956050",
+      "properties": {
+        "@id": "node/1745956050",
+        "building": "public",
+        "leisure": "sports_centre",
+        "name": "Palextra Fitness Club",
+        "sport": "gymnastics",
+        "@timestamp": "2013-01-02T11:41:38Z",
+        "@version": "3",
+        "@changeset": "14498261",
+        "@user": "trk",
+        "@uid": "673195"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6290169,
+          45.707513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1760872597",
+      "properties": {
+        "@id": "node/1760872597",
+        "leisure": "sports_centre",
+        "@timestamp": "2012-05-21T13:25:21Z",
+        "@version": "1",
+        "@changeset": "11660893",
+        "@user": "PGG",
+        "@uid": "683889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3902564,
+          45.3134719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1760948199",
+      "properties": {
+        "@id": "node/1760948199",
+        "leisure": "sports_centre",
+        "@timestamp": "2012-05-21T14:27:16Z",
+        "@version": "1",
+        "@changeset": "11662409",
+        "@user": "PGG",
+        "@uid": "683889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3044518,
+          45.3145231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1792521811",
+      "properties": {
+        "@id": "node/1792521811",
+        "leisure": "sports_centre",
+        "name": "Palestra di Viguzzolo",
+        "@timestamp": "2012-06-17T23:08:51Z",
+        "@version": "1",
+        "@changeset": "11931089",
+        "@user": "pixell",
+        "@uid": "446670"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9263621,
+          44.9045751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1822955671",
+      "properties": {
+        "@id": "node/1822955671",
+        "addr:city": "Torino",
+        "addr:housenumber": "91",
+        "addr:street": "Strada Del Meisino",
+        "leisure": "sports_centre",
+        "name": "Centro Ippico Meisino",
+        "sport": "equestrian",
+        "@timestamp": "2013-12-05T16:45:37Z",
+        "@version": "2",
+        "@changeset": "19292459",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.733783,
+          45.0892166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1833546675",
+      "properties": {
+        "@id": "node/1833546675",
+        "leisure": "sports_centre",
+        "name": "Legio Canavesana SoftAir",
+        "sport": "shooting",
+        "@timestamp": "2014-01-14T00:35:25Z",
+        "@version": "2",
+        "@changeset": "19982549",
+        "@user": "Dufour85",
+        "@uid": "822180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.899428,
+          45.4501181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1847419733",
+      "properties": {
+        "@id": "node/1847419733",
+        "leisure": "sports_centre",
+        "name": "Sferisterio comunale",
+        "sport": "pallapugno",
+        "@timestamp": "2013-09-03T14:06:15Z",
+        "@version": "2",
+        "@changeset": "17654670",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5436161,
+          44.3892823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1855980517",
+      "properties": {
+        "@id": "node/1855980517",
+        "building": "church",
+        "leisure": "sports_centre",
+        "name": "Oratorio San Bartolomeo",
+        "sport": "soccer",
+        "@timestamp": "2013-04-07T14:32:40Z",
+        "@version": "2",
+        "@changeset": "15641168",
+        "@user": "Dardy",
+        "@uid": "1096195"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5051006,
+          45.0702836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1874475303",
+      "properties": {
+        "@id": "node/1874475303",
+        "leisure": "sports_centre",
+        "name": "Pista di pattinaggio (mesi invernali)",
+        "@timestamp": "2012-08-20T13:51:14Z",
+        "@version": "1",
+        "@changeset": "12796370",
+        "@user": "gpalosm",
+        "@uid": "618341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6100554,
+          44.90845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1874475306",
+      "properties": {
+        "@id": "node/1874475306",
+        "leisure": "sports_centre",
+        "name": "Giardini Pubblici",
+        "@timestamp": "2012-08-20T13:51:14Z",
+        "@version": "1",
+        "@changeset": "12796370",
+        "@user": "gpalosm",
+        "@uid": "618341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6096641,
+          44.9082332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1882894035",
+      "properties": {
+        "@id": "node/1882894035",
+        "leisure": "sports_centre",
+        "@timestamp": "2012-08-25T18:18:40Z",
+        "@version": "1",
+        "@changeset": "12858480",
+        "@user": "Malbi",
+        "@uid": "437261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7290273,
+          44.5620268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1891101073",
+      "properties": {
+        "@id": "node/1891101073",
+        "leisure": "sports_centre",
+        "@timestamp": "2012-08-31T07:26:48Z",
+        "@version": "1",
+        "@changeset": "12927207",
+        "@user": "eIrOcA",
+        "@uid": "847391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9640484,
+          45.2440827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1891616522",
+      "properties": {
+        "@id": "node/1891616522",
+        "leisure": "sports_centre",
+        "name": "Ego Palestre",
+        "@timestamp": "2012-08-31T14:27:35Z",
+        "@version": "1",
+        "@changeset": "12931695",
+        "@user": "emmanuelecois",
+        "@uid": "574286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6159111,
+          44.9159917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1908107094",
+      "properties": {
+        "@id": "node/1908107094",
+        "leisure": "sports_centre",
+        "@timestamp": "2012-09-10T09:38:52Z",
+        "@version": "1",
+        "@changeset": "13053234",
+        "@user": "Biker_to",
+        "@uid": "871966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6622483,
+          45.1513844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1933622598",
+      "properties": {
+        "@id": "node/1933622598",
+        "leisure": "sports_centre",
+        "@timestamp": "2012-09-26T12:13:35Z",
+        "@version": "1",
+        "@changeset": "13258576",
+        "@user": "Biker_to",
+        "@uid": "871966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6537292,
+          45.1469454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1933720853",
+      "properties": {
+        "@id": "node/1933720853",
+        "leisure": "sports_centre",
+        "name": "Centro Sportivo Le Spine",
+        "@timestamp": "2012-09-26T13:44:14Z",
+        "@version": "1",
+        "@changeset": "13259806",
+        "@user": "Biker_to",
+        "@uid": "871966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6000144,
+          45.2199452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1941588781",
+      "properties": {
+        "@id": "node/1941588781",
+        "leisure": "sports_centre",
+        "name": "Villa Plinia",
+        "sport": "soccer",
+        "@timestamp": "2012-10-01T15:53:45Z",
+        "@version": "1",
+        "@changeset": "13323498",
+        "@user": "gian957",
+        "@uid": "937618"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9661452,
+          45.0326924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1941606242",
+      "properties": {
+        "@id": "node/1941606242",
+        "leisure": "sports_centre",
+        "@timestamp": "2012-10-01T16:18:11Z",
+        "@version": "1",
+        "@changeset": "13324137",
+        "@user": "gian957",
+        "@uid": "937618"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9384342,
+          45.0098318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1984095830",
+      "properties": {
+        "@id": "node/1984095830",
+        "addr:street": "Via San Genesio",
+        "leisure": "sports_centre",
+        "name": "Campo Sportivo",
+        "sport": "soccer",
+        "@timestamp": "2012-10-26T09:48:35Z",
+        "@version": "1",
+        "@changeset": "13636093",
+        "@user": "RobiB",
+        "@uid": "1006283"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1881681,
+          44.9620525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1987792357",
+      "properties": {
+        "@id": "node/1987792357",
+        "addr:city": "Ivrea",
+        "addr:country": "IT",
+        "addr:housenumber": "12",
+        "addr:postcode": "10015",
+        "addr:street": "Via di Vittorio",
+        "email": "info@centroperforma.com",
+        "fax": "+39 0125 627338",
+        "leisure": "sports_centre",
+        "name": "Performa Fitness Center",
+        "phone": "+39 0125 627338",
+        "sport": "gymnastics",
+        "website": "http://www.centroperforma.com",
+        "@timestamp": "2013-01-05T13:46:42Z",
+        "@version": "2",
+        "@changeset": "14536934",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8726119,
+          45.4602007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2001198017",
+      "properties": {
+        "@id": "node/2001198017",
+        "leisure": "sports_centre",
+        "name": "Palestra Planet Body",
+        "@timestamp": "2012-11-07T12:36:57Z",
+        "@version": "1",
+        "@changeset": "13784765",
+        "@user": "nuvolabianca",
+        "@uid": "439413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4343227,
+          45.3148159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2009599359",
+      "properties": {
+        "@id": "node/2009599359",
+        "leisure": "sports_centre",
+        "name": "Palestra Ibis",
+        "@timestamp": "2012-11-11T21:23:57Z",
+        "@version": "1",
+        "@changeset": "13839719",
+        "@user": "fcfc",
+        "@uid": "968639"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7220557,
+          45.3326676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2017026361",
+      "properties": {
+        "@id": "node/2017026361",
+        "leisure": "sports_centre",
+        "@timestamp": "2012-11-16T19:50:01Z",
+        "@version": "1",
+        "@changeset": "13898190",
+        "@user": "nuvolabianca",
+        "@uid": "439413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9354273,
+          45.3415765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2026328616",
+      "properties": {
+        "@id": "node/2026328616",
+        "layer": "1",
+        "leisure": "sports_centre",
+        "name": "Gym Tonic",
+        "@timestamp": "2013-01-03T05:36:15Z",
+        "@version": "2",
+        "@changeset": "14508352",
+        "@user": "mdk",
+        "@uid": "178186"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7400175,
+          45.3122468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2036115174",
+      "properties": {
+        "@id": "node/2036115174",
+        "leisure": "sports_centre",
+        "@timestamp": "2012-11-27T10:16:27Z",
+        "@version": "1",
+        "@changeset": "14056862",
+        "@user": "Maji",
+        "@uid": "821171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6076348,
+          45.4459917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2086966479",
+      "properties": {
+        "@id": "node/2086966479",
+        "leisure": "sports_centre",
+        "@timestamp": "2012-12-29T10:40:46Z",
+        "@version": "1",
+        "@changeset": "14448495",
+        "@user": "iluca72",
+        "@uid": "923593"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.120935,
+          45.1636197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2087451237",
+      "properties": {
+        "@id": "node/2087451237",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "Cycling Team Verrua",
+        "phone": "+39 347 7930116",
+        "website": "http://www.cyclingteamverrua.com",
+        "@timestamp": "2013-11-08T14:49:36Z",
+        "@version": "3",
+        "@changeset": "18783398",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0959582,
+          45.1604424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2097331599",
+      "properties": {
+        "@id": "node/2097331599",
+        "leisure": "sports_centre",
+        "@timestamp": "2013-01-05T23:50:44Z",
+        "@version": "1",
+        "@changeset": "14543437",
+        "@user": "adirricor",
+        "@uid": "245439"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6828612,
+          45.085704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2101178405",
+      "properties": {
+        "@id": "node/2101178405",
+        "leisure": "sports_centre",
+        "name": "Centro Sportivo",
+        "sport": "table_tennis",
+        "@timestamp": "2013-01-08T09:09:17Z",
+        "@version": "1",
+        "@changeset": "14572099",
+        "@user": "esserinoblazo",
+        "@uid": "1190903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0596096,
+          44.8331536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2116624954",
+      "properties": {
+        "@id": "node/2116624954",
+        "leisure": "sports_centre",
+        "name": "palestra",
+        "@timestamp": "2013-01-25T20:52:43Z",
+        "@version": "2",
+        "@changeset": "14785781",
+        "@user": "gatticom",
+        "@uid": "640339"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5196516,
+          45.709196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2124855450",
+      "properties": {
+        "@id": "node/2124855450",
+        "leisure": "sports_centre",
+        "sport": "boules",
+        "@timestamp": "2013-01-23T09:21:13Z",
+        "@version": "1",
+        "@changeset": "14754588",
+        "@user": "raccoss",
+        "@uid": "305159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5970408,
+          44.9986061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2168784137",
+      "properties": {
+        "@id": "node/2168784137",
+        "leisure": "sports_centre",
+        "@timestamp": "2013-02-23T12:55:21Z",
+        "@version": "1",
+        "@changeset": "15134817",
+        "@user": "Guidolux",
+        "@uid": "376941"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8724247,
+          44.5805752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174175008",
+      "properties": {
+        "@id": "node/2174175008",
+        "leisure": "sports_centre",
+        "@timestamp": "2013-02-25T23:08:57Z",
+        "@version": "1",
+        "@changeset": "15167935",
+        "@user": "paolo_sk",
+        "@uid": "1240776"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8166948,
+          45.0178946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2201414881",
+      "properties": {
+        "@id": "node/2201414881",
+        "leisure": "sports_centre",
+        "name": "Circolo Ippico La Robinia",
+        "sport": "equestrian",
+        "@timestamp": "2013-03-14T11:08:42Z",
+        "@version": "1",
+        "@changeset": "15360770",
+        "@user": "procuste",
+        "@uid": "1211315"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7258219,
+          45.492404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2276781533",
+      "properties": {
+        "@id": "node/2276781533",
+        "leisure": "sports_centre",
+        "sport": "multi",
+        "@timestamp": "2013-07-11T13:41:53Z",
+        "@version": "2",
+        "@changeset": "16913629",
+        "@user": "mcheckimport",
+        "@uid": "893327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9388876,
+          44.5314797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2373092596",
+      "properties": {
+        "@id": "node/2373092596",
+        "leisure": "sports_centre",
+        "@timestamp": "2013-07-04T09:39:55Z",
+        "@version": "1",
+        "@changeset": "16818937",
+        "@user": "robthebass",
+        "@uid": "1608369"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.707282,
+          44.9769839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2400682348",
+      "properties": {
+        "@id": "node/2400682348",
+        "leisure": "sports_centre",
+        "@timestamp": "2013-07-29T17:31:39Z",
+        "@version": "2",
+        "@changeset": "17142317",
+        "@user": "arcierelupo",
+        "@uid": "1691476"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5106894,
+          45.7009137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2411560496",
+      "properties": {
+        "@id": "node/2411560496",
+        "leisure": "sports_centre",
+        "name": "Bowling Queentouch",
+        "sport": "9pin",
+        "@timestamp": "2014-12-21T13:52:00Z",
+        "@version": "2",
+        "@changeset": "27609296",
+        "@user": "ToX",
+        "@uid": "360538"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5026487,
+          44.3474737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2446426176",
+      "properties": {
+        "@id": "node/2446426176",
+        "leisure": "sports_centre",
+        "@timestamp": "2013-10-18T15:48:53Z",
+        "@version": "2",
+        "@changeset": "18421913",
+        "@user": "tommym3it",
+        "@uid": "1418284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6964609,
+          45.4862514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2491199322",
+      "properties": {
+        "@id": "node/2491199322",
+        "addr:city": "Torino",
+        "addr:country": "IT",
+        "addr:housenumber": "12",
+        "addr:postcode": "10136",
+        "addr:street": "Via Guido Reni",
+        "contact:email": "info@europadanza.it",
+        "contact:phone": "+39 011 360262",
+        "contact:website": "http://www.europadanza.it/",
+        "leisure": "sports_centre",
+        "name": "EuropaDanza",
+        "sport": "multi",
+        "@timestamp": "2013-10-10T13:38:55Z",
+        "@version": "1",
+        "@changeset": "18281431",
+        "@user": "glaucos",
+        "@uid": "113023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62915,
+          45.0555553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2528078953",
+      "properties": {
+        "@id": "node/2528078953",
+        "leisure": "sports_centre",
+        "name": "Campo da Calcio",
+        "@timestamp": "2013-11-11T15:27:51Z",
+        "@version": "1",
+        "@changeset": "18835818",
+        "@user": "iz1xal",
+        "@uid": "1705689"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5447755,
+          45.3094261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2528424767",
+      "properties": {
+        "@id": "node/2528424767",
+        "leisure": "sports_centre",
+        "@timestamp": "2013-11-11T20:08:05Z",
+        "@version": "2",
+        "@changeset": "18843267",
+        "@user": "nuvolabianca",
+        "@uid": "439413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4614601,
+          45.228488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2532495638",
+      "properties": {
+        "@id": "node/2532495638",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "Campi da Calcetto e Tennis",
+        "sport": "tennis",
+        "@timestamp": "2013-11-14T18:14:04Z",
+        "@version": "1",
+        "@changeset": "18898410",
+        "@user": "iz1xal",
+        "@uid": "1705689"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5336769,
+          45.3108364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2598794858",
+      "properties": {
+        "@id": "node/2598794858",
+        "leisure": "sports_centre",
+        "name": "Ippica San Michele",
+        "@timestamp": "2013-12-28T20:25:28Z",
+        "@version": "1",
+        "@changeset": "19685789",
+        "@user": "Black Devil",
+        "@uid": "1856478"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3588231,
+          45.6736364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2598852892",
+      "properties": {
+        "@id": "node/2598852892",
+        "leisure": "sports_centre",
+        "name": "Maneggio",
+        "@timestamp": "2013-12-28T21:17:07Z",
+        "@version": "1",
+        "@changeset": "19686710",
+        "@user": "Black Devil",
+        "@uid": "1856478"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3157324,
+          45.6705177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2598865622",
+      "properties": {
+        "@id": "node/2598865622",
+        "leisure": "sports_centre",
+        "name": "Bowling - Sala giochi",
+        "sport": "10pin",
+        "@timestamp": "2014-01-01T15:40:22Z",
+        "@version": "2",
+        "@changeset": "19746967",
+        "@user": "Andrea Musuruane",
+        "@uid": "90379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3229281,
+          45.6719421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2622331449",
+      "properties": {
+        "@id": "node/2622331449",
+        "leisure": "sports_centre",
+        "name": "Palestra Comunale",
+        "@timestamp": "2014-01-14T16:44:27Z",
+        "@version": "2",
+        "@changeset": "19994772",
+        "@user": "Vincent60",
+        "@uid": "1882362"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3858374,
+          45.6306497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2628472415",
+      "properties": {
+        "@id": "node/2628472415",
+        "leisure": "sports_centre",
+        "name": "Palestra XXV Aprile",
+        "@timestamp": "2014-01-19T12:35:36Z",
+        "@version": "1",
+        "@changeset": "20083763",
+        "@user": "andrea torri",
+        "@uid": "1891654"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2493701,
+          45.8197127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2739520093",
+      "properties": {
+        "@id": "node/2739520093",
+        "leisure": "sports_centre",
+        "name": "Maneggio Castello di Tagliolo",
+        "sport": "equestrian",
+        "@timestamp": "2014-03-24T14:53:53Z",
+        "@version": "1",
+        "@changeset": "21286557",
+        "@user": "maner",
+        "@uid": "6083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6973189,
+          44.6469997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2928030469",
+      "properties": {
+        "@id": "node/2928030469",
+        "leisure": "sports_centre",
+        "name": "Fidia",
+        "@timestamp": "2014-06-22T19:39:09Z",
+        "@version": "1",
+        "@changeset": "23087592",
+        "@user": "diego92",
+        "@uid": "1726290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1949409,
+          44.9066111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2947373058",
+      "properties": {
+        "@id": "node/2947373058",
+        "addr:housenumber": "21",
+        "addr:street": "Via Ugo Foscolo",
+        "leisure": "sports_centre",
+        "name": "Sporting Club Volvera A.s.d.",
+        "@timestamp": "2014-07-04T09:15:37Z",
+        "@version": "1",
+        "@changeset": "23914819",
+        "@user": "aguiraf",
+        "@uid": "463366"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5102066,
+          44.9599404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2951341962",
+      "properties": {
+        "@id": "node/2951341962",
+        "leisure": "sports_centre",
+        "name": "Evolution",
+        "sport": "weightlifting",
+        "@timestamp": "2014-08-07T16:22:30Z",
+        "@version": "2",
+        "@changeset": "24599224",
+        "@user": "Martj9",
+        "@uid": "675302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0577708,
+          45.137487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2951516551",
+      "properties": {
+        "@id": "node/2951516551",
+        "leisure": "sports_centre",
+        "name": "Rock Climbing",
+        "sport": "climbing",
+        "@timestamp": "2014-07-06T21:35:18Z",
+        "@version": "1",
+        "@changeset": "23993521",
+        "@user": "Spratek",
+        "@uid": "1761343"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9373274,
+          45.8726405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2979816134",
+      "properties": {
+        "@id": "node/2979816134",
+        "leisure": "sports_centre",
+        "name": "Palestra VIP",
+        "sport": "gymnastics",
+        "@timestamp": "2014-07-28T18:24:30Z",
+        "@version": "2",
+        "@changeset": "24407776",
+        "@user": "Ciuppy",
+        "@uid": "2200997"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5356715,
+          45.1013081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3002980178",
+      "properties": {
+        "@id": "node/3002980178",
+        "leisure": "sports_centre",
+        "name": "Emozione Danza",
+        "@timestamp": "2014-08-07T16:22:30Z",
+        "@version": "1",
+        "@changeset": "24599224",
+        "@user": "Martj9",
+        "@uid": "675302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0577958,
+          45.1374817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3085386102",
+      "properties": {
+        "@id": "node/3085386102",
+        "leisure": "sports_centre",
+        "@timestamp": "2014-09-18T23:15:42Z",
+        "@version": "1",
+        "@changeset": "25531595",
+        "@user": "AL68",
+        "@uid": "1745073"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2785988,
+          46.080567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3332362719",
+      "properties": {
+        "@id": "node/3332362719",
+        "leisure": "sports_centre",
+        "name": "Health City",
+        "sport": "gymnastics",
+        "@timestamp": "2015-02-05T18:08:33Z",
+        "@version": "1",
+        "@changeset": "28635759",
+        "@user": "invisigot",
+        "@uid": "1848295"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6758964,
+          45.0551146
+        ]
+      }
+    }
+  ]
+}
